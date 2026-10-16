@@ -1,5 +1,4 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
-1546445	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Media (G. De E.)	Religión	I.P.E.C. Maria Pacheco	7	19/10/2026	11/12/2026	16/10/26, 11:43 a. m.
 1551361	Direc. Regional Educacion Alajuela	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Luis Felipe Gonzalez Flores	0	02/11/2026	11/12/2026	16/10/26, 3:10 p. m.
 1548790	Direc. Regional Educacion Coto	Profesor De Enseñanza Media (G. De E.)	Ciencias	C.T.P. De Puerto Jimenez	44	19/10/2026	11/12/2026	16/10/26, 11:43 a. m.
 1551606	Direc. Regional Educacion Coto	Conserje De Centro Educativo	Sin Especialidad T-I	San Antonio (Sabalito)	0	20/10/2026	31/01/2031	16/10/26, 3:10 p. m.
@@ -7,5 +6,3 @@
 1551451	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Música/Música	C.T.P. De Guacimo	18	20/10/2026	13/12/2026	16/10/26, 11:43 a. m.
 1551551	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Música/Música	Colegio Academico De Guacimo	26	20/10/2026	13/12/2026	16/10/26, 11:43 a. m.
 1551587	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Artes Plásticas/Artes Plásticas	Pueblo Nuevo (Duacari)	0	20/10/2026	11/12/2026	16/10/26, 11:59 a. m.
-1551431	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Puente Salas (San Pedro)	0	16/10/2026	11/12/2026	16/10/26, 11:43 a. m.
-1551434	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Industriales	Colegio De Limon Diurno	12	20/10/2026	11/12/2026	16/10/26, 11:43 a. m.
