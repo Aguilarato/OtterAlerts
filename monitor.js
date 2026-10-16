@@ -233,7 +233,7 @@ async function sendEmail(subject, list, title) {
   });
   const { html, text } = buildEmail(list, title);
   await transporter.sendMail({ from: `MEP Alertas <${GMAIL_USER}>`, to, subject, html, text });
-  log(`Correo enviado a ${to}: "${subject}"`);
+  log(`Correo enviado (${to.split(",").length} destinatario(s)): "${subject}"`);
 }
 
 const plural = (n, one, many) => `${n} ${n === 1 ? one : many}`;
