@@ -17,6 +17,8 @@ import { pathToFileURL, fileURLToPath } from "node:url";
 
 const SITE_URL = "https://apps.mep.go.cr/formulario";
 const STATE_FILE = process.env.STATE_FILE || "vacantes.txt";
+const HISTORY_FILE = process.env.HISTORY_FILE || "historial.log";
+const MAX_HISTORY_LINES = 5000; // el historial se recorta para que no crezca sin límite
 const MODE = (process.env.MODE || "normal").trim().toLowerCase();
 const SCAN_FIXTURE = process.env.SCAN_FIXTURE; // opcional: JSON con un escaneo simulado (para pruebas)
 const TZ = "America/Costa_Rica";
@@ -214,6 +216,34 @@ async function scrapeWithRetries() {
   throw lastErr;
 }
 
+// ---------------------------------------------------------------- historial
+
+const HISTORY_HEADER = "# Historial de OtterAlerts (más reciente arriba, hora de Costa Rica)";
+const historyStamp = () => {
+  const p = Object.fromEntries(
+    new Intl.DateTimeFormat("en-CA", { timeZone: TZ, year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hourCycle: "h23" })
+      .formatToParts(new Date()).map((x) => [x.type, x.value]),
+  );
+  return `${p.year}-${p.month}-${p.day} ${p.hour}:${p.minute}`;
+};
+const describe = (v) => [v.vacante, shortRegion(v.regional), clean(v.especialidad), clean(v.institucion)].join(" · ");
+
+// Agrega un bloque arriba del historial. Solo se usa en modo normal.
+function appendHistory(lines) {
+  if (MODE !== "normal") return;
+  const old = fs.existsSync(HISTORY_FILE)
+    ? fs.readFileSync(HISTORY_FILE, "utf8").split(/\r?\n/).filter((l) => l && l !== HISTORY_HEADER)
+    : [];
+  const all = [...lines, ...old].slice(0, MAX_HISTORY_LINES);
+  fs.writeFileSync(HISTORY_FILE, [HISTORY_HEADER, ...all].join("\n") + "\n", "utf8");
+}
+
+// Resumen visible en la página de cada ejecución en GitHub Actions.
+function jobSummary(md) {
+  const f = process.env.GITHUB_STEP_SUMMARY;
+  if (f) fs.appendFileSync(f, md + "\n");
+}
+
 // ---------------------------------------------------------------- correo
 
 const esc = (s) => clean(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -247,44 +277,41 @@ const COLS = [
   ["institucion", "Institución"], ["lecciones", "Lecciones"], ["rige", "Rige"], ["vence", "Vence"],
 ];
 
-// Una tabla pequeña por vacante (etiqueta | valor). Muestra las mismas 8 columnas, pero se lee
-// bien en el celular sin depender de media queries (que algunos clientes de correo ignoran).
-function vacancyTable(v) {
-  const label = `padding:7px 12px;width:120px;font-size:13px;line-height:19px;color:${C.otter};font-weight:bold;vertical-align:top;border-top:1px solid ${C.rockLine}`;
-  const value = `padding:7px 12px;font-size:15px;line-height:21px;color:${C.text};vertical-align:top;border-top:1px solid ${C.rockLine}`;
-  const rows = COLS.map(([k, h], i) =>
-    `<tr style="background:${i % 2 ? C.rock : C.white}"><td style="${label}">${h}</td><td style="${value}${k === "vacante" ? ";font-weight:bold;color:" + C.riverDark : ""}">${esc(k === "regional" ? shortRegion(v[k]) : v[k])}</td></tr>`,
-  ).join("");
-  return `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;border:1px solid ${C.rockLine};border-radius:12px;overflow:hidden;background:${C.white};margin:0 0 14px 0">
-<tr><td colspan="2" style="background:${C.otterSoft};padding:10px 12px;font-size:16px;line-height:22px;font-weight:bold;color:${C.otter}">${esc(v.especialidad)} <span style="font-weight:normal;color:${C.muted}">· ${esc(shortRegion(v.regional))}</span></td></tr>
-${rows}</table>`;
-}
-
 export function buildEmail(list, title, phrase = pickPhrase(), iconSrc = `cid:${ICON_CID}`) {
   const regions = [...new Set(list.map((v) => shortRegion(v.regional)))];
   const summary = `${list.length} ${list.length === 1 ? "plaza" : "plazas"} · ${regions.join(", ")}`;
   const detected = list.find((v) => v.detectada)?.detectada;
+  const cell = `padding:8px 10px;border-bottom:1px solid ${C.rockLine};vertical-align:top`;
+  const head = COLS.map(([, h]) => `<th align="left" style="padding:8px 10px;background:${C.otterSoft};color:${C.otter};font-size:13px;font-weight:bold;border-bottom:2px solid ${C.rockLine};white-space:nowrap">${h}</th>`).join("");
+  const rows = list
+    .map((v, i) => `<tr style="background:${i % 2 ? C.rock : C.white}">` +
+      COLS.map(([k]) => `<td style="${cell}${k === "vacante" ? ";font-weight:bold;color:" + C.riverDark : ""}">${esc(k === "regional" ? shortRegion(v[k]) : v[k])}</td>`).join("") +
+      "</tr>")
+    .join("");
 
   const html = `<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title></head>
-<body style="margin:0;padding:0;background:${C.page};-webkit-text-size-adjust:100%">
+<body style="margin:0;padding:0;background:${C.page}">
 <div style="display:none;max-height:0;overflow:hidden;opacity:0">${esc(summary)} — ${esc(phrase)}</div>
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:${C.page}"><tr><td align="center" style="padding:16px 8px">
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:600px;font-family:${FONT};color:${C.text}">
-  <tr><td style="background:${C.river};border-radius:16px;padding:16px 16px">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:${C.page}"><tr><td align="center" style="padding:20px 10px">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:760px;font-family:${FONT};color:${C.text}">
+  <tr><td style="background:${C.river};border-radius:16px 16px 0 0;padding:18px 20px">
     <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
-      <td style="padding-right:12px;vertical-align:middle"><img src="${iconSrc}" width="60" height="60" alt="Otterly Delivered" style="display:block;border:0"></td>
+      <td style="padding-right:14px;vertical-align:middle"><img src="${iconSrc}" width="64" height="64" alt="Otterly Delivered" style="display:block;border:0"></td>
       <td style="vertical-align:middle">
-        <div style="font-size:21px;line-height:27px;font-weight:bold;color:${C.otter}">${esc(title)}</div>
-        <div style="font-size:15px;line-height:21px;color:${C.riverDark};margin-top:2px">${esc(summary)}</div>
+        <div style="font-size:20px;line-height:26px;font-weight:bold;color:${C.otter}">${esc(title)}</div>
+        <div style="font-size:14px;line-height:20px;color:${C.riverDark};font-style:italic;margin-top:4px">${esc(phrase)}</div>
       </td>
     </tr></table>
-    <div style="font-size:16px;line-height:23px;color:${C.riverDark};font-style:italic;margin-top:12px">${esc(phrase)}</div>
   </td></tr>
-  <tr><td style="padding:14px 0 0 0">${list.map(vacancyTable).join("")}</td></tr>
-  <tr><td style="background:${C.white};border:1px solid ${C.rockLine};border-radius:12px;padding:14px 16px;font-size:15px;line-height:23px">
+  <tr><td style="background:${C.white};padding:0;border:1px solid ${C.rockLine};border-top:0">
+    <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;font-size:14px;line-height:19px">
+      <thead><tr>${head}</tr></thead><tbody>${rows}</tbody>
+    </table>
+  </td></tr>
+  <tr><td style="background:${C.white};border:1px solid ${C.rockLine};border-top:0;border-radius:0 0 16px 16px;padding:14px 20px;font-size:14px;line-height:21px">
     ${detected ? `Detectado: ${esc(detected)} (hora de Costa Rica)<br>` : ""}Ver y aplicar: <a href="${SITE_URL}" style="color:${C.riverDark};font-weight:bold">apps.mep.go.cr/formulario</a>
   </td></tr>
-  <tr><td align="center" style="padding:12px 10px 0 10px;font-size:12px;line-height:17px;color:${C.muted}">Otterly Delivered · aviso automático, no oficial del MEP.</td></tr>
+  <tr><td align="center" style="padding:12px 10px 0 10px;font-size:11px;color:${C.muted}">Otterly Delivered · aviso automático, no oficial del MEP.</td></tr>
 </table>
 </td></tr></table>
 </body></html>`;
@@ -347,6 +374,7 @@ async function main() {
 
   if (MODE === "dry-run") {
     log("dry-run: no se envía correo ni se modifica el archivo.");
+    jobSummary(`### dry-run\n${current.size} vacantes · ${added.length} nuevas · ${removed.length} eliminadas (no se guardó nada)`);
     return;
   }
 
@@ -363,6 +391,7 @@ async function main() {
     await sendEmail(`[PRUEBA] MEP Alert: ${plural(list.length, "plaza disponible", "plazas disponibles")}`, list,
       `Correo de prueba: ${plural(list.length, "plaza", "plazas")} ${note}`);
     log("test-email: no se modifica el archivo.");
+    jobSummary(`### test-email\nCorreo de prueba enviado con ${plural(list.length, "plaza", "plazas")}.`);
     return;
   }
 
@@ -386,11 +415,31 @@ async function main() {
   } else {
     log("Sin cambios.");
   }
+
+  // Historial + resumen de la ejecución
+  const ts = historyStamp();
+  const emailed = new Set(addedRelevant.map(keyOf));
+  let headline;
+  if (firstRun) headline = `inicio: ${current.size} vacantes guardadas`;
+  else if (!added.length && !removed.length) headline = "sin cambios";
+  else headline = `${plural(added.length, "nueva", "nuevas")}, ${plural(removed.length, "eliminada", "eliminadas")}`;
+  const mailNote = addedRelevant.length ? ` | correo enviado: ${plural(addedRelevant.length, "plaza", "plazas")}` : "";
+  const detail = [
+    ...(firstRun ? [] : added.map((v) => `    + agregada  ${describe(v)}${emailed.has(keyOf(v)) ? "  [CORREO]" : "  (no coincide con el filtro)"}`)),
+    ...removed.map((v) => `    - eliminada ${describe(v)}`),
+  ];
+  appendHistory([`${ts} | ${headline} | ${current.size} vacantes${mailNote}`, ...detail]);
+  jobSummary(`### ${headline}\n${current.size} vacantes en el sitio${mailNote}\n\n` +
+    (detail.length ? "```\n" + detail.map((l) => l.trim()).join("\n") + "\n```" : ""));
 }
 
 if (import.meta.url === pathToFileURL(process.argv[1] || "").href) {
   main().catch((e) => {
     console.error(new Date().toISOString(), "ERROR:", e.stack || e.message);
+    try {
+      appendHistory([`${historyStamp()} | ERROR | ${clean(e.message)}`]);
+      jobSummary(`### ❌ Error\n${clean(e.message)}`);
+    } catch {}
     process.exit(1);
   });
 }
