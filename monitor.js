@@ -13,6 +13,7 @@
 import fs from "node:fs";
 import puppeteer from "puppeteer";
 import nodemailer from "nodemailer";
+import { pathToFileURL, fileURLToPath } from "node:url";
 
 const SITE_URL = "https://apps.mep.go.cr/formulario";
 const STATE_FILE = process.env.STATE_FILE || "vacantes.txt";
@@ -21,6 +22,18 @@ const SCAN_FIXTURE = process.env.SCAN_FIXTURE; // opcional: JSON con un escaneo 
 const TZ = "America/Costa_Rica";
 const MAX_ATTEMPTS = 3;
 const MAX_PAGES_PER_REGION = 50;
+
+// Filtro del correo: solo se avisa de vacantes cuya Especialidad o Clase de puesto contenga
+// alguna de estas palabras (sin importar mayúsculas ni tildes). vacantes.txt guarda TODAS las
+// vacantes igual, así cambiar el filtro nunca rompe el historial.
+// Se puede sobrescribir con la variable de entorno FILTER_KEYWORDS (separadas por coma);
+// FILTER_KEYWORDS="*" desactiva el filtro y avisa de todo.
+// Texto real visto en un comprobante del MEP: "Estudios Sociales/educación Cívica".
+// Se usan raíces cortas a propósito para tolerar variaciones (Sociales/Social, Cívica/Civica/Cívico,
+// abreviaturas como "Est. Sociales" o "Educ. Cívica", barras, puntos, mayúsculas o tildes).
+const DEFAULT_KEYWORDS = ["SOCIAL", "CIVIC"];
+const FILTER_KEYWORDS = (process.env.FILTER_KEYWORDS?.trim() ? process.env.FILTER_KEYWORDS.split(",") : DEFAULT_KEYWORDS)
+  .map((k) => k.trim()).filter(Boolean);
 
 const FIELDS = ["vacante", "regional", "clasePuesto", "especialidad", "institucion", "lecciones", "rige", "vence"];
 const HEADER = "# " + [...FIELDS, "detectada"].join("\t");
@@ -33,6 +46,12 @@ const nowCR = () =>
 
 // La clave identifica una vacante. Se usa el número de vacante + los datos visibles, porque el
 // mismo número puede aparecer en más de una fila (p. ej. con distinta institución o fechas).
+const norm = (s) =>
+  clean(s).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toUpperCase().replace(/[^A-Z0-9]+/g, " ").trim();
+export const matchesFilter = (v, keywords = FILTER_KEYWORDS) =>
+  keywords.includes("*") || keywords.length === 0 ||
+  keywords.map(norm).some((k) => norm(v.especialidad).includes(k) || norm(v.clasePuesto).includes(k));
+
 const keyOf = (v) => FIELDS.map((f) => clean(v[f]).toUpperCase()).join("|");
 
 // ---------------------------------------------------------------- almacenamiento (txt)
@@ -197,27 +216,81 @@ async function scrapeWithRetries() {
 
 // ---------------------------------------------------------------- correo
 
-const esc = (s) => clean(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+const esc = (s) => clean(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
-function buildEmail(list, title) {
-  const cols = [
-    ["vacante", "Vacante"], ["regional", "Dirección Regional"], ["clasePuesto", "Clase de Puesto"],
-    ["especialidad", "Especialidad"], ["institucion", "Institución"], ["lecciones", "Lecciones"],
-    ["rige", "Rige"], ["vence", "Vence"], ["detectada", "Detectada (CR)"],
-  ];
-  const th = cols.map(([, h]) => `<th style="border:1px solid #ccc;padding:6px;background:#003366;color:#fff;text-align:left">${h}</th>`).join("");
-  const trs = list
-    .map((v) => "<tr>" + cols.map(([k]) => `<td style="border:1px solid #ccc;padding:6px">${esc(v[k])}</td>`).join("") + "</tr>")
+// Frases de bienvenida (se elige una al azar en cada correo)
+export const OTTER_PHRASES = [
+  "Esta entrega no viene en camión: viene a nado.",
+  "Nadamos contra la corriente para que no se te escape ninguna plaza.",
+  "Entregado con patitas mojadas y mucho cariño.",
+  "Recogimos estas plazas como piedritas brillantes, solo para vos.",
+  "Nutria Express: entregas río abajo, sin escalas ni atrasos.",
+  "Flotamos panza arriba, pero con un ojo siempre abierto.",
+  "Del río directo a tu bandeja, una entrega nutria-tiva.",
+  "Buceamos hasta el fondo del río y salimos con esto para vos.",
+];
+
+const pickPhrase = () => OTTER_PHRASES[Math.floor(Math.random() * OTTER_PHRASES.length)];
+const shortRegion = (s) => clean(s).replace(/^Direc\.?\s*Regional\s*(de\s*)?Educaci[oó]n\s*/i, "") || clean(s);
+
+// Paleta: río (cian pastel), nutria (café pastel) y piedras (gris)
+const C = {
+  page: "#EEF8F9", river: "#CFEFF2", riverDark: "#2E7C86", otter: "#7A5641", otterSoft: "#F4E9DF",
+  rock: "#E9ECEE", rockLine: "#D3D8DB", text: "#3E4A4D", muted: "#7D8A8D", white: "#FFFFFF",
+};
+const FONT = "'Segoe UI',Roboto,Helvetica,Arial,sans-serif";
+export const ICON_CID = "otter@otterlydelivered";
+const ICON_FILE = fileURLToPath(new URL("./otter.png", import.meta.url));
+
+const COLS = [
+  ["vacante", "Vacante"], ["regional", "Región"], ["clasePuesto", "Clase de puesto"], ["especialidad", "Especialidad"],
+  ["institucion", "Institución"], ["lecciones", "Lecciones"], ["rige", "Rige"], ["vence", "Vence"],
+];
+
+export function buildEmail(list, title, phrase = pickPhrase(), iconSrc = `cid:${ICON_CID}`) {
+  const regions = [...new Set(list.map((v) => shortRegion(v.regional)))];
+  const summary = `${list.length} ${list.length === 1 ? "plaza" : "plazas"} · ${regions.join(", ")}`;
+  const detected = list.find((v) => v.detectada)?.detectada;
+  const cell = `padding:8px 10px;border-bottom:1px solid ${C.rockLine};vertical-align:top`;
+  const head = COLS.map(([, h]) => `<th align="left" style="padding:8px 10px;background:${C.otterSoft};color:${C.otter};font-size:12px;font-weight:bold;border-bottom:2px solid ${C.rockLine};white-space:nowrap">${h}</th>`).join("");
+  const rows = list
+    .map((v, i) => `<tr style="background:${i % 2 ? C.rock : C.white}">` +
+      COLS.map(([k]) => `<td style="${cell}${k === "vacante" ? ";font-weight:bold;color:" + C.riverDark : ""}">${esc(k === "regional" ? shortRegion(v[k]) : v[k])}</td>`).join("") +
+      "</tr>")
     .join("");
-  const html = `<div style="font-family:Arial,sans-serif;font-size:14px">
-<h2 style="color:#003366">${esc(title)}</h2>
-<table style="border-collapse:collapse;font-size:13px"><thead><tr>${th}</tr></thead><tbody>${trs}</tbody></table>
-<p>Aplicar en: <a href="${SITE_URL}">${SITE_URL}</a></p>
-<p style="color:#777;font-size:11px">Aviso automático, no oficial del MEP.</p></div>`;
+
+  const html = `<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title></head>
+<body style="margin:0;padding:0;background:${C.page}">
+<div style="display:none;max-height:0;overflow:hidden;opacity:0">${esc(summary)} — ${esc(phrase)}</div>
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:${C.page}"><tr><td align="center" style="padding:20px 10px">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:720px;font-family:${FONT};color:${C.text}">
+  <tr><td style="background:${C.river};border-radius:16px 16px 0 0;padding:18px 20px">
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+      <td style="padding-right:14px;vertical-align:middle"><img src="${iconSrc}" width="64" height="64" alt="Otterly Delivered" style="display:block;border:0"></td>
+      <td style="vertical-align:middle">
+        <div style="font-size:20px;line-height:26px;font-weight:bold;color:${C.otter}">${esc(title)}</div>
+        <div style="font-size:14px;line-height:20px;color:${C.riverDark};font-style:italic;margin-top:4px">${esc(phrase)}</div>
+      </td>
+    </tr></table>
+  </td></tr>
+  <tr><td style="background:${C.white};padding:0;border:1px solid ${C.rockLine};border-top:0">
+    <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;font-size:13px;line-height:18px">
+      <thead><tr>${head}</tr></thead><tbody>${rows}</tbody>
+    </table>
+  </td></tr>
+  <tr><td style="background:${C.white};border:1px solid ${C.rockLine};border-top:0;border-radius:0 0 16px 16px;padding:14px 20px;font-size:13px;line-height:20px">
+    ${detected ? `Detectado: ${esc(detected)} (hora de Costa Rica)<br>` : ""}Ver y aplicar: <a href="${SITE_URL}" style="color:${C.riverDark};font-weight:bold">apps.mep.go.cr/formulario</a>
+  </td></tr>
+  <tr><td align="center" style="padding:12px 10px 0 10px;font-size:11px;color:${C.muted}">Otterly Delivered · aviso automático, no oficial del MEP.</td></tr>
+</table>
+</td></tr></table>
+</body></html>`;
+
   const text =
-    title + "\n\n" +
-    list.map((v) => cols.map(([k, h]) => `${h}: ${clean(v[k])}`).join("\n")).join("\n\n") +
-    `\n\nAplicar en: ${SITE_URL}\n`;
+    `${title}\n${summary}\n"${phrase}"\n\n` +
+    list.map((v) => COLS.map(([k, h]) => `${h}: ${clean(k === "regional" ? shortRegion(v[k]) : v[k])}`).join("\n")).join("\n\n") +
+    (detected ? `\n\nDetectado: ${detected} (hora de Costa Rica)` : "") +
+    `\nVer y aplicar: ${SITE_URL}\n\nOtterly Delivered · aviso automático, no oficial del MEP.\n`;
   return { html, text };
 }
 
@@ -232,7 +305,10 @@ async function sendEmail(subject, list, title) {
     auth: { user: GMAIL_USER, pass: GMAIL_APP_PASSWORD.replace(/\s+/g, "") },
   });
   const { html, text } = buildEmail(list, title);
-  await transporter.sendMail({ from: `MEP Alertas <${GMAIL_USER}>`, to, subject, html, text });
+  const attachments = fs.existsSync(ICON_FILE)
+    ? [{ filename: "otter.png", path: ICON_FILE, cid: ICON_CID, contentDisposition: "inline" }]
+    : [];
+  await transporter.sendMail({ from: `Otterly Delivered <${GMAIL_USER}>`, to, subject, html, text, attachments });
   log(`Correo enviado (${to.split(",").length} destinatario(s)): "${subject}"`);
 }
 
@@ -271,22 +347,32 @@ async function main() {
     return;
   }
 
+  const relevant = (list) => list.filter((v) => matchesFilter(v));
+  const addedRelevant = relevant(added);
+  log(`Filtro [${FILTER_KEYWORDS.join(", ")}]: ${relevant([...current.values()]).length} de ${current.size} vacantes coinciden; ${addedRelevant.length} nuevas coinciden.`);
+
   if (MODE === "test-email") {
-    const list = [...current.values()].map((v) => ({ ...v, detectada: stamp }));
+    const all = [...current.values()].map((v) => ({ ...v, detectada: stamp }));
+    const matching = relevant(all);
+    // Si ahora no hay ninguna que coincida, se envían todas para poder ver el correo igual.
+    const list = matching.length ? matching : all;
+    const note = matching.length ? "que coinciden con el filtro" : "(ninguna coincide con el filtro ahora; se muestran todas)";
     await sendEmail(`[PRUEBA] MEP Alert: ${plural(list.length, "plaza disponible", "plazas disponibles")}`, list,
-      `Correo de prueba: ${plural(list.length, "plaza disponible", "plazas disponibles")} en este momento`);
+      `Correo de prueba: ${plural(list.length, "plaza", "plazas")} ${note}`);
     log("test-email: no se modifica el archivo.");
     return;
   }
 
   // Correo ANTES de guardar: si el envío falla, el proceso termina con error, el archivo no cambia
   // y la siguiente ejecución vuelve a intentar avisar de las mismas vacantes.
-  if (firstRun) {
-    await sendEmail(`MEP Alert: monitoreo iniciado (${plural(added.length, "plaza disponible", "plazas disponibles")})`,
-      added, `Monitoreo iniciado. Estas son las ${plural(added.length, "plaza disponible", "plazas disponibles")} hoy. Desde ahora solo recibirás las nuevas.`);
-  } else if (added.length > 0) {
-    await sendEmail(`MEP Alert: ${plural(added.length, "nueva plaza disponible", "nuevas plazas disponibles")}`,
-      added, `${plural(added.length, "nueva plaza disponible", "nuevas plazas disponibles")}`);
+  if (addedRelevant.length === 0) {
+    if (added.length) log("Hay vacantes nuevas, pero ninguna coincide con el filtro: no se envía correo.");
+  } else if (firstRun) {
+    await sendEmail(`MEP Alert: monitoreo iniciado (${plural(addedRelevant.length, "plaza disponible", "plazas disponibles")})`,
+      addedRelevant, `Monitoreo iniciado. Estas son las ${plural(addedRelevant.length, "plaza disponible", "plazas disponibles")} hoy. Desde ahora solo recibirás las nuevas.`);
+  } else {
+    await sendEmail(`MEP Alert: ${plural(addedRelevant.length, "nueva plaza disponible", "nuevas plazas disponibles")}`,
+      addedRelevant, `${plural(addedRelevant.length, "nueva plaza disponible", "nuevas plazas disponibles")}`);
   }
 
   if (added.length || removed.length || firstRun) {
@@ -299,7 +385,9 @@ async function main() {
   }
 }
 
-main().catch((e) => {
-  console.error(new Date().toISOString(), "ERROR:", e.stack || e.message);
-  process.exit(1);
-});
+if (import.meta.url === pathToFileURL(process.argv[1] || "").href) {
+  main().catch((e) => {
+    console.error(new Date().toISOString(), "ERROR:", e.stack || e.message);
+    process.exit(1);
+  });
+}
