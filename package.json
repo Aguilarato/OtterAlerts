@@ -1,0 +1,14 @@
+{
+  "name": "mep-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node monitor.js",
+    "dry-run": "MODE=dry-run node monitor.js"
+  },
+  "dependencies": {
+    "nodemailer": "^7.0.13",
+    "puppeteer": "^24.35.0"
+  }
+}

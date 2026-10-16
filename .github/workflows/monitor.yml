@@ -1,0 +1,61 @@
+name: Monitor vacantes MEP
+
+on:
+  schedule:
+    - cron: "17 * * * *" # cada hora, minuto 17 (UTC; la hora exacta da igual)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "normal = real | dry-run = solo mostrar cambios | test-email = enviar correo de prueba"
+        type: choice
+        options: [normal, dry-run, test-email]
+        default: normal
+
+permissions:
+  contents: write # para guardar vacantes.txt en el repositorio
+
+concurrency:
+  group: mep-monitor # nunca corren dos escaneos a la vez
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Cache de Chrome (Puppeteer)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/puppeteer
+          key: puppeteer-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Escanear vacantes
+        run: node monitor.js
+        env:
+          MODE: ${{ inputs.mode || 'normal' }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+
+      - name: Guardar vacantes.txt
+        if: ${{ (inputs.mode || 'normal') == 'normal' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add vacantes.txt
+          if git diff --cached --quiet; then
+            echo "Sin cambios que guardar."
+          else
+            git commit -m "Vacantes actualizadas $(TZ=America/Costa_Rica date '+%Y-%m-%d %H:%M')"
+            git push
+          fi
