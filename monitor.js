@@ -247,41 +247,44 @@ const COLS = [
   ["institucion", "Institución"], ["lecciones", "Lecciones"], ["rige", "Rige"], ["vence", "Vence"],
 ];
 
+// Una tabla pequeña por vacante (etiqueta | valor). Muestra las mismas 8 columnas, pero se lee
+// bien en el celular sin depender de media queries (que algunos clientes de correo ignoran).
+function vacancyTable(v) {
+  const label = `padding:7px 12px;width:120px;font-size:13px;line-height:19px;color:${C.otter};font-weight:bold;vertical-align:top;border-top:1px solid ${C.rockLine}`;
+  const value = `padding:7px 12px;font-size:15px;line-height:21px;color:${C.text};vertical-align:top;border-top:1px solid ${C.rockLine}`;
+  const rows = COLS.map(([k, h], i) =>
+    `<tr style="background:${i % 2 ? C.rock : C.white}"><td style="${label}">${h}</td><td style="${value}${k === "vacante" ? ";font-weight:bold;color:" + C.riverDark : ""}">${esc(k === "regional" ? shortRegion(v[k]) : v[k])}</td></tr>`,
+  ).join("");
+  return `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;border:1px solid ${C.rockLine};border-radius:12px;overflow:hidden;background:${C.white};margin:0 0 14px 0">
+<tr><td colspan="2" style="background:${C.otterSoft};padding:10px 12px;font-size:16px;line-height:22px;font-weight:bold;color:${C.otter}">${esc(v.especialidad)} <span style="font-weight:normal;color:${C.muted}">· ${esc(shortRegion(v.regional))}</span></td></tr>
+${rows}</table>`;
+}
+
 export function buildEmail(list, title, phrase = pickPhrase(), iconSrc = `cid:${ICON_CID}`) {
   const regions = [...new Set(list.map((v) => shortRegion(v.regional)))];
   const summary = `${list.length} ${list.length === 1 ? "plaza" : "plazas"} · ${regions.join(", ")}`;
   const detected = list.find((v) => v.detectada)?.detectada;
-  const cell = `padding:8px 10px;border-bottom:1px solid ${C.rockLine};vertical-align:top`;
-  const head = COLS.map(([, h]) => `<th align="left" style="padding:8px 10px;background:${C.otterSoft};color:${C.otter};font-size:12px;font-weight:bold;border-bottom:2px solid ${C.rockLine};white-space:nowrap">${h}</th>`).join("");
-  const rows = list
-    .map((v, i) => `<tr style="background:${i % 2 ? C.rock : C.white}">` +
-      COLS.map(([k]) => `<td style="${cell}${k === "vacante" ? ";font-weight:bold;color:" + C.riverDark : ""}">${esc(k === "regional" ? shortRegion(v[k]) : v[k])}</td>`).join("") +
-      "</tr>")
-    .join("");
 
   const html = `<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title></head>
-<body style="margin:0;padding:0;background:${C.page}">
+<body style="margin:0;padding:0;background:${C.page};-webkit-text-size-adjust:100%">
 <div style="display:none;max-height:0;overflow:hidden;opacity:0">${esc(summary)} — ${esc(phrase)}</div>
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:${C.page}"><tr><td align="center" style="padding:20px 10px">
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:720px;font-family:${FONT};color:${C.text}">
-  <tr><td style="background:${C.river};border-radius:16px 16px 0 0;padding:18px 20px">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:${C.page}"><tr><td align="center" style="padding:16px 8px">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:600px;font-family:${FONT};color:${C.text}">
+  <tr><td style="background:${C.river};border-radius:16px;padding:16px 16px">
     <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
-      <td style="padding-right:14px;vertical-align:middle"><img src="${iconSrc}" width="64" height="64" alt="Otterly Delivered" style="display:block;border:0"></td>
+      <td style="padding-right:12px;vertical-align:middle"><img src="${iconSrc}" width="60" height="60" alt="Otterly Delivered" style="display:block;border:0"></td>
       <td style="vertical-align:middle">
-        <div style="font-size:20px;line-height:26px;font-weight:bold;color:${C.otter}">${esc(title)}</div>
-        <div style="font-size:14px;line-height:20px;color:${C.riverDark};font-style:italic;margin-top:4px">${esc(phrase)}</div>
+        <div style="font-size:21px;line-height:27px;font-weight:bold;color:${C.otter}">${esc(title)}</div>
+        <div style="font-size:15px;line-height:21px;color:${C.riverDark};margin-top:2px">${esc(summary)}</div>
       </td>
     </tr></table>
+    <div style="font-size:16px;line-height:23px;color:${C.riverDark};font-style:italic;margin-top:12px">${esc(phrase)}</div>
   </td></tr>
-  <tr><td style="background:${C.white};padding:0;border:1px solid ${C.rockLine};border-top:0">
-    <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;font-size:13px;line-height:18px">
-      <thead><tr>${head}</tr></thead><tbody>${rows}</tbody>
-    </table>
-  </td></tr>
-  <tr><td style="background:${C.white};border:1px solid ${C.rockLine};border-top:0;border-radius:0 0 16px 16px;padding:14px 20px;font-size:13px;line-height:20px">
+  <tr><td style="padding:14px 0 0 0">${list.map(vacancyTable).join("")}</td></tr>
+  <tr><td style="background:${C.white};border:1px solid ${C.rockLine};border-radius:12px;padding:14px 16px;font-size:15px;line-height:23px">
     ${detected ? `Detectado: ${esc(detected)} (hora de Costa Rica)<br>` : ""}Ver y aplicar: <a href="${SITE_URL}" style="color:${C.riverDark};font-weight:bold">apps.mep.go.cr/formulario</a>
   </td></tr>
-  <tr><td align="center" style="padding:12px 10px 0 10px;font-size:11px;color:${C.muted}">Otterly Delivered · aviso automático, no oficial del MEP.</td></tr>
+  <tr><td align="center" style="padding:12px 10px 0 10px;font-size:12px;line-height:17px;color:${C.muted}">Otterly Delivered · aviso automático, no oficial del MEP.</td></tr>
 </table>
 </td></tr></table>
 </body></html>`;
