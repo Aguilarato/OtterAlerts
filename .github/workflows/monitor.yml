@@ -2,8 +2,8 @@ name: Monitor vacantes MEP
 
 on:
   schedule:
-    - cron: "17 13-23 * * 1-5" # lun–vie, cada hora de 7:17 a 17:17 (Costa Rica)
-    - cron: "17 3 * * *"       # todos los días a las 21:17 (Costa Rica)
+    - cron: "17 13-23 * * 1-5" # lunes a viernes, cada hora de 7:17 a 17:17 (hora de Costa Rica)
+    - cron: "17 3 * * *"       # todos los días a las 21:17 (hora de Costa Rica)
   workflow_dispatch:
     inputs:
       mode:
