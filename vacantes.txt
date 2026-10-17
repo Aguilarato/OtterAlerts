@@ -1,5 +1,4 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
-1551361	Direc. Regional Educacion Alajuela	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Luis Felipe Gonzalez Flores	0	02/11/2026	11/12/2026	16/10/26, 3:10 p. m.
 1551606	Direc. Regional Educacion Coto	Conserje De Centro Educativo	Sin Especialidad T-I	San Antonio (Sabalito)	0	20/10/2026	31/01/2031	16/10/26, 3:10 p. m.
 1551468	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Las Mercedes (Aserri)	0	20/10/2026	10/12/2026	16/10/26, 11:43 a. m.
 1551451	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Música/Música	C.T.P. De Guacimo	18	20/10/2026	13/12/2026	16/10/26, 11:43 a. m.
