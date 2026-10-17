@@ -2,7 +2,7 @@ name: Monitor vacantes MEP
 
 on:
   schedule:
-    - cron: "17,47 * * * *" # cada 30 minutos, todos los días, a toda hora (min. 17 y 47)
+    - cron: "17 */3 * * *" # respaldo cada 3 horas; el horario principal es cron-job.org
   workflow_dispatch:
     inputs:
       mode:
