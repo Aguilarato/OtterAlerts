@@ -8,6 +8,7 @@
 1551659	Direc. Regional Educacion Coto	Director De Colegio Técnico Y Profesional 3	Sin Especialidad T-Ii	C.T.P. De Corredores	0	01/11/2026	31/01/2031	19/10/26, 7:00 a. m.
 1551695	Direc. Regional Educacion Coto	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Confraternidad (Canoas)	0	26/10/2026	11/12/2026	19/10/26, 7:00 a. m.
 1551795	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	El Cruce (Horquetas)	0	20/10/2026	14/02/2027	19/10/26, 11:00 a. m.
+1551928	Direc. Regional Educacion De Sarapiqui	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo Rural Las Marias	0	19/10/2026	31/07/2030	19/10/26, 4:01 p. m.
 1551684	Direc. Regional Educacion Desamparados	Conserje De Centro Educativo	Sin Especialidad T-I	Paquita Ferrer De Figueres	0	21/10/2026	12/01/2027	19/10/26, 7:00 a. m.
 1551784	Direc. Regional Educacion Desamparados	Conserje De Centro Educativo	Sin Especialidad T-I	Rvdo Francisco Schmitz	0	22/10/2026	22/04/2028	19/10/26, 11:30 a. m.
 1551836	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Retardo Mental	Esc. Gravilias	40	26/10/2026	11/12/2026	19/10/26, 12:31 p. m.
@@ -17,6 +18,7 @@
 1551751	Direc. Regional Educacion Guapiles	Director De Colegio 1	Sin Especialidad T-Ii	Cindea San Antonio Del Humo	0	21/10/2026	18/12/2026	19/10/26, 9:30 a. m.
 1510067	Direc. Regional Educacion Heredia	Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)	Bilingual Accountig And Finance	C.T.P. De Flores	4	19/10/2026	11/12/2026	19/10/26, 12:31 p. m.
 1551801	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P San Pedro De Barva	0	19/10/2026	12/01/2027	19/10/26, 11:30 a. m.
+1551932	Direc. Regional Educacion Heredia	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	San Luis Gonzaga (Para)	0	20/10/2026	23/11/2026	19/10/26, 4:01 p. m.
 1551473	Direc. Regional Educacion Liberia	Orientador Asistente	Sin Especialidad T-Ii	Liceo De Guardia	0	26/10/2026	31/01/2027	19/10/26, 3:00 p. m.
 1551478	Direc. Regional Educacion Liberia	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Liceo De Guardia	0	20/10/2026	11/12/2026	19/10/26, 3:00 p. m.
 1551458	Direc. Regional Educacion Limon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Santa Eduviges (Limon)	0	21/10/2026	11/12/2026	19/10/26, 7:00 a. m.
