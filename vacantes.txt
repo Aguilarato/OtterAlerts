@@ -8,7 +8,6 @@
 1551695	Direc. Regional Educacion Coto	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Confraternidad (Canoas)	0	26/10/2026	11/12/2026	19/10/26, 7:00 a. m.
 1551468	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Las Mercedes (Aserri)	0	20/10/2026	10/12/2026	16/10/26, 11:43 a. m.
 1551684	Direc. Regional Educacion Desamparados	Conserje De Centro Educativo	Sin Especialidad T-I	Paquita Ferrer De Figueres	0	21/10/2026	12/01/2027	19/10/26, 7:00 a. m.
-1551451	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Música/Música	C.T.P. De Guacimo	18	20/10/2026	13/12/2026	16/10/26, 11:43 a. m.
 1551551	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Música/Música	Colegio Academico De Guacimo	26	20/10/2026	13/12/2026	16/10/26, 11:43 a. m.
 1551458	Direc. Regional Educacion Limon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Santa Eduviges (Limon)	0	21/10/2026	11/12/2026	19/10/26, 7:00 a. m.
 1551707	Direc. Regional Educacion Los Santos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Martin (San Lorenzo)	0	21/10/2026	11/12/2026	19/10/26, 7:00 a. m.
@@ -18,4 +17,5 @@
 1551026	Direc. Regional Educacion Puriscal	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Problemas De Aprendizaje	Servicio Itinerante Ens. Esp.	44	15/10/2026	11/12/2026	19/10/26, 7:00 a. m.
 1551636	Direc. Regional Educacion San Carlos	Conserje De Centro Educativo	Sin Especialidad T-I	Liceo Exp. Biling. Los Angeles	0	19/10/2026	26/11/2026	19/10/26, 7:00 a. m.
 1551674	Direc. Regional Educacion San Carlos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	El Carmen (Rio Cuarto)	0	19/10/2026	31/01/2027	19/10/26, 7:00 a. m.
+1550723	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Centro America (Tirrases)	0	21/10/2026	11/12/2026	19/10/26, 7:30 a. m.
 1551449	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza Media (G. De E.)	Religión	Liceo Luis Dobles Segreda	40	21/10/2026	11/12/2026	19/10/26, 7:00 a. m.
