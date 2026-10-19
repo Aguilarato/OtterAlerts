@@ -12,6 +12,7 @@
 1551551	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Música/Música	Colegio Academico De Guacimo	26	20/10/2026	13/12/2026	16/10/26, 11:43 a. m.
 1551458	Direc. Regional Educacion Limon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Santa Eduviges (Limon)	0	21/10/2026	11/12/2026	19/10/26, 7:00 a. m.
 1551707	Direc. Regional Educacion Los Santos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Martin (San Lorenzo)	0	21/10/2026	11/12/2026	19/10/26, 7:00 a. m.
+1551742	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Pedro (San Pedro)	0	21/10/2026	13/02/2027	19/10/26, 9:00 a. m.
 1548924	Direc. Regional Educacion Perez Zeledon	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	C.T.P. De Pejibaye	0	28/10/2026	29/06/2028	19/10/26, 7:00 a. m.
 1550157	Direc. Regional Educacion Perez Zeledon	Cocinero	Sin Especialidad T-I	Sagrada Familia	0	09/11/2026	31/01/2027	19/10/26, 7:00 a. m.
 1551578	Direc. Regional Educacion Perez Zeledon	Asistente De Dirección Centro Educativo 1	Sin Especialidad T-Ii	Col. Concepcion Daniel Flores	0	26/10/2026	11/12/2026	19/10/26, 7:00 a. m.
