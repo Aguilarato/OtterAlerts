@@ -11,12 +11,14 @@
 1551795	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	El Cruce (Horquetas)	0	20/10/2026	14/02/2027	19/10/26, 11:00 a. m.
 1551684	Direc. Regional Educacion Desamparados	Conserje De Centro Educativo	Sin Especialidad T-I	Paquita Ferrer De Figueres	0	21/10/2026	12/01/2027	19/10/26, 7:00 a. m.
 1551784	Direc. Regional Educacion Desamparados	Conserje De Centro Educativo	Sin Especialidad T-I	Rvdo Francisco Schmitz	0	22/10/2026	22/04/2028	19/10/26, 11:30 a. m.
+1551822	Direc. Regional Educacion Grande De Terraba	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Drake (Sierpe)	0	21/10/2026	11/12/2026	19/10/26, 12:01 p. m.
 1551751	Direc. Regional Educacion Guapiles	Director De Colegio 1	Sin Especialidad T-Ii	Cindea San Antonio Del Humo	0	21/10/2026	18/12/2026	19/10/26, 9:30 a. m.
 1551801	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P San Pedro De Barva	0	19/10/2026	12/01/2027	19/10/26, 11:30 a. m.
 1551458	Direc. Regional Educacion Limon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Santa Eduviges (Limon)	0	21/10/2026	11/12/2026	19/10/26, 7:00 a. m.
 1551707	Direc. Regional Educacion Los Santos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Martin (San Lorenzo)	0	21/10/2026	11/12/2026	19/10/26, 7:00 a. m.
 1551762	Direc. Regional Educacion Los Santos	Conserje De Centro Educativo	Sin Especialidad T-I	La Sabana	0	21/10/2026	01/12/2026	19/10/26, 10:00 a. m.
 1551742	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Pedro (San Pedro)	0	21/10/2026	13/02/2027	19/10/26, 9:00 a. m.
+1551829	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Alf. Monge Ramirez (Naranjo)	0	21/10/2026	11/12/2026	19/10/26, 12:01 p. m.
 1548924	Direc. Regional Educacion Perez Zeledon	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	C.T.P. De Pejibaye	0	28/10/2026	29/06/2028	19/10/26, 7:00 a. m.
 1550157	Direc. Regional Educacion Perez Zeledon	Cocinero	Sin Especialidad T-I	Sagrada Familia	0	09/11/2026	31/01/2027	19/10/26, 7:00 a. m.
 1551578	Direc. Regional Educacion Perez Zeledon	Asistente De Dirección Centro Educativo 1	Sin Especialidad T-Ii	Col. Concepcion Daniel Flores	0	26/10/2026	11/12/2026	19/10/26, 7:00 a. m.
@@ -28,8 +30,11 @@
 1550723	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Centro America (Tirrases)	0	21/10/2026	11/12/2026	19/10/26, 7:30 a. m.
 1551449	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza Media (G. De E.)	Religión	Liceo Luis Dobles Segreda	40	21/10/2026	11/12/2026	19/10/26, 7:00 a. m.
 1551781	Direc. Regional Educacion San Jose - Oeste	Auxiliar Administrativo	Sin Especialidad T-Ii	Ipec San Jose	0	26/10/2026	10/12/2026	19/10/26, 11:00 a. m.
+1551832	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Música/Música	Liceo De Pavas	40	23/10/2026	11/12/2026	19/10/26, 12:01 p. m.
 1551774	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Matapalo (Tempate)	0	30/10/2026	11/12/2026	19/10/26, 11:00 a. m.
 1551790	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Cindea Sardinal	11	19/10/2026	11/12/2026	19/10/26, 11:00 a. m.
 1551797	Direc. Regional Educacion Santa Cruz	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Barrio Lajas	0	26/10/2026	11/12/2026	19/10/26, 11:30 a. m.
 1551802	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Guayabal (Santa Cruz)	0	19/10/2026	11/12/2026	19/10/26, 11:30 a. m.
 1551807	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Barrio Lajas	0	26/10/2026	11/12/2026	19/10/26, 11:30 a. m.
+1551812	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza Media (G. De E.)	Inglés	Col. Noct. De Santa Cruz	6	19/10/2026	11/12/2026	19/10/26, 12:01 p. m.
+1551820	Direc. Regional Educacion Santa Cruz	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Lorena (Cartagena)	0	19/10/2026	18/11/2026	19/10/26, 12:01 p. m.
