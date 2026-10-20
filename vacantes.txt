@@ -15,6 +15,7 @@
 1552097	Direc. Regional Educacion Occidente	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Otilio Ulate Blanco (Zarcero)	0	22/10/2026	11/01/2027	20/10/26, 11:30 a. m.
 1552117	Direc. Regional Educacion Occidente	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Joaquin L. Sancho Quesada	0	01/11/2026	31/07/2030	20/10/26, 12:01 p. m.
 1551988	Direc. Regional Educacion Perez Zeledon	Conserje De Centro Educativo	Sin Especialidad T-I	San Pedro (San Pedro)	0	22/10/2026	31/01/2027	20/10/26, 8:20 a. m.
+1552139	Direc. Regional Educacion Perez Zeledon	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Republica Mexico (Cajon)	0	22/10/2026	11/12/2026	20/10/26, 1:00 p. m.
 1551483	Direc. Regional Educacion Puntarenas	Director De Colegio 1	Sin Especialidad T-Ii	Cindea Judas	0	15/10/2026	31/01/2027	20/10/26, 8:00 a. m.
 1551831	Direc. Regional Educacion Puntarenas	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Montero Y Palito (Manzanillo)	0	17/10/2026	15/01/2027	20/10/26, 8:00 a. m.
 1551885	Direc. Regional Educacion San Carlos	Conserje De Centro Educativo	Sin Especialidad T-I	Cuestillas (Florencia)	0	01/11/2026	31/07/2030	20/10/26, 7:00 a. m.
