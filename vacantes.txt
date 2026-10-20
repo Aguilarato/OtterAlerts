@@ -10,7 +10,6 @@
 1551981	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Las Lomas	0	22/10/2026	11/12/2026	20/10/26, 8:00 a. m.
 1552035	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Biología	Nocturno Pacifico Sur	16	21/10/2026	11/12/2026	20/10/26, 9:30 a. m.
 1510067	Direc. Regional Educacion Heredia	Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)	Bilingual Accountig And Finance	C.T.P. De Flores	4	19/10/2026	11/12/2026	19/10/26, 12:31 p. m.
-1551801	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P San Pedro De Barva	0	19/10/2026	12/01/2027	19/10/26, 11:30 a. m.
 1551932	Direc. Regional Educacion Heredia	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	San Luis Gonzaga (Para)	0	20/10/2026	23/11/2026	19/10/26, 4:01 p. m.
 1551992	Direc. Regional Educacion Heredia	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Neftali Villalobos Gutierrez	0	20/10/2026	11/12/2026	20/10/26, 8:30 a. m.
 1551473	Direc. Regional Educacion Liberia	Orientador Asistente	Sin Especialidad T-Ii	Liceo De Guardia	0	26/10/2026	31/01/2027	19/10/26, 3:00 p. m.
@@ -18,14 +17,13 @@
 1551458	Direc. Regional Educacion Limon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Santa Eduviges (Limon)	0	21/10/2026	11/12/2026	19/10/26, 7:00 a. m.
 1551527	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Nautilio Acosta Piepper	0	02/11/2026	31/01/2027	20/10/26, 8:00 a. m.
 1551829	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Alf. Monge Ramirez (Naranjo)	0	21/10/2026	11/12/2026	19/10/26, 12:01 p. m.
+1552097	Direc. Regional Educacion Occidente	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Otilio Ulate Blanco (Zarcero)	0	22/10/2026	11/01/2027	20/10/26, 11:30 a. m.
 1551988	Direc. Regional Educacion Perez Zeledon	Conserje De Centro Educativo	Sin Especialidad T-I	San Pedro (San Pedro)	0	22/10/2026	31/01/2027	20/10/26, 8:20 a. m.
 1551483	Direc. Regional Educacion Puntarenas	Director De Colegio 1	Sin Especialidad T-Ii	Cindea Judas	0	15/10/2026	31/01/2027	20/10/26, 8:00 a. m.
 1551831	Direc. Regional Educacion Puntarenas	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Montero Y Palito (Manzanillo)	0	17/10/2026	15/01/2027	20/10/26, 8:00 a. m.
 1551885	Direc. Regional Educacion San Carlos	Conserje De Centro Educativo	Sin Especialidad T-I	Cuestillas (Florencia)	0	01/11/2026	31/07/2030	20/10/26, 7:00 a. m.
 1551983	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Tejarcillos	0	22/10/2026	11/12/2026	20/10/26, 8:20 a. m.
 1551832	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Música/Música	Liceo De Pavas	40	23/10/2026	11/12/2026	19/10/26, 12:01 p. m.
-1551802	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Guayabal (Santa Cruz)	0	19/10/2026	11/12/2026	19/10/26, 11:30 a. m.
-1551807	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Barrio Lajas	0	26/10/2026	11/12/2026	19/10/26, 11:30 a. m.
 1551812	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza Media (G. De E.)	Inglés	Col. Noct. De Santa Cruz	6	19/10/2026	11/12/2026	19/10/26, 12:01 p. m.
 1551820	Direc. Regional Educacion Santa Cruz	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Lorena (Cartagena)	0	19/10/2026	18/11/2026	19/10/26, 12:01 p. m.
 1551874	Direc. Regional Educacion Turrialba	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Sta. Teresita (Santa Teresita)	0	23/10/2026	11/12/2026	20/10/26, 7:00 a. m.
