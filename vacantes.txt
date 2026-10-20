@@ -4,11 +4,8 @@
 1552119	Direc. Regional Educacion Coto	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Plásticas/Artes Plásticas	Liceo Jorge Volio Jimenez	18	23/10/2026	11/12/2026	20/10/26, 12:01 p. m.
 1551928	Direc. Regional Educacion De Sarapiqui	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo Rural Las Marias	0	19/10/2026	31/07/2030	19/10/26, 4:01 p. m.
 1552077	Direc. Regional Educacion Desamparados	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Sabanillas	0	22/10/2026	11/12/2026	20/10/26, 11:00 a. m.
-1551843	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Esc. Nieborowsky	40	21/10/2026	11/12/2026	19/10/26, 12:31 p. m.
-1551845	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Nieborowsky (Cortes)	0	21/10/2026	11/12/2026	19/10/26, 12:31 p. m.
 1551981	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Las Lomas	0	22/10/2026	11/12/2026	20/10/26, 8:00 a. m.
 1552035	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Biología	Nocturno Pacifico Sur	16	21/10/2026	11/12/2026	20/10/26, 9:30 a. m.
-1510067	Direc. Regional Educacion Heredia	Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)	Bilingual Accountig And Finance	C.T.P. De Flores	4	19/10/2026	11/12/2026	19/10/26, 12:31 p. m.
 1551932	Direc. Regional Educacion Heredia	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	San Luis Gonzaga (Para)	0	20/10/2026	23/11/2026	19/10/26, 4:01 p. m.
 1551992	Direc. Regional Educacion Heredia	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Neftali Villalobos Gutierrez	0	20/10/2026	11/12/2026	20/10/26, 8:30 a. m.
 1551473	Direc. Regional Educacion Liberia	Orientador Asistente	Sin Especialidad T-Ii	Liceo De Guardia	0	26/10/2026	31/01/2027	19/10/26, 3:00 p. m.
@@ -22,4 +19,5 @@
 1551831	Direc. Regional Educacion Puntarenas	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Montero Y Palito (Manzanillo)	0	17/10/2026	15/01/2027	20/10/26, 8:00 a. m.
 1551885	Direc. Regional Educacion San Carlos	Conserje De Centro Educativo	Sin Especialidad T-I	Cuestillas (Florencia)	0	01/11/2026	31/07/2030	20/10/26, 7:00 a. m.
 1551983	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Tejarcillos	0	22/10/2026	11/12/2026	20/10/26, 8:20 a. m.
+1552136	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza Media (G. De E.)	Español	Unidad Pedagogica Daniel Oduber Quiros	5	22/10/2026	11/12/2026	20/10/26, 12:30 p. m.
 1551874	Direc. Regional Educacion Turrialba	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Sta. Teresita (Santa Teresita)	0	23/10/2026	11/12/2026	20/10/26, 7:00 a. m.
