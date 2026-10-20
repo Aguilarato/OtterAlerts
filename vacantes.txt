@@ -7,6 +7,7 @@
 1551981	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Las Lomas	0	22/10/2026	11/12/2026	20/10/26, 8:00 a. m.
 1552035	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Biología	Nocturno Pacifico Sur	16	21/10/2026	11/12/2026	20/10/26, 9:30 a. m.
 1552138	Direc. Regional Educacion Guapiles	Conserje De Centro Educativo	Sin Especialidad T-I	Cindea Cariari	0	22/10/2026	31/01/2027	20/10/26, 2:00 p. m.
+1552167	Direc. Regional Educacion Guapiles	Asistente De Dirección Centro Educativo 1	Sin Especialidad T-Ii	Colegio Nocturno De Cariari	0	26/10/2026	18/12/2026	20/10/26, 2:30 p. m.
 1551932	Direc. Regional Educacion Heredia	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	San Luis Gonzaga (Para)	0	20/10/2026	23/11/2026	19/10/26, 4:01 p. m.
 1551992	Direc. Regional Educacion Heredia	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Neftali Villalobos Gutierrez	0	20/10/2026	11/12/2026	20/10/26, 8:30 a. m.
 1551473	Direc. Regional Educacion Liberia	Orientador Asistente	Sin Especialidad T-Ii	Liceo De Guardia	0	26/10/2026	31/01/2027	19/10/26, 3:00 p. m.
