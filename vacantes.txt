@@ -9,7 +9,7 @@
 1551843	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Esc. Nieborowsky	40	21/10/2026	11/12/2026	19/10/26, 12:31 p. m.
 1551845	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Nieborowsky (Cortes)	0	21/10/2026	11/12/2026	19/10/26, 12:31 p. m.
 1551981	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Las Lomas	0	22/10/2026	11/12/2026	20/10/26, 8:00 a. m.
-1551751	Direc. Regional Educacion Guapiles	Director De Colegio 1	Sin Especialidad T-Ii	Cindea San Antonio Del Humo	0	21/10/2026	18/12/2026	19/10/26, 9:30 a. m.
+1552035	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Biología	Nocturno Pacifico Sur	16	21/10/2026	11/12/2026	20/10/26, 9:30 a. m.
 1510067	Direc. Regional Educacion Heredia	Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)	Bilingual Accountig And Finance	C.T.P. De Flores	4	19/10/2026	11/12/2026	19/10/26, 12:31 p. m.
 1551801	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P San Pedro De Barva	0	19/10/2026	12/01/2027	19/10/26, 11:30 a. m.
 1551932	Direc. Regional Educacion Heredia	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	San Luis Gonzaga (Para)	0	20/10/2026	23/11/2026	19/10/26, 4:01 p. m.
