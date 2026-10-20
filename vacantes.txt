@@ -1,6 +1,6 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
-1551557	Direc. Regional Educacion Cartago	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática Educativa .Informática Para Iii Y Iv Ciclos	C.T.P Dulce Nombre	4	14/10/2026	11/12/2026	19/10/26, 8:01 a. m.
-1551574	Direc. Regional Educacion Cartago	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Liceo De San Nicolas	24	15/10/2026	11/12/2026	19/10/26, 8:01 a. m.
+1551666	Direc. Regional Educacion Cartago	Conserje De Centro Educativo	Sin Especialidad T-I	J.N. Tres Rios	0	19/10/2026	31/01/2027	20/10/26, 8:00 a. m.
+1551505	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Liceo Rural Londres De Aguirre	17	12/10/2026	19/11/2026	20/10/26, 8:00 a. m.
 1551795	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	El Cruce (Horquetas)	0	20/10/2026	14/02/2027	19/10/26, 11:00 a. m.
 1551928	Direc. Regional Educacion De Sarapiqui	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo Rural Las Marias	0	19/10/2026	31/07/2030	19/10/26, 4:01 p. m.
 1551784	Direc. Regional Educacion Desamparados	Conserje De Centro Educativo	Sin Especialidad T-I	Rvdo Francisco Schmitz	0	22/10/2026	22/04/2028	19/10/26, 11:30 a. m.
@@ -8,6 +8,7 @@
 1551822	Direc. Regional Educacion Grande De Terraba	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Drake (Sierpe)	0	21/10/2026	11/12/2026	19/10/26, 12:01 p. m.
 1551843	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Esc. Nieborowsky	40	21/10/2026	11/12/2026	19/10/26, 12:31 p. m.
 1551845	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Nieborowsky (Cortes)	0	21/10/2026	11/12/2026	19/10/26, 12:31 p. m.
+1551981	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Las Lomas	0	22/10/2026	11/12/2026	20/10/26, 8:00 a. m.
 1551751	Direc. Regional Educacion Guapiles	Director De Colegio 1	Sin Especialidad T-Ii	Cindea San Antonio Del Humo	0	21/10/2026	18/12/2026	19/10/26, 9:30 a. m.
 1510067	Direc. Regional Educacion Heredia	Profesor De Enseñanza Tecnico Profesional Bilingue (Iii Ciclo, Educacion Diversificada O Enseñanza Especial)	Bilingual Accountig And Finance	C.T.P. De Flores	4	19/10/2026	11/12/2026	19/10/26, 12:31 p. m.
 1551801	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P San Pedro De Barva	0	19/10/2026	12/01/2027	19/10/26, 11:30 a. m.
@@ -15,11 +16,12 @@
 1551473	Direc. Regional Educacion Liberia	Orientador Asistente	Sin Especialidad T-Ii	Liceo De Guardia	0	26/10/2026	31/01/2027	19/10/26, 3:00 p. m.
 1551478	Direc. Regional Educacion Liberia	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Liceo De Guardia	0	20/10/2026	11/12/2026	19/10/26, 3:00 p. m.
 1551458	Direc. Regional Educacion Limon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Santa Eduviges (Limon)	0	21/10/2026	11/12/2026	19/10/26, 7:00 a. m.
-1551762	Direc. Regional Educacion Los Santos	Conserje De Centro Educativo	Sin Especialidad T-I	La Sabana	0	21/10/2026	01/12/2026	19/10/26, 10:00 a. m.
+1551527	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Nautilio Acosta Piepper	0	02/11/2026	31/01/2027	20/10/26, 8:00 a. m.
 1551742	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Pedro (San Pedro)	0	21/10/2026	13/02/2027	19/10/26, 9:00 a. m.
 1551829	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Alf. Monge Ramirez (Naranjo)	0	21/10/2026	11/12/2026	19/10/26, 12:01 p. m.
 1551462	Direc. Regional Educacion Puntarenas	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Salinas (San Juan Grande)	0	15/10/2026	31/01/2027	19/10/26, 10:00 a. m.
-1551493	Direc. Regional Educacion Puntarenas	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Riojalandia (Barranca)	0	22/10/2026	11/12/2026	19/10/26, 8:01 a. m.
+1551483	Direc. Regional Educacion Puntarenas	Director De Colegio 1	Sin Especialidad T-Ii	Cindea Judas	0	15/10/2026	31/01/2027	20/10/26, 8:00 a. m.
+1551831	Direc. Regional Educacion Puntarenas	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Montero Y Palito (Manzanillo)	0	17/10/2026	15/01/2027	20/10/26, 8:00 a. m.
 1551885	Direc. Regional Educacion San Carlos	Conserje De Centro Educativo	Sin Especialidad T-I	Cuestillas (Florencia)	0	01/11/2026	31/07/2030	20/10/26, 7:00 a. m.
 1551781	Direc. Regional Educacion San Jose - Oeste	Auxiliar Administrativo	Sin Especialidad T-Ii	Ipec San Jose	0	26/10/2026	10/12/2026	19/10/26, 11:00 a. m.
 1551832	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Música/Música	Liceo De Pavas	40	23/10/2026	11/12/2026	19/10/26, 12:01 p. m.
