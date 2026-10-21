@@ -8,7 +8,6 @@
 1552149	Direc. Regional Educacion Coto	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Siete Colinas (San Vito)	0	23/10/2026	11/12/2026	21/10/26, 7:00 a. m.
 1552287	Direc. Regional Educacion Coto	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Turismo En Hotelería Y Eventos Especiales	Col. Republica De Italia	4	26/10/2026	11/12/2026	21/10/26, 9:00 a. m.
 1552077	Direc. Regional Educacion Desamparados	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Sabanillas	0	22/10/2026	11/12/2026	20/10/26, 11:00 a. m.
-1552035	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Biología	Nocturno Pacifico Sur	16	21/10/2026	11/12/2026	20/10/26, 9:30 a. m.
 1552185	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Ciencias	Liceo La Lucha De Potrero Grande	15	22/10/2026	07/12/2026	20/10/26, 3:00 p. m.
 1552187	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Biología	Liceo La Lucha De Potrero Grande	9	22/10/2026	07/12/2026	20/10/26, 3:00 p. m.
 1552188	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Química	Liceo La Lucha De Potrero Grande	6	22/10/2026	07/12/2026	20/10/26, 3:00 p. m.
@@ -26,4 +25,5 @@
 1552156	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Media (G. De E.)	Francés	Liceo De San Carlos	44	20/10/2026	11/12/2026	20/10/26, 2:00 p. m.
 1552148	Direc. Regional Educacion San Jose - Norte	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	San Francisco	0	29/10/2026	21/12/2026	21/10/26, 8:00 a. m.
 1552136	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza Media (G. De E.)	Español	Unidad Pedagogica Daniel Oduber Quiros	5	22/10/2026	11/12/2026	20/10/26, 12:30 p. m.
+1552318	Direc. Regional Educacion Turrialba	Profesor De Enseñanza Media (G. De E.)	Inglés	Liceo Rural Pacayitas	40	26/10/2026	11/12/2026	21/10/26, 9:30 a. m.
 1552166	Direc. Regional Educacion Zona Norte-Norte	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	La Virgen (El Amparo)	0	21/10/2026	31/07/2030	21/10/26, 8:00 a. m.
