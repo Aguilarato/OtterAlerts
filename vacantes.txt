@@ -6,10 +6,6 @@
 1552293	Direc. Regional Educacion Cañas	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Los Angeles (Santa Rosa)	0	21/10/2026	11/12/2026	21/10/26, 9:00 a. m.
 1552149	Direc. Regional Educacion Coto	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Siete Colinas (San Vito)	0	23/10/2026	11/12/2026	21/10/26, 7:00 a. m.
 1552287	Direc. Regional Educacion Coto	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Turismo En Hotelería Y Eventos Especiales	Col. Republica De Italia	4	26/10/2026	11/12/2026	21/10/26, 9:00 a. m.
-1552185	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Ciencias	Liceo La Lucha De Potrero Grande	15	22/10/2026	07/12/2026	20/10/26, 3:00 p. m.
-1552187	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Biología	Liceo La Lucha De Potrero Grande	9	22/10/2026	07/12/2026	20/10/26, 3:00 p. m.
-1552188	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Química	Liceo La Lucha De Potrero Grande	6	22/10/2026	07/12/2026	20/10/26, 3:00 p. m.
-1552192	Direc. Regional Educacion Grande De Terraba	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Ojo De Agua (Cortes)	0	22/10/2026	31/01/2027	20/10/26, 3:00 p. m.
 1550140	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Filosofía	Cindea De Guacimo	18	15/10/2026	11/12/2026	21/10/26, 10:00 a. m.
 1551581	Direc. Regional Educacion Guapiles	Cocinero	Sin Especialidad T-I	Pocora (Pocora)	0	20/11/2026	31/07/2027	21/10/26, 8:00 a. m.
 1552368	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Inglés	Liceo San Antonio	35	02/11/2026	11/12/2026	21/10/26, 11:01 a. m.
