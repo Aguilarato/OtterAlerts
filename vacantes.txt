@@ -12,13 +12,15 @@
 1552187	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Biología	Liceo La Lucha De Potrero Grande	9	22/10/2026	07/12/2026	20/10/26, 3:00 p. m.
 1552188	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Química	Liceo La Lucha De Potrero Grande	6	22/10/2026	07/12/2026	20/10/26, 3:00 p. m.
 1552192	Direc. Regional Educacion Grande De Terraba	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Ojo De Agua (Cortes)	0	22/10/2026	31/01/2027	20/10/26, 3:00 p. m.
+1550140	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Filosofía	Cindea De Guacimo	18	15/10/2026	11/12/2026	21/10/26, 10:00 a. m.
 1551581	Direc. Regional Educacion Guapiles	Cocinero	Sin Especialidad T-I	Pocora (Pocora)	0	20/11/2026	31/07/2027	21/10/26, 8:00 a. m.
 1552138	Direc. Regional Educacion Guapiles	Conserje De Centro Educativo	Sin Especialidad T-I	Cindea Cariari	0	22/10/2026	31/01/2027	20/10/26, 2:00 p. m.
 1552167	Direc. Regional Educacion Guapiles	Asistente De Dirección Centro Educativo 1	Sin Especialidad T-Ii	Colegio Nocturno De Cariari	0	26/10/2026	18/12/2026	20/10/26, 2:30 p. m.
-1551458	Direc. Regional Educacion Limon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Santa Eduviges (Limon)	0	21/10/2026	11/12/2026	19/10/26, 7:00 a. m.
+1551458	Direc. Regional Educacion Limon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Santa Eduviges (Limon)	0	22/10/2026	11/12/2026	21/10/26, 10:00 a. m.
 1552097	Direc. Regional Educacion Occidente	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Otilio Ulate Blanco (Zarcero)	0	22/10/2026	11/01/2027	20/10/26, 11:30 a. m.
 1552117	Direc. Regional Educacion Occidente	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Joaquin L. Sancho Quesada	0	01/11/2026	31/07/2030	20/10/26, 12:01 p. m.
 1552139	Direc. Regional Educacion Perez Zeledon	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Republica Mexico (Cajon)	0	22/10/2026	11/12/2026	20/10/26, 1:00 p. m.
+1552335	Direc. Regional Educacion Perez Zeledon	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Flor De Bahia (Cortes)	0	23/10/2026	21/04/2028	21/10/26, 10:00 a. m.
 1552272	Direc. Regional Educacion Puntarenas	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	El Progreso	0	20/10/2026	01/04/2028	21/10/26, 9:00 a. m.
 1552278	Direc. Regional Educacion Puntarenas	Conserje De Centro Educativo	Sin Especialidad T-I	Jose Joaquin Mora Porras	0	21/10/2026	31/01/2027	21/10/26, 9:00 a. m.
 1552283	Direc. Regional Educacion Puntarenas	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	El Roble (Puntarenas)	0	26/10/2026	11/12/2026	21/10/26, 9:00 a. m.
