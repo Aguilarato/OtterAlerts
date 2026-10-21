@@ -28,6 +28,5 @@
 1552156	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Media (G. De E.)	Francés	Liceo De San Carlos	44	20/10/2026	11/12/2026	20/10/26, 2:00 p. m.
 1552383	Direc. Regional Educacion San Carlos	Conserje De Centro Educativo	Sin Especialidad T-I	Los Llanos (Aguas Zarcas)	0	21/10/2026	27/11/2026	21/10/26, 11:16 a. m.
 1552148	Direc. Regional Educacion San Jose - Norte	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	San Francisco	0	29/10/2026	21/12/2026	21/10/26, 8:00 a. m.
-1552136	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza Media (G. De E.)	Español	Unidad Pedagogica Daniel Oduber Quiros	5	22/10/2026	11/12/2026	20/10/26, 12:30 p. m.
 1552318	Direc. Regional Educacion Turrialba	Profesor De Enseñanza Media (G. De E.)	Inglés	Liceo Rural Pacayitas	40	26/10/2026	11/12/2026	21/10/26, 9:30 a. m.
 1552166	Direc. Regional Educacion Zona Norte-Norte	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	La Virgen (El Amparo)	0	21/10/2026	31/07/2030	21/10/26, 8:00 a. m.
