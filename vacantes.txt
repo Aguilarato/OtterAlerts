@@ -1,7 +1,11 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
+1551244	Direc. Regional Educacion Alajuela	Conserje De Centro Educativo	Sin Especialidad T-I	Fraijanes (Sabanilla)	0	19/10/2026	30/11/2026	21/10/26, 7:00 a. m.
+1551972	Direc. Regional Educacion Alajuela	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Maria Vargas Rodriguez	0	20/10/2026	11/12/2026	21/10/26, 7:00 a. m.
+1552042	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	J.N. Pedro Aguirre	0	20/10/2026	11/12/2026	21/10/26, 7:00 a. m.
 1551666	Direc. Regional Educacion Cartago	Conserje De Centro Educativo	Sin Especialidad T-I	J.N. Tres Rios	0	19/10/2026	31/01/2027	20/10/26, 8:00 a. m.
 1551505	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Liceo Rural Londres De Aguirre	17	12/10/2026	19/11/2026	20/10/26, 8:00 a. m.
 1552119	Direc. Regional Educacion Coto	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Plásticas/Artes Plásticas	Liceo Jorge Volio Jimenez	18	23/10/2026	11/12/2026	20/10/26, 12:01 p. m.
+1552149	Direc. Regional Educacion Coto	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Siete Colinas (San Vito)	0	23/10/2026	11/12/2026	21/10/26, 7:00 a. m.
 1552077	Direc. Regional Educacion Desamparados	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Sabanillas	0	22/10/2026	11/12/2026	20/10/26, 11:00 a. m.
 1551981	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Las Lomas	0	22/10/2026	11/12/2026	20/10/26, 8:00 a. m.
 1552035	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Biología	Nocturno Pacifico Sur	16	21/10/2026	11/12/2026	20/10/26, 9:30 a. m.
@@ -21,8 +25,6 @@
 1552139	Direc. Regional Educacion Perez Zeledon	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Republica Mexico (Cajon)	0	22/10/2026	11/12/2026	20/10/26, 1:00 p. m.
 1551483	Direc. Regional Educacion Puntarenas	Director De Colegio 1	Sin Especialidad T-Ii	Cindea Judas	0	15/10/2026	31/01/2027	20/10/26, 8:00 a. m.
 1551831	Direc. Regional Educacion Puntarenas	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Montero Y Palito (Manzanillo)	0	17/10/2026	15/01/2027	20/10/26, 8:00 a. m.
-1551885	Direc. Regional Educacion San Carlos	Conserje De Centro Educativo	Sin Especialidad T-I	Cuestillas (Florencia)	0	01/11/2026	31/07/2030	20/10/26, 7:00 a. m.
 1552156	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Media (G. De E.)	Francés	Liceo De San Carlos	44	20/10/2026	11/12/2026	20/10/26, 2:00 p. m.
 1551983	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Tejarcillos	0	22/10/2026	11/12/2026	20/10/26, 8:20 a. m.
 1552136	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza Media (G. De E.)	Español	Unidad Pedagogica Daniel Oduber Quiros	5	22/10/2026	11/12/2026	20/10/26, 12:30 p. m.
-1551874	Direc. Regional Educacion Turrialba	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Sta. Teresita (Santa Teresita)	0	23/10/2026	11/12/2026	20/10/26, 7:00 a. m.
