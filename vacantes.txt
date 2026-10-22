@@ -5,6 +5,8 @@
 1548033	Direc. Regional Educacion Alajuela	Asistente De Dirección Centro Educativo 1	Sin Especialidad T-Ii	Ctp Santa Eulalia	0	28/10/2026	11/12/2026	22/10/26, 11:14 a. m.
 1552626	Direc. Regional Educacion Alajuela	Conserje De Centro Educativo	Sin Especialidad T-I	Rincon Chiquito (Guacima)	0	27/10/2026	12/01/2027	22/10/26, 11:14 a. m.
 1552632	Direc. Regional Educacion Alajuela	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	11 De Abril (Guacima)	0	02/11/2026	11/12/2026	22/10/26, 11:30 a. m.
+1552722	Direc. Regional Educacion Alajuela	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Mons. Delfin Q Castro	0	23/10/2026	11/12/2026	22/10/26, 2:30 p. m.
+1552725	Direc. Regional Educacion Alajuela	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Liceo De Turrucares	0	26/10/2026	31/01/2027	22/10/26, 2:30 p. m.
 1552441	Direc. Regional Educacion Cartago	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	J.N. Ricardo Jimenez O.	0	21/10/2026	11/12/2026	22/10/26, 8:00 a. m.
 1552445	Direc. Regional Educacion Cartago	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Organizacion De Operaciones Y Servicios En Alimentos Y Bebidas	C.T.P. De Pacayas	40	21/10/2026	11/12/2026	22/10/26, 8:00 a. m.
 1552472	Direc. Regional Educacion Cartago	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo De San Nicolas	0	20/10/2026	05/12/2026	22/10/26, 8:00 a. m.
@@ -24,9 +26,9 @@
 1552575	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Zent (Carrandi)	0	26/10/2026	11/12/2026	22/10/26, 9:30 a. m.
 1552692	Direc. Regional Educacion Limon	Profesor De Enseñanza Media (G. De E.)	Ciencias	Cindea De 28 Millas	44	27/10/2026	11/12/2026	22/10/26, 1:00 p. m.
 1552599	Direc. Regional Educacion Los Santos	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Contabilidad	C.T.P. De San Pablo De Leon C.	40	26/10/2026	11/12/2026	22/10/26, 10:30 a. m.
+1552727	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Media (G. De E.)	Psicología	Liceo De Nicoya	32	26/10/2026	11/12/2026	22/10/26, 2:30 p. m.
 1552301	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Liceo Ntra.Sra De Los Angeles	44	26/10/2026	11/12/2026	22/10/26, 8:00 a. m.
 1552303	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Artes Plásticas/Artes Plásticas	Juan Valverde Mora (Rivas)	0	26/10/2026	31/01/2027	22/10/26, 11:00 a. m.
-1552490	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Dominicalito (Cortes)	0	02/11/2026	11/12/2026	21/10/26, 2:30 p. m.
 1550982	Direc. Regional Educacion Puntarenas	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Cindea Puntarenas	44	16/10/2026	11/12/2026	22/10/26, 8:00 a. m.
 1551910	Direc. Regional Educacion Puntarenas	Subdirector De Colegio	Sin Especialidad T-Ii	Liceo De Esparza	0	13/11/2026	31/01/2027	22/10/26, 8:00 a. m.
 1552704	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Cedral (Quesada)	0	20/11/2026	31/01/2028	22/10/26, 1:30 p. m.
