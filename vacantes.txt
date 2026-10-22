@@ -23,7 +23,6 @@
 1552638	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	Liceo Nuevo De Santo Domingo	0	22/10/2026	11/01/2027	22/10/26, 11:30 a. m.
 1552397	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Para El Hogar	Cindea El Cocal	10	26/10/2026	11/12/2026	22/10/26, 7:00 a. m.
 1552400	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Cindea El Cocal	10	26/10/2026	11/12/2026	22/10/26, 7:00 a. m.
-1552525	Direc. Regional Educacion Limon	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	C.T.P. Valle Estrella	0	26/10/2026	11/12/2026	21/10/26, 4:30 p. m.
 1552559	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	El Carmen (Siquirres)	0	26/10/2026	11/12/2026	22/10/26, 9:00 a. m.
 1552575	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Zent (Carrandi)	0	26/10/2026	11/12/2026	22/10/26, 9:30 a. m.
 1552692	Direc. Regional Educacion Limon	Profesor De Enseñanza Media (G. De E.)	Ciencias	Cindea De 28 Millas	44	27/10/2026	11/12/2026	22/10/26, 1:00 p. m.
