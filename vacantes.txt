@@ -8,6 +8,7 @@
 1551491	Direc. Regional Educacion Central Del Pacífico	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Esterillos (Parrita)	0	09/10/2026	31/07/2030	22/10/26, 8:00 a. m.
 1552146	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Esterillos Oeste (Parrita)	0	20/10/2026	11/12/2026	22/10/26, 8:00 a. m.
 1552466	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Parrita (Parrita)	0	02/11/2026	11/12/2026	22/10/26, 8:00 a. m.
+1552570	Direc. Regional Educacion Coto	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Cañaza (Jimenez)	0	27/10/2026	11/12/2026	22/10/26, 9:30 a. m.
 1549617	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos	Col. Noct. De Desamparados	12	02/11/2026	11/12/2026	22/10/26, 7:00 a. m.
 1552557	Direc. Regional Educacion Desamparados	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Guatuso (Patarra)	0	26/10/2026	11/12/2026	22/10/26, 9:00 a. m.
 1550140	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Filosofía	Cindea De Guacimo	18	15/10/2026	11/12/2026	21/10/26, 10:00 a. m.
@@ -20,6 +21,7 @@
 1552400	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Cindea El Cocal	10	26/10/2026	11/12/2026	22/10/26, 7:00 a. m.
 1552525	Direc. Regional Educacion Limon	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	C.T.P. Valle Estrella	0	26/10/2026	11/12/2026	21/10/26, 4:30 p. m.
 1552559	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	El Carmen (Siquirres)	0	26/10/2026	11/12/2026	22/10/26, 9:00 a. m.
+1552575	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Zent (Carrandi)	0	26/10/2026	11/12/2026	22/10/26, 9:30 a. m.
 1552300	Direc. Regional Educacion Occidente	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Música/Música	Liceo Ntra.Sra De Los Angeles	12	23/10/2026	11/12/2026	21/10/26, 11:01 a. m.
 1552301	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Liceo Ntra.Sra De Los Angeles	44	26/10/2026	11/12/2026	22/10/26, 8:00 a. m.
 1552335	Direc. Regional Educacion Perez Zeledon	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Flor De Bahia (Cortes)	0	23/10/2026	21/04/2028	21/10/26, 10:00 a. m.
@@ -31,7 +33,6 @@
 1552508	Direc. Regional Educacion San Jose - Central	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	Liceo De Costa Rica (Diurno)	0	23/10/2026	31/01/2027	21/10/26, 3:30 p. m.
 1552551	Direc. Regional Educacion San Jose - Central	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Republica De Nicaragua	0	26/10/2026	31/01/2027	22/10/26, 8:30 a. m.
 1552433	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Problemas De Aprendizaje	Franklin Roosevelt	40	16/10/2026	14/12/2026	22/10/26, 8:00 a. m.
-1552318	Direc. Regional Educacion Turrialba	Profesor De Enseñanza Media (G. De E.)	Inglés	Liceo Rural Pacayitas	40	26/10/2026	11/12/2026	21/10/26, 9:30 a. m.
 1551229	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	La Victoria (Delicias)	0	15/10/2026	11/12/2026	22/10/26, 8:00 a. m.
 1551476	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Teodoro Picado Michalski	0	15/10/2026	11/12/2026	22/10/26, 8:00 a. m.
 1551569	Direc. Regional Educacion Zona Norte-Norte	Conserje De Centro Educativo	Sin Especialidad T-I	La Cruz	0	19/10/2026	11/12/2026	22/10/26, 8:00 a. m.
