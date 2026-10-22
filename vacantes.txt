@@ -13,6 +13,7 @@
 1552146	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Esterillos Oeste (Parrita)	0	20/10/2026	11/12/2026	22/10/26, 8:00 a. m.
 1552466	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Parrita (Parrita)	0	02/11/2026	11/12/2026	22/10/26, 8:00 a. m.
 1552570	Direc. Regional Educacion Coto	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Cañaza (Jimenez)	0	27/10/2026	11/12/2026	22/10/26, 9:30 a. m.
+1552642	Direc. Regional Educacion Coto	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	Santa Maria De Pittier	0	26/10/2026	11/12/2026	22/10/26, 12:00 p. m.
 1549617	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Configuración Y Soporte De Redes De Comunicación Y Sistemas Operativos	Col. Noct. De Desamparados	12	02/11/2026	11/12/2026	22/10/26, 7:00 a. m.
 1552557	Direc. Regional Educacion Desamparados	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Guatuso (Patarra)	0	26/10/2026	11/12/2026	22/10/26, 9:00 a. m.
 1552638	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	Liceo Nuevo De Santo Domingo	0	22/10/2026	11/01/2027	22/10/26, 11:30 a. m.
