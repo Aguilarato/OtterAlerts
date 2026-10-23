@@ -1,3 +1,2 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
-1552770	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Educación Para El Hogar	Luis Rodriguez Salas	0	22/10/2026	11/12/2026	22/10/26, 3:30 p. m.
 1552926	Direc. Regional Educacion Desamparados	Conserje De Centro Educativo	Sin Especialidad T-I	Ctp Roberto Gamboa	0	27/10/2026	11/12/2026	23/10/26, 12:00 p. m.
