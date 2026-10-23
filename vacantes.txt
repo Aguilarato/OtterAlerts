@@ -1,6 +1,4 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
-1552722	Direc. Regional Educacion Alajuela	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Mons. Delfin Q Castro	0	23/10/2026	11/12/2026	22/10/26, 2:30 p. m.
-1552725	Direc. Regional Educacion Alajuela	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Liceo De Turrucares	0	26/10/2026	31/01/2027	22/10/26, 2:30 p. m.
 1552770	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Educación Para El Hogar	Luis Rodriguez Salas	0	22/10/2026	11/12/2026	22/10/26, 3:30 p. m.
 1552751	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	I.D.A. Juan Santamaria	0	23/10/2026	31/07/2031	22/10/26, 3:00 p. m.
 1552926	Direc. Regional Educacion Desamparados	Conserje De Centro Educativo	Sin Especialidad T-I	Ctp Roberto Gamboa	0	27/10/2026	11/12/2026	23/10/26, 12:00 p. m.
