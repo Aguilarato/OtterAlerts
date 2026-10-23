@@ -1,7 +1,6 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1552317	Administracion Regional Del Sist. Educ.	Supervisor De Educación	Sin Especialidad T-Ii	Dirección Regional De Educación Pérez Zeledón	0	01/11/2026	31/01/2028	22/10/26, 11:14 a. m.
 1552461	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Estudios Sociales	Dirección Regional De Educación Central Del Pacífico	0	20/10/2026	31/01/2028	22/10/26, 8:00 a. m.
-1552530	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Estudios Sociales	Dirección Regional De Educación De Grande De Térraba	0	26/10/2026	19/12/2026	22/10/26, 8:00 a. m.
 1548033	Direc. Regional Educacion Alajuela	Asistente De Dirección Centro Educativo 1	Sin Especialidad T-Ii	Ctp Santa Eulalia	0	28/10/2026	11/12/2026	22/10/26, 11:14 a. m.
 1552626	Direc. Regional Educacion Alajuela	Conserje De Centro Educativo	Sin Especialidad T-I	Rincon Chiquito (Guacima)	0	27/10/2026	12/01/2027	22/10/26, 11:14 a. m.
 1552632	Direc. Regional Educacion Alajuela	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	11 De Abril (Guacima)	0	02/11/2026	11/12/2026	22/10/26, 11:30 a. m.
@@ -19,13 +18,13 @@
 1552642	Direc. Regional Educacion Coto	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	Santa Maria De Pittier	0	26/10/2026	11/12/2026	22/10/26, 12:00 p. m.
 1552751	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	I.D.A. Juan Santamaria	0	23/10/2026	31/07/2031	22/10/26, 3:00 p. m.
 1552557	Direc. Regional Educacion Desamparados	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Guatuso (Patarra)	0	26/10/2026	11/12/2026	22/10/26, 9:00 a. m.
+1552310	Direc. Regional Educacion Grande De Terraba	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Barrio Alemania	0	27/10/2026	15/02/2027	23/10/26, 8:00 a. m.
 1552638	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	Liceo Nuevo De Santo Domingo	0	22/10/2026	11/01/2027	22/10/26, 11:30 a. m.
 1552559	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	El Carmen (Siquirres)	0	26/10/2026	11/12/2026	22/10/26, 9:00 a. m.
 1552575	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Zent (Carrandi)	0	26/10/2026	11/12/2026	22/10/26, 9:30 a. m.
 1552692	Direc. Regional Educacion Limon	Profesor De Enseñanza Media (G. De E.)	Ciencias	Cindea De 28 Millas	44	27/10/2026	11/12/2026	22/10/26, 1:00 p. m.
 1552599	Direc. Regional Educacion Los Santos	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Contabilidad	C.T.P. De San Pablo De Leon C.	40	26/10/2026	11/12/2026	22/10/26, 10:30 a. m.
 1552727	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Media (G. De E.)	Psicología	Liceo De Nicoya	32	26/10/2026	11/12/2026	22/10/26, 2:30 p. m.
-1552301	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Liceo Ntra.Sra De Los Angeles	44	26/10/2026	11/12/2026	22/10/26, 8:00 a. m.
 1552303	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Artes Plásticas/Artes Plásticas	Juan Valverde Mora (Rivas)	0	26/10/2026	31/01/2027	22/10/26, 11:00 a. m.
 1550982	Direc. Regional Educacion Puntarenas	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Cindea Puntarenas	44	16/10/2026	11/12/2026	22/10/26, 8:00 a. m.
 1551910	Direc. Regional Educacion Puntarenas	Subdirector De Colegio	Sin Especialidad T-Ii	Liceo De Esparza	0	13/11/2026	31/01/2027	22/10/26, 8:00 a. m.
@@ -40,6 +39,4 @@
 1551476	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Teodoro Picado Michalski	0	15/10/2026	11/12/2026	22/10/26, 8:00 a. m.
 1551569	Direc. Regional Educacion Zona Norte-Norte	Conserje De Centro Educativo	Sin Especialidad T-I	La Cruz	0	19/10/2026	11/12/2026	22/10/26, 8:00 a. m.
 1551652	Direc. Regional Educacion Zona Norte-Norte	Conserje De Centro Educativo	Sin Especialidad T-I	Liceo De Bijagua	0	19/10/2026	30/11/2026	22/10/26, 8:00 a. m.
-1552545	Direc. Regional Educacion Zona Norte-Norte	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Granada	0	21/10/2026	11/12/2026	22/10/26, 8:00 a. m.
-1552547	Direc. Regional Educacion Zona Norte-Norte	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Caño Castilla (El Amparo)	0	21/10/2026	05/12/2026	22/10/26, 8:00 a. m.
 1552550	Direc. Regional Educacion Zona Norte-Norte	Conserje De Centro Educativo	Sin Especialidad T-I	San Isidro (Aguas Claras)	0	02/11/2026	31/01/2027	22/10/26, 8:30 a. m.
