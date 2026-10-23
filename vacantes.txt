@@ -5,6 +5,3 @@
 1552751	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	I.D.A. Juan Santamaria	0	23/10/2026	31/07/2031	22/10/26, 3:00 p. m.
 1552926	Direc. Regional Educacion Desamparados	Conserje De Centro Educativo	Sin Especialidad T-I	Ctp Roberto Gamboa	0	27/10/2026	11/12/2026	23/10/26, 12:00 p. m.
 1552727	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Media (G. De E.)	Psicología	Liceo De Nicoya	32	26/10/2026	11/12/2026	22/10/26, 2:30 p. m.
-1552704	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Cedral (Quesada)	0	20/11/2026	31/01/2028	22/10/26, 1:30 p. m.
-1552696	Direc. Regional Educacion San Jose - Central	Conserje De Centro Educativo	Sin Especialidad T-I	Republica De Paraguay	0	26/10/2026	31/01/2027	22/10/26, 1:30 p. m.
-1552700	Direc. Regional Educacion San Jose - Central	Conserje De Centro Educativo	Sin Especialidad T-I	Republic De Haiti(S.Sebastian)	0	30/10/2026	11/12/2026	22/10/26, 1:30 p. m.
