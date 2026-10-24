@@ -133,6 +133,10 @@ async function scrapeOnce() {
     const page = await browser.newPage();
     page.setDefaultTimeout(30000);
     await page.goto(SITE_URL, { waitUntil: "networkidle2", timeout: 60000 });
+    // El MEP muestra "Estamos realizando tareas de mantenimiento" cuando el sitio está caído a propósito.
+    if (/tareas de mantenimiento/i.test(await page.evaluate(() => document.body?.innerText || ""))) {
+      throw Object.assign(new Error("Sitio del MEP en mantenimiento"), { maintenance: true });
+    }
     await page.waitForSelector("select");
     await page.waitForFunction(() => document.querySelector("select")?.options.length > 1, { timeout: 30000 });
 
@@ -208,6 +212,7 @@ async function scrapeWithRetries() {
     try {
       return await scrapeOnce();
     } catch (e) {
+      if (e.maintenance) throw e; // no tiene sentido reintentar en segundos
       lastErr = e;
       log(`Intento ${attempt}/${MAX_ATTEMPTS} falló: ${e.message}`);
       if (attempt < MAX_ATTEMPTS) await sleep(30000 * attempt); // 30 s, 60 s
@@ -435,6 +440,13 @@ async function main() {
 
 if (import.meta.url === pathToFileURL(process.argv[1] || "").href) {
   main().catch((e) => {
+    if (e.maintenance) {
+      // No es una falla nuestra: se anota y la siguiente revisión lo intenta de nuevo (sin correo de error de GitHub).
+      log("El sitio del MEP está en mantenimiento; no se modifica nada.");
+      appendHistory([`${historyStamp()} | MANTENIMIENTO | sitio del MEP en mantenimiento, se reintenta en la próxima revisión`]);
+      jobSummary("### 🛠️ MEP en mantenimiento\nNo se modificó nada; se reintenta en la próxima revisión.");
+      process.exit(0);
+    }
     console.error(new Date().toISOString(), "ERROR:", e.stack || e.message);
     try {
       appendHistory([`${historyStamp()} | ERROR | ${clean(e.message)}`]);
