@@ -1,6 +1,7 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1550457	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Enseñanza Preescolar	Dirección Regional De Educación De Occidente	0	10/11/2026	31/01/2031	26/10/26, 7:00 a. m.
 1551879	Administracion Regional Del Sist. Educ.	Supervisor De Educación	Sin Especialidad T-Ii	Dirección Regional De Educación Norte-Norte	0	20/11/2026	31/01/2027	26/10/26, 8:30 a. m.
+1554045	Direc. Regional Educacion Cañas	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Luis (Cañas)	0	27/10/2026	11/12/2026	26/10/26, 3:00 p. m.
 1552810	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Corazon De Jesus (San Rafael)	0	01/11/2026	11/12/2026	26/10/26, 8:00 a. m.
 1552812	Direc. Regional Educacion Cartago	Profesor De Enseñanza Media (G. De E.)	Biología	Liceo Academico Llano Los Angeles	3	21/10/2026	11/12/2026	26/10/26, 8:00 a. m.
 1552815	Direc. Regional Educacion Cartago	Profesor De Enseñanza Media (G. De E.)	Física	Liceo Academico Llano Los Angeles	3	21/10/2026	11/12/2026	26/10/26, 8:00 a. m.
@@ -20,6 +21,7 @@
 1553943	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Ciencias	Cindea San Antonio Del Humo	44	28/10/2026	02/12/2026	26/10/26, 11:30 a. m.
 1552976	Direc. Regional Educacion Heredia	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Joaquin Lizano Gutierrez	0	23/10/2026	20/08/2027	26/10/26, 8:00 a. m.
 1553009	Direc. Regional Educacion Heredia	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Discapacidad Múltiple	Ens. Esp. De Heredia	40	26/10/2026	11/12/2026	26/10/26, 8:00 a. m.
+1548583	Direc. Regional Educacion Liberia	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Alba Ocampo Alvarado (Liberia)	0	30/10/2026	28/02/2028	26/10/26, 3:00 p. m.
 1552836	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	C.T.P. Padre Roberto Evans Saunders	24	28/10/2026	11/12/2026	26/10/26, 7:00 a. m.
 1552838	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	C.T.P. Padre Roberto Evans Saunders	4	28/10/2026	11/12/2026	26/10/26, 7:00 a. m.
 1553869	Direc. Regional Educacion Limon	Profesor De Enseñanza Media (G. De E.)	Español	Colegio Deportivo De Limon	15	28/10/2026	11/12/2026	26/10/26, 10:00 a. m.
@@ -34,6 +36,7 @@
 1552941	Direc. Regional Educacion San Carlos	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	La Tigra (Tigra)	0	01/11/2026	31/07/2030	26/10/26, 7:00 a. m.
 1553839	Direc. Regional Educacion San Carlos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Coopevega (Cutris)	0	09/11/2026	31/01/2027	26/10/26, 10:00 a. m.
 1552947	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Esc. Ctral San Sebastian	40	22/10/2026	11/12/2026	26/10/26, 7:00 a. m.
+1554041	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza Media (G. De E.)	Filosofía	Centro Cap.Com. 15 Setiembre	2	03/11/2026	11/12/2026	26/10/26, 3:00 p. m.
 1552747	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Filomena Blanco Quiros	0	02/11/2026	31/01/2027	26/10/26, 8:00 a. m.
 1552756	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Esmeralda Oreamuno De Jimenez	0	02/11/2026	31/01/2027	26/10/26, 8:00 a. m.
 1552769	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Dante Alighieri	0	01/02/2027	31/01/2032	26/10/26, 8:00 a. m.
