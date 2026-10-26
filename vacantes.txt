@@ -11,7 +11,6 @@
 1552879	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	El Sukia (Santa Maria)	0	23/10/2026	11/12/2026	26/10/26, 8:00 a. m.
 1552905	Direc. Regional Educacion De Sarapiqui	Cocinero	Sin Especialidad T-I	San Gerardo (Rio Cuarto)	0	09/11/2026	05/06/2027	26/10/26, 7:00 a. m.
 1553803	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	El Muelle (Puerto Viejo)	0	02/11/2026	31/01/2027	26/10/26, 8:00 a. m.
-1552926	Direc. Regional Educacion Desamparados	Conserje De Centro Educativo	Sin Especialidad T-I	Ctp Roberto Gamboa	0	27/10/2026	11/12/2026	23/10/26, 12:00 p. m.
 1553801	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Liceo De San Gabriel	4	03/11/2026	11/12/2026	26/10/26, 7:00 a. m.
 1553873	Direc. Regional Educacion Desamparados	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Dr Calderon Muñoz (San Miguel)	0	28/10/2026	10/12/2026	26/10/26, 10:00 a. m.
 1552310	Direc. Regional Educacion Grande De Terraba	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Barrio Alemania	0	28/10/2026	15/02/2027	26/10/26, 8:00 a. m.
