@@ -1,2 +1,16 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
+1550457	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Enseñanza Preescolar	Dirección Regional De Educación De Occidente	0	10/11/2026	31/01/2031	26/10/26, 7:00 a. m.
+1552905	Direc. Regional Educacion De Sarapiqui	Cocinero	Sin Especialidad T-I	San Gerardo (Rio Cuarto)	0	09/11/2026	05/06/2027	26/10/26, 7:00 a. m.
 1552926	Direc. Regional Educacion Desamparados	Conserje De Centro Educativo	Sin Especialidad T-I	Ctp Roberto Gamboa	0	27/10/2026	11/12/2026	23/10/26, 12:00 p. m.
+1553801	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Liceo De San Gabriel	4	03/11/2026	11/12/2026	26/10/26, 7:00 a. m.
+1553000	Direc. Regional Educacion Grande De Terraba	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Juan Rafael Mora Porras	0	28/10/2026	11/12/2026	26/10/26, 7:00 a. m.
+1552431	Direc. Regional Educacion Guapiles	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Toro Amarillo (Guapiles)	0	06/11/2026	11/12/2026	26/10/26, 7:00 a. m.
+1552994	Direc. Regional Educacion Guapiles	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Finca Formosa	0	02/11/2026	11/12/2026	26/10/26, 7:00 a. m.
+1552836	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	C.T.P. Padre Roberto Evans Saunders	24	28/10/2026	11/12/2026	26/10/26, 7:00 a. m.
+1552838	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	C.T.P. Padre Roberto Evans Saunders	4	28/10/2026	11/12/2026	26/10/26, 7:00 a. m.
+1552844	Direc. Regional Educacion Occidente	Profesional De Servicio Civil 1 B (G.De E.)	Rehabilitación / Ocupacional	Servicio Itinerante Ens. Esp.	0	27/10/2026	11/12/2026	26/10/26, 7:00 a. m.
+1551016	Direc. Regional Educacion Perez Zeledon	Asistente De Dirección Centro Educativo 1	Sin Especialidad T-Ii	Col.Noct. San Pedro De Perez Zeledon	0	09/11/2026	31/01/2027	26/10/26, 7:00 a. m.
+1552960	Direc. Regional Educacion Puriscal	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	Salitrillos (Grifo Alto)	0	09/11/2026	31/01/2027	26/10/26, 7:00 a. m.
+1552941	Direc. Regional Educacion San Carlos	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	La Tigra (Tigra)	0	01/11/2026	31/07/2030	26/10/26, 7:00 a. m.
+1552947	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Esc. Ctral San Sebastian	40	22/10/2026	11/12/2026	26/10/26, 7:00 a. m.
+1551782	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	El Llano (Tempate)	0	02/11/2026	11/12/2026	26/10/26, 7:00 a. m.
