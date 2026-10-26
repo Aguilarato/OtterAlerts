@@ -1,9 +1,11 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1550457	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Enseñanza Preescolar	Dirección Regional De Educación De Occidente	0	10/11/2026	31/01/2031	26/10/26, 7:00 a. m.
+1551879	Administracion Regional Del Sist. Educ.	Supervisor De Educación	Sin Especialidad T-Ii	Dirección Regional De Educación Norte-Norte	0	20/11/2026	31/01/2027	26/10/26, 8:30 a. m.
 1552810	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Corazon De Jesus (San Rafael)	0	01/11/2026	11/12/2026	26/10/26, 8:00 a. m.
 1552812	Direc. Regional Educacion Cartago	Profesor De Enseñanza Media (G. De E.)	Biología	Liceo Academico Llano Los Angeles	3	21/10/2026	11/12/2026	26/10/26, 8:00 a. m.
 1552815	Direc. Regional Educacion Cartago	Profesor De Enseñanza Media (G. De E.)	Física	Liceo Academico Llano Los Angeles	3	21/10/2026	11/12/2026	26/10/26, 8:00 a. m.
 1552817	Direc. Regional Educacion Cartago	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Arturo Volio Jimenez	0	21/10/2026	11/12/2026	26/10/26, 8:00 a. m.
+1551743	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Música/Música	C.T.P. De Matapalo	10	19/10/2026	11/12/2026	26/10/26, 8:30 a. m.
 1552741	Direc. Regional Educacion Central Del Pacífico	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Damas (Quepos)	0	22/10/2026	22/12/2026	26/10/26, 8:00 a. m.
 1552819	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Los Angeles (Parrita)	0	23/10/2026	11/12/2026	26/10/26, 8:00 a. m.
 1552879	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	El Sukia (Santa Maria)	0	23/10/2026	11/12/2026	26/10/26, 8:00 a. m.
@@ -31,4 +33,6 @@
 1552769	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Dante Alighieri	0	01/02/2027	31/01/2032	26/10/26, 8:00 a. m.
 1552799	Direc. Regional Educacion San Jose - Norte	Asistente De Servicios De Educacion Especial	Sin Especialidad T-I	Cedros	0	23/10/2026	31/01/2031	26/10/26, 8:00 a. m.
 1551782	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	El Llano (Tempate)	0	02/11/2026	11/12/2026	26/10/26, 7:00 a. m.
+1551748	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Media (G. De E.)	Español	Cindea Colonia Puntarenas	3	09/10/2026	11/12/2026	26/10/26, 8:30 a. m.
+1552052	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Contabilidad	Cindea Pavon	5	09/11/2026	11/12/2026	26/10/26, 8:30 a. m.
 1552733	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	La Virgen (El Amparo)	0	22/10/2026	11/12/2026	26/10/26, 8:00 a. m.
