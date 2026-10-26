@@ -25,6 +25,7 @@
 1553869	Direc. Regional Educacion Limon	Profesor De Enseñanza Media (G. De E.)	Español	Colegio Deportivo De Limon	15	28/10/2026	11/12/2026	26/10/26, 10:00 a. m.
 1552265	Direc. Regional Educacion Occidente	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Problemas De Aprendizaje	Juan Jose Valverde Madrigal	40	23/11/2026	11/12/2026	26/10/26, 9:00 a. m.
 1552844	Direc. Regional Educacion Occidente	Profesional De Servicio Civil 1 B (G.De E.)	Rehabilitación / Ocupacional	Servicio Itinerante Ens. Esp.	0	27/10/2026	11/12/2026	26/10/26, 7:00 a. m.
+1553982	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media Bilingüe (G. De E.)	Inglés	Col.Exp.Bilingue Sarchi Sur	34	28/10/2026	10/12/2026	26/10/26, 1:00 p. m.
 1551016	Direc. Regional Educacion Perez Zeledon	Asistente De Dirección Centro Educativo 1	Sin Especialidad T-Ii	Col.Noct. San Pedro De Perez Zeledon	0	09/11/2026	31/01/2027	26/10/26, 7:00 a. m.
 1553854	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Iii Ciclo Dr.Rafael A.Calderon	8	28/10/2026	11/12/2026	26/10/26, 10:00 a. m.
 1552807	Direc. Regional Educacion Puntarenas	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	Liceo Emiliano Odio Madrigal	0	16/11/2026	31/07/2030	26/10/26, 8:00 a. m.
