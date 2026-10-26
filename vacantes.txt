@@ -18,6 +18,7 @@
 1553000	Direc. Regional Educacion Grande De Terraba	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Juan Rafael Mora Porras	0	28/10/2026	11/12/2026	26/10/26, 7:00 a. m.
 1552431	Direc. Regional Educacion Guapiles	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Toro Amarillo (Guapiles)	0	06/11/2026	11/12/2026	26/10/26, 7:00 a. m.
 1552994	Direc. Regional Educacion Guapiles	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Finca Formosa	0	02/11/2026	11/12/2026	26/10/26, 7:00 a. m.
+1553943	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Ciencias	Cindea San Antonio Del Humo	44	28/10/2026	02/12/2026	26/10/26, 11:30 a. m.
 1552976	Direc. Regional Educacion Heredia	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Joaquin Lizano Gutierrez	0	23/10/2026	20/08/2027	26/10/26, 8:00 a. m.
 1553009	Direc. Regional Educacion Heredia	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Discapacidad Múltiple	Ens. Esp. De Heredia	40	26/10/2026	11/12/2026	26/10/26, 8:00 a. m.
 1552836	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	C.T.P. Padre Roberto Evans Saunders	24	28/10/2026	11/12/2026	26/10/26, 7:00 a. m.
