@@ -24,7 +24,6 @@
 1554217	Direc. Regional Educacion Limon	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Guayacan (Siquirres)	0	28/10/2026	09/02/2027	27/10/26, 10:00 a. m.
 1554299	Direc. Regional Educacion Limon	Profesor De Enseñanza Media (G. De E.)	Español	Liceo Nuevo De Limon	27	30/10/2026	11/12/2026	27/10/26, 11:30 a. m.
 1553833	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Santa Marta (Nicoya)	0	01/02/2027	31/01/2032	27/10/26, 8:00 a. m.
-1553982	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media Bilingüe (G. De E.)	Inglés	Col.Exp.Bilingue Sarchi Sur	34	28/10/2026	10/12/2026	26/10/26, 1:00 p. m.
 1554201	Direc. Regional Educacion Occidente	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P Zarcero	0	02/11/2026	31/07/2029	27/10/26, 9:23 a. m.
 1554213	Direc. Regional Educacion Occidente	Director De Colegio 1	Sin Especialidad T-Ii	Liceo Rural San Juan	0	27/10/2026	11/12/2026	27/10/26, 10:00 a. m.
 1554245	Direc. Regional Educacion Occidente	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Quebradillas (Piedades Sur)	0	28/10/2026	11/12/2026	27/10/26, 11:00 a. m.
