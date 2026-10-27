@@ -1,4 +1,5 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
+1554440	Administracion Regional Del Sist. Educ.	Asistente De Asesoría Y Supervisión	Sin Especialidad T-Ii	Dirección Regional De Educación San Carlos	0	28/10/2026	31/01/2027	27/10/26, 3:30 p. m.
 1552729	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Industriales	Liceo Martha Mirambel Umaña	44	02/11/2026	11/12/2026	27/10/26, 7:00 a. m.
 1554296	Direc. Regional Educacion Cañas	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	San Rafael (Sierra)	0	27/10/2026	06/12/2026	27/10/26, 12:00 p. m.
 1554302	Direc. Regional Educacion Cañas	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Ctp De Canas	14	27/10/2026	11/12/2026	27/10/26, 12:00 p. m.
