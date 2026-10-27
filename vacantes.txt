@@ -13,10 +13,12 @@
 1551761	Direc. Regional Educacion Desamparados	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Dr Calderon Muñoz (San Miguel)	0	02/11/2026	11/12/2026	27/10/26, 7:00 a. m.
 1554001	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	J.N. Manuel Ortuño Boutin	0	29/10/2026	05/12/2026	27/10/26, 7:00 a. m.
 1554356	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática En Redes De Computadoras	Unidad Pedagogica La Valencia	16	29/10/2026	11/12/2026	27/10/26, 1:30 p. m.
+1554363	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática Educativa .Informática Para Iii Y Iv Ciclos	C.T.P. Jose Figueres Ferrer	12	28/10/2026	11/12/2026	27/10/26, 2:00 p. m.
 1554117	Direc. Regional Educacion Heredia	Cocinero	Sin Especialidad T-I	Pdro Maria Badilla Bolaños	0	27/10/2026	19/01/2027	27/10/26, 7:30 a. m.
 1554120	Direc. Regional Educacion Heredia	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Liceo Los Lagos	0	27/10/2026	03/01/2027	27/10/26, 7:30 a. m.
 1554234	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media (G. De E.)	Ciencias	Liceo Nuevo De Santo Domingo	44	27/10/2026	11/12/2026	27/10/26, 10:30 a. m.
 1554313	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media (G. De E.)	Matemáticas	I.P.E.C. Barva	40	27/10/2026	11/12/2026	27/10/26, 12:00 p. m.
+1554377	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Llorente (Llorente)	0	27/10/2026	11/12/2026	27/10/26, 2:00 p. m.
 1548583	Direc. Regional Educacion Liberia	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Alba Ocampo Alvarado (Liberia)	0	30/10/2026	28/02/2028	26/10/26, 3:00 p. m.
 1554051	Direc. Regional Educacion Liberia	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Argendora	0	28/10/2026	11/12/2026	26/10/26, 3:30 p. m.
 1548534	Direc. Regional Educacion Limon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Las Palmiras (Siquirres)	0	01/11/2026	11/12/2026	27/10/26, 11:00 a. m.
@@ -33,6 +35,7 @@
 1554218	Direc. Regional Educacion Perez Zeledon	Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Santa Rosa (Rio Nuevo)	0	28/10/2026	10/12/2026	27/10/26, 10:00 a. m.
 1553986	Direc. Regional Educacion San Carlos	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	San Miguel (Pocosol)	0	26/11/2026	31/07/2030	27/10/26, 7:00 a. m.
 1554232	Direc. Regional Educacion San Carlos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Esc. Jose Rodriguez Martinez	0	27/10/2026	11/12/2026	27/10/26, 10:30 a. m.
+1554373	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Media (G. De E.)	Inglés	Liceo Rural Banderas De Pocoso	40	01/11/2026	11/12/2026	27/10/26, 2:00 p. m.
 1554041	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza Media (G. De E.)	Filosofía	Centro Cap.Com. 15 Setiembre	2	03/11/2026	11/12/2026	26/10/26, 3:00 p. m.
 1553835	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Liceo Napoleon Quesada Salazar	44	26/10/2026	09/12/2026	27/10/26, 8:00 a. m.
 1553951	Direc. Regional Educacion San Jose - Norte	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Liceo De Cedros	0	01/11/2026	31/07/2030	27/10/26, 8:00 a. m.
