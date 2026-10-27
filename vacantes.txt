@@ -37,6 +37,7 @@
 1553835	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Liceo Napoleon Quesada Salazar	44	26/10/2026	09/12/2026	27/10/26, 8:00 a. m.
 1553951	Direc. Regional Educacion San Jose - Norte	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Liceo De Cedros	0	01/11/2026	31/07/2030	27/10/26, 8:00 a. m.
 1554191	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Retardo Mental	Lajas	40	02/11/2026	11/12/2026	27/10/26, 10:00 a. m.
+1554323	Direc. Regional Educacion Sulá	Cocinero	Sin Especialidad T-I	Chase (Bratsi)	0	29/10/2026	11/12/2026	27/10/26, 12:30 p. m.
 1552910	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Liceo De Katira	19	23/10/2026	11/12/2026	27/10/26, 8:00 a. m.
 1552916	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Media (G. De E.)	Química	Liceo San Jose De Upala	14	23/10/2026	11/12/2026	27/10/26, 8:00 a. m.
 1552918	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Media (G. De E.)	Ciencias	Liceo San Jose De Upala	30	23/10/2026	11/12/2026	27/10/26, 8:00 a. m.
