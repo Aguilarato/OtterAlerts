@@ -19,6 +19,7 @@
 1554114	Direc. Regional Educacion Limon	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	La Francia (Cairo)	0	29/10/2026	11/12/2026	27/10/26, 7:00 a. m.
 1553833	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Santa Marta (Nicoya)	0	01/02/2027	31/01/2032	27/10/26, 8:00 a. m.
 1553982	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media Bilingüe (G. De E.)	Inglés	Col.Exp.Bilingue Sarchi Sur	34	28/10/2026	10/12/2026	26/10/26, 1:00 p. m.
+1554201	Direc. Regional Educacion Occidente	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P Zarcero	0	02/11/2026	31/07/2029	27/10/26, 9:23 a. m.
 1553854	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Iii Ciclo Dr.Rafael A.Calderon	8	28/10/2026	11/12/2026	26/10/26, 10:00 a. m.
 1553979	Direc. Regional Educacion Perez Zeledon	Orientador 2	Sin Especialidad T-Ii	C.T.P. General Viejo	0	09/11/2026	31/01/2027	27/10/26, 7:00 a. m.
 1553839	Direc. Regional Educacion San Carlos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Coopevega (Cutris)	0	09/11/2026	31/01/2027	26/10/26, 10:00 a. m.
