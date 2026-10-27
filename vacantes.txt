@@ -1,6 +1,8 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1552729	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Industriales	Liceo Martha Mirambel Umaña	44	02/11/2026	11/12/2026	27/10/26, 7:00 a. m.
 1554045	Direc. Regional Educacion Cañas	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Luis (Cañas)	0	27/10/2026	11/12/2026	26/10/26, 3:00 p. m.
+1554296	Direc. Regional Educacion Cañas	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	San Rafael (Sierra)	0	27/10/2026	06/12/2026	27/10/26, 12:00 p. m.
+1554302	Direc. Regional Educacion Cañas	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Ctp De Canas	14	27/10/2026	11/12/2026	27/10/26, 12:00 p. m.
 1553829	Direc. Regional Educacion Cartago	Conserje De Centro Educativo	Sin Especialidad T-I	Luis Cruz Meza (Cachi)	0	02/11/2026	11/12/2026	27/10/26, 8:00 a. m.
 1553830	Direc. Regional Educacion Cartago	Profesor De Enseñanza Media (G. De E.)	Inglés	Col. Noct. La Union	10	26/10/2026	08/12/2026	27/10/26, 8:00 a. m.
 1553907	Direc. Regional Educacion Cartago	Conserje De Centro Educativo	Sin Especialidad T-I	Unidad Pedagogica San Diego	0	23/10/2026	16/12/2026	27/10/26, 8:00 a. m.
@@ -13,6 +15,7 @@
 1554117	Direc. Regional Educacion Heredia	Cocinero	Sin Especialidad T-I	Pdro Maria Badilla Bolaños	0	27/10/2026	19/01/2027	27/10/26, 7:30 a. m.
 1554120	Direc. Regional Educacion Heredia	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Liceo Los Lagos	0	27/10/2026	03/01/2027	27/10/26, 7:30 a. m.
 1554234	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media (G. De E.)	Ciencias	Liceo Nuevo De Santo Domingo	44	27/10/2026	11/12/2026	27/10/26, 10:30 a. m.
+1554313	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media (G. De E.)	Matemáticas	I.P.E.C. Barva	40	27/10/2026	11/12/2026	27/10/26, 12:00 p. m.
 1548583	Direc. Regional Educacion Liberia	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Alba Ocampo Alvarado (Liberia)	0	30/10/2026	28/02/2028	26/10/26, 3:00 p. m.
 1554051	Direc. Regional Educacion Liberia	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Argendora	0	28/10/2026	11/12/2026	26/10/26, 3:30 p. m.
 1548534	Direc. Regional Educacion Limon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Las Palmiras (Siquirres)	0	01/11/2026	11/12/2026	27/10/26, 11:00 a. m.
