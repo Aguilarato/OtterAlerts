@@ -12,6 +12,7 @@
 1554241	Direc. Regional Educacion Coto	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Retardo Mental	Central San Jose (Golfito)	40	29/10/2026	11/12/2026	27/10/26, 10:30 a. m.
 1551761	Direc. Regional Educacion Desamparados	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Dr Calderon Muñoz (San Miguel)	0	02/11/2026	11/12/2026	27/10/26, 7:00 a. m.
 1554001	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	J.N. Manuel Ortuño Boutin	0	29/10/2026	05/12/2026	27/10/26, 7:00 a. m.
+1554356	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática En Redes De Computadoras	Unidad Pedagogica La Valencia	16	29/10/2026	11/12/2026	27/10/26, 1:30 p. m.
 1554117	Direc. Regional Educacion Heredia	Cocinero	Sin Especialidad T-I	Pdro Maria Badilla Bolaños	0	27/10/2026	19/01/2027	27/10/26, 7:30 a. m.
 1554120	Direc. Regional Educacion Heredia	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Liceo Los Lagos	0	27/10/2026	03/01/2027	27/10/26, 7:30 a. m.
 1554234	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media (G. De E.)	Ciencias	Liceo Nuevo De Santo Domingo	44	27/10/2026	11/12/2026	27/10/26, 10:30 a. m.
