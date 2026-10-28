@@ -1,14 +1,14 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1554440	Administracion Regional Del Sist. Educ.	Asistente De Asesoría Y Supervisión	Sin Especialidad T-Ii	Dirección Regional De Educación San Carlos	0	28/10/2026	31/01/2027	27/10/26, 3:30 p. m.
+1554602	Direc. Regional Educacion Alajuela	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	Liceo Martha Mirambell Umaña	0	01/11/2026	31/01/2032	28/10/26, 10:30 a. m.
 1554296	Direc. Regional Educacion Cañas	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	San Rafael (Sierra)	0	27/10/2026	06/12/2026	27/10/26, 12:00 p. m.
 1554302	Direc. Regional Educacion Cañas	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Ctp De Canas	14	27/10/2026	11/12/2026	27/10/26, 12:00 p. m.
 1554186	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Corazon De Jesus (San Rafael)	0	01/11/2026	11/12/2026	28/10/26, 8:00 a. m.
-1554235	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Las Brisas (Parrita)	0	27/10/2026	11/12/2026	27/10/26, 10:30 a. m.
-1554241	Direc. Regional Educacion Coto	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Retardo Mental	Central San Jose (Golfito)	40	29/10/2026	11/12/2026	27/10/26, 10:30 a. m.
+1554615	Direc. Regional Educacion Coto	Cocinero	Sin Especialidad T-I	El Triunfo	0	02/11/2026	31/01/2027	28/10/26, 10:30 a. m.
 1554356	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática En Redes De Computadoras	Unidad Pedagogica La Valencia	16	29/10/2026	11/12/2026	27/10/26, 1:30 p. m.
 1554363	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática Educativa .Informática Para Iii Y Iv Ciclos	C.T.P. Jose Figueres Ferrer	12	28/10/2026	11/12/2026	27/10/26, 2:00 p. m.
+1554612	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	C.T.P. De Acosta	36	02/11/2026	11/12/2026	28/10/26, 10:30 a. m.
 1554548	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Español	Cindea San Martin	35	09/11/2026	11/12/2026	28/10/26, 10:00 a. m.
-1554234	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media (G. De E.)	Ciencias	Liceo Nuevo De Santo Domingo	44	27/10/2026	11/12/2026	27/10/26, 10:30 a. m.
 1554313	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media (G. De E.)	Matemáticas	I.P.E.C. Barva	40	27/10/2026	11/12/2026	27/10/26, 12:00 p. m.
 1554377	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Llorente (Llorente)	0	27/10/2026	11/12/2026	27/10/26, 2:00 p. m.
 1554491	Direc. Regional Educacion Heredia	Asistente De Dirección Centro Educativo 2	Sin Especialidad T-Ii	Liceo La Aurora	0	28/10/2026	11/12/2026	28/10/26, 7:30 a. m.
@@ -24,7 +24,6 @@
 1554575	Direc. Regional Educacion Occidente	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Agroecología	C.T.P. De Piedades Sur	24	30/10/2026	10/12/2026	28/10/26, 10:00 a. m.
 1554501	Direc. Regional Educacion Peninsular	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Retardo Mental	C.T.P. De Paquera	28	28/10/2026	11/12/2026	28/10/26, 8:00 a. m.
 1554505	Direc. Regional Educacion Peninsular	Profesor De Enseñanza Media (G. De E.)	Ciencias	C.T.P. De Paquera	40	27/10/2026	02/12/2026	28/10/26, 8:00 a. m.
-1554232	Direc. Regional Educacion San Carlos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Esc. Jose Rodriguez Martinez	0	27/10/2026	11/12/2026	27/10/26, 10:30 a. m.
 1554373	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Media (G. De E.)	Inglés	Liceo Rural Banderas De Pocoso	40	01/11/2026	11/12/2026	27/10/26, 2:00 p. m.
 1554540	Direc. Regional Educacion San Carlos	Conserje De Centro Educativo	Sin Especialidad T-I	Juan Bautista Solis R(Quesada)	0	02/11/2026	31/07/2030	28/10/26, 9:30 a. m.
 1554560	Direc. Regional Educacion San Carlos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Juan Chaves Rojas (Quesada)	0	29/10/2026	25/02/2027	28/10/26, 9:30 a. m.
