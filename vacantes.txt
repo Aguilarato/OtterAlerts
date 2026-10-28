@@ -4,7 +4,7 @@
 1554440	Administracion Regional Del Sist. Educ.	Asistente De Asesoría Y Supervisión	Sin Especialidad T-Ii	Dirección Regional De Educación San Carlos	0	28/10/2026	31/01/2027	27/10/26, 3:30 p. m.
 1551296	Calidad De La Educacion	Asesor Nacional (G. De E.)	Matemáticas	Departamento De Evaluación Académica Y Certificación	0	09/11/2026	31/01/2027	28/10/26, 2:00 p. m.
 1551780	Calidad De La Educacion	Profesional De Servicio Civil 3 (G.De E.)	Derecho	Dirección Gestión Y Evaluación De La Calidad	0	09/11/2026	31/07/2030	28/10/26, 2:00 p. m.
-1554630	Cumplimiento De Los Derechos	Profesional De Servicio Civil 2 (G.De E.)	Psicología	Departamento De Convivencia Estudiantil	0	09/11/2026	31/07/2028	28/10/26, 2:00 p. m.
+1554630	Cumplimiento De Los Derechos	Profesional De Servicio Civil 2 (G.De E.)	Trabajo Social	Departamento De Convivencia Estudiantil	0	09/11/2026	31/07/2028	28/10/26, 2:30 p. m.
 1554611	Definicion Y Planif. De La Pol. Educ.	Profesional De Servicio Civil 2 (G.De E.)	Administración / Generalista	Despacho Del Viceministro Administrativo	0	09/11/2026	31/12/2027	28/10/26, 2:00 p. m.
 1554270	Direc. Regional Educacion Alajuela	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Enrique Pinto Fernandez	0	27/10/2026	31/01/2027	28/10/26, 2:00 p. m.
 1554602	Direc. Regional Educacion Alajuela	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	Liceo Martha Mirambell Umaña	0	01/11/2026	31/01/2032	28/10/26, 10:30 a. m.
