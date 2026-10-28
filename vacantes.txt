@@ -1,8 +1,10 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1554440	Administracion Regional Del Sist. Educ.	Asistente De Asesoría Y Supervisión	Sin Especialidad T-Ii	Dirección Regional De Educación San Carlos	0	28/10/2026	31/01/2027	27/10/26, 3:30 p. m.
 1554602	Direc. Regional Educacion Alajuela	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	Liceo Martha Mirambell Umaña	0	01/11/2026	31/01/2032	28/10/26, 10:30 a. m.
-1554296	Direc. Regional Educacion Cañas	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	San Rafael (Sierra)	0	27/10/2026	06/12/2026	27/10/26, 12:00 p. m.
-1554302	Direc. Regional Educacion Cañas	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Ctp De Canas	14	27/10/2026	11/12/2026	27/10/26, 12:00 p. m.
+1554619	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Ciberseguridad	C.T.P. Invu Las Cañas	20	28/10/2026	11/12/2026	28/10/26, 12:00 p. m.
+1554623	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática En Desarrollo Del Software	C.T.P. Invu Las Cañas	20	28/10/2026	11/12/2026	28/10/26, 12:00 p. m.
+1554633	Direc. Regional Educacion Alajuela	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Quebradas (Tambor)	0	28/10/2026	11/12/2026	28/10/26, 12:00 p. m.
+1554680	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Ascension Esquivel Ibarra	0	29/10/2026	11/12/2026	28/10/26, 12:00 p. m.
 1554186	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Corazon De Jesus (San Rafael)	0	01/11/2026	11/12/2026	28/10/26, 8:00 a. m.
 1554615	Direc. Regional Educacion Coto	Cocinero	Sin Especialidad T-I	El Triunfo	0	02/11/2026	31/01/2027	28/10/26, 10:30 a. m.
 1554356	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática En Redes De Computadoras	Unidad Pedagogica La Valencia	16	29/10/2026	11/12/2026	27/10/26, 1:30 p. m.
@@ -10,14 +12,15 @@
 1554612	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	C.T.P. De Acosta	36	02/11/2026	11/12/2026	28/10/26, 10:30 a. m.
 1554548	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Español	Cindea San Martin	35	09/11/2026	11/12/2026	28/10/26, 10:00 a. m.
 1554250	Direc. Regional Educacion Heredia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Procesos Industriales	C.T.P. De Flores	20	28/10/2026	11/12/2026	28/10/26, 11:30 a. m.
-1554313	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media (G. De E.)	Matemáticas	I.P.E.C. Barva	40	27/10/2026	11/12/2026	27/10/26, 12:00 p. m.
 1554377	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Llorente (Llorente)	0	27/10/2026	11/12/2026	27/10/26, 2:00 p. m.
 1554491	Direc. Regional Educacion Heredia	Asistente De Dirección Centro Educativo 2	Sin Especialidad T-Ii	Liceo La Aurora	0	28/10/2026	11/12/2026	28/10/26, 7:30 a. m.
 1554499	Direc. Regional Educacion Heredia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Gestion De La Calidad	Ctp Ing. Carlos Pascua Zúñiga	40	28/10/2026	09/12/2026	28/10/26, 8:00 a. m.
 1554649	Direc. Regional Educacion Heredia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Gestion De La Produccion	C.T.P. De Flores	20	28/10/2026	11/12/2026	28/10/26, 11:30 a. m.
 1554479	Direc. Regional Educacion Limon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Castillo Nuevo (Limon)	0	30/11/2026	31/01/2029	28/10/26, 7:01 a. m.
 1554517	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Plásticas/Artes Plásticas	Colegio La Florida	4	30/10/2026	11/12/2026	28/10/26, 8:30 a. m.
+1554642	Direc. Regional Educacion Limon	Profesor De Enseñanza Media (G. De E.)	Inglés	Cindea El Cocal	15	02/11/2026	11/12/2026	28/10/26, 12:00 p. m.
 1551330	Direc. Regional Educacion Los Santos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Repulica De Bolivia	0	19/10/2026	31/01/2031	28/10/26, 7:01 a. m.
+1554685	Direc. Regional Educacion Nicoya	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P. De Mansion	0	29/10/2026	31/01/2027	28/10/26, 12:00 p. m.
 1554530	Direc. Regional Educacion Occidente	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Liceo Exp. Bilingue San Ramon	32	30/10/2026	11/12/2026	28/10/26, 9:00 a. m.
 1554545	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media Bilingüe (G. De E.)	Inglés	Liceo De Palmares	10	30/10/2026	10/12/2026	28/10/26, 9:30 a. m.
 1554575	Direc. Regional Educacion Occidente	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Agroecología	C.T.P. De Piedades Sur	24	30/10/2026	10/12/2026	28/10/26, 10:00 a. m.
