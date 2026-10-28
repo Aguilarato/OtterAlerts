@@ -21,6 +21,7 @@
 1554201	Direc. Regional Educacion Occidente	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P Zarcero	0	02/11/2026	31/07/2029	27/10/26, 9:23 a. m.
 1554213	Direc. Regional Educacion Occidente	Director De Colegio 1	Sin Especialidad T-Ii	Liceo Rural San Juan	0	27/10/2026	11/12/2026	27/10/26, 10:00 a. m.
 1554245	Direc. Regional Educacion Occidente	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Quebradillas (Piedades Sur)	0	28/10/2026	11/12/2026	27/10/26, 11:00 a. m.
+1554530	Direc. Regional Educacion Occidente	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Liceo Exp. Bilingue San Ramon	32	30/10/2026	11/12/2026	28/10/26, 9:00 a. m.
 1554501	Direc. Regional Educacion Peninsular	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Retardo Mental	C.T.P. De Paquera	28	28/10/2026	11/12/2026	28/10/26, 8:00 a. m.
 1554505	Direc. Regional Educacion Peninsular	Profesor De Enseñanza Media (G. De E.)	Ciencias	C.T.P. De Paquera	40	27/10/2026	02/12/2026	28/10/26, 8:00 a. m.
 1554215	Direc. Regional Educacion Perez Zeledon	Cocinero	Sin Especialidad T-I	Pavones	0	29/10/2026	31/01/2027	27/10/26, 10:00 a. m.
