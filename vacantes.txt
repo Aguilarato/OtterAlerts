@@ -14,19 +14,12 @@
 1554986	Direc. Regional Educacion Desamparados	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Tranquerillas (San Gabriel)	0	02/11/2026	11/12/2026	29/10/26, 10:30 a. m.
 1554753	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Español	Liceo De Llano Bonito	10	09/11/2026	11/12/2026	29/10/26, 7:00 a. m.
 1555169	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Pueblo Nuevo (Duacari)	0	02/11/2026	11/12/2026	29/10/26, 2:30 p. m.
+1555185	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Física	C.T.P. De Pococi	26	02/11/2026	12/12/2026	29/10/26, 3:00 p. m.
 1554832	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media (G. De E.)	Inglés	C.T.P. De Heredia	20	28/10/2026	11/12/2026	28/10/26, 3:30 p. m.
 1554913	Direc. Regional Educacion Heredia	Auxiliar Administrativo	Sin Especialidad T-Ii	Liceo Conservatorio Castella	0	26/11/2026	31/01/2030	29/10/26, 8:30 a. m.
 1555176	Direc. Regional Educacion Heredia	Cocinero	Sin Especialidad T-I	Jesus (Jesus)	0	29/10/2026	11/12/2026	29/10/26, 2:30 p. m.
-1554107	Direc. Regional Educacion Liberia	Profesor De Enseñanza Media (G. De E.)	Ciencias	C.T.P. De Liberia	10	30/10/2026	11/12/2026	28/10/26, 3:00 p. m.
-1554108	Direc. Regional Educacion Liberia	Profesor De Enseñanza Media (G. De E.)	Física	C.T.P. De Liberia	12	30/10/2026	11/12/2026	28/10/26, 3:00 p. m.
-1554109	Direc. Regional Educacion Liberia	Profesor De Enseñanza Media (G. De E.)	Química	C.T.P. De Liberia	24	30/10/2026	11/12/2026	28/10/26, 3:00 p. m.
-1554110	Direc. Regional Educacion Liberia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Ascension Esquivel Ibarra	0	30/10/2026	11/12/2026	28/10/26, 3:00 p. m.
-1554111	Direc. Regional Educacion Liberia	Conserje De Centro Educativo	Sin Especialidad T-I	Gil Tablada Corea (La Cruz)	0	30/10/2026	11/12/2026	28/10/26, 3:00 p. m.
-1554112	Direc. Regional Educacion Liberia	Profesor De Enseñanza Media (G. De E.)	Español	Liceo Art. Felipe Perez P.	25	30/10/2026	11/12/2026	28/10/26, 3:00 p. m.
-1554113	Direc. Regional Educacion Liberia	Profesor De Enseñanza Media (G. De E.)	Español	C.T.P. De Liberia	20	30/10/2026	11/12/2026	28/10/26, 3:00 p. m.
-1554189	Direc. Regional Educacion Liberia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Guardia (Nacascolo)	0	02/11/2026	11/12/2026	28/10/26, 3:00 p. m.
-1554194	Direc. Regional Educacion Liberia	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Col Nocturno De Bagaces	30	30/10/2026	11/12/2026	28/10/26, 3:00 p. m.
-1554794	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Plásticas/Artes Plásticas	C.T.P. Liverpool	28	02/11/2026	11/12/2026	28/10/26, 3:00 p. m.
+1552581	Direc. Regional Educacion Liberia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Liceo Las Juntas De Caoba	20	05/11/2026	11/12/2026	29/10/26, 3:00 p. m.
+1554872	Direc. Regional Educacion Liberia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Nazareth (Liberia)	0	30/10/2026	11/12/2026	29/10/26, 3:00 p. m.
 1555155	Direc. Regional Educacion Limon	Conserje De Centro Educativo	Sin Especialidad T-I	Rafael Iglesias Castro (Limon)	0	02/11/2026	31/01/2027	29/10/26, 2:00 p. m.
 1554570	Direc. Regional Educacion Occidente	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Col. Noct. De Palmares	6	02/11/2026	11/12/2026	29/10/26, 11:00 a. m.
 1555094	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Pedro (San Pedro)	0	02/11/2026	11/12/2026	29/10/26, 12:00 p. m.
@@ -45,7 +38,6 @@
 1554303	Direc. Regional Educacion San Jose - Norte	Director De Enseñanza Preescolar 3	Sin Especialidad T-Ii	J.N. Roberto Cantillano	0	02/11/2026	31/01/2031	29/10/26, 8:30 a. m.
 1554340	Direc. Regional Educacion San Jose - Norte	Cocinero	Sin Especialidad T-I	Liceo Virgen De La Medalla Milagrosa	0	26/10/2026	22/01/2027	29/10/26, 8:30 a. m.
 1554362	Direc. Regional Educacion San Jose - Norte	Asistente De Dirección Centro Educativo 2	Sin Especialidad T-Ii	Liceo Salvador Umaña Castro	0	23/11/2026	31/07/2030	29/10/26, 8:30 a. m.
-1554781	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Andres Bello Lopez	0	02/11/2026	11/12/2026	28/10/26, 3:00 p. m.
 1554182	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Media (G. De E.)	Ciencias	Liceo Las Delicias	16	23/10/2026	11/12/2026	29/10/26, 8:30 a. m.
 1531863	Evaluacion De Los Servicios	Profesional De Servicio Civil 2 (G.De E.)	Trabajo Social	Contraloría De Derechos Estudiantiles	0	09/11/2026	07/05/2030	28/10/26, 9:00 p. m.
 1547746	Fiscalizacion Y Control	Profesional De Servicio Civil 2 (G.De E.)	Administración / Generalista	Auditoría Interna	0	09/11/2026	31/07/2030	28/10/26, 2:00 p. m.
