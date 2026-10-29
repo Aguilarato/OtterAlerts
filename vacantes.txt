@@ -9,10 +9,6 @@
 1554611	Definicion Y Planif. De La Pol. Educ.	Profesional De Servicio Civil 2 (G.De E.)	Administración / Generalista	Despacho Del Viceministro Administrativo	0	09/11/2026	31/12/2027	28/10/26, 2:00 p. m.
 1554270	Direc. Regional Educacion Alajuela	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Enrique Pinto Fernandez	0	27/10/2026	31/01/2027	28/10/26, 2:00 p. m.
 1554617	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Diseño Y Desarrollo Digital	Liceo Puente De Piedra	4	28/10/2026	11/12/2026	28/10/26, 2:00 p. m.
-1554619	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Ciberseguridad	C.T.P. Invu Las Cañas	20	28/10/2026	11/12/2026	28/10/26, 12:00 p. m.
-1554623	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática En Desarrollo Del Software	C.T.P. Invu Las Cañas	20	28/10/2026	11/12/2026	28/10/26, 12:00 p. m.
-1554633	Direc. Regional Educacion Alajuela	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Quebradas (Tambor)	0	28/10/2026	11/12/2026	28/10/26, 12:00 p. m.
-1554680	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Central De Atenas (Atenas)	0	29/10/2026	11/12/2026	28/10/26, 12:30 p. m.
 1554749	Direc. Regional Educacion Alajuela	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo El Carmen	0	02/11/2026	11/12/2026	28/10/26, 2:00 p. m.
 1554535	Direc. Regional Educacion Cartago	Profesor De Enseñanza Media (G. De E.)	Inglés	C.T.P. Fernando Volio Jimenez	44	28/10/2026	11/12/2026	29/10/26, 8:00 a. m.
 1554552	Direc. Regional Educacion Cartago	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Retardo Mental	Liceo Francisca Carrasco	44	02/11/2026	11/12/2026	29/10/26, 8:00 a. m.
@@ -35,13 +31,14 @@
 1554189	Direc. Regional Educacion Liberia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Guardia (Nacascolo)	0	02/11/2026	11/12/2026	28/10/26, 3:00 p. m.
 1554194	Direc. Regional Educacion Liberia	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Col Nocturno De Bagaces	30	30/10/2026	11/12/2026	28/10/26, 3:00 p. m.
 1554794	Direc. Regional Educacion Limon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Plásticas/Artes Plásticas	C.T.P. Liverpool	28	02/11/2026	11/12/2026	28/10/26, 3:00 p. m.
-1554685	Direc. Regional Educacion Nicoya	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P. De Mansion	0	29/10/2026	31/01/2027	28/10/26, 12:00 p. m.
 1554570	Direc. Regional Educacion Occidente	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Col. Noct. De Palmares	6	02/11/2026	11/12/2026	29/10/26, 11:00 a. m.
 1554718	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Ciencias	Liceo Exp. Bilingue San Ramon	39	30/10/2026	11/12/2026	28/10/26, 1:00 p. m.
 1554731	Direc. Regional Educacion Occidente	Conserje De Centro Educativo	Sin Especialidad T-I	La Union (Granja)	0	30/10/2026	31/07/2030	28/10/26, 1:30 p. m.
+1555094	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Pedro (San Pedro)	0	02/11/2026	11/12/2026	29/10/26, 12:00 p. m.
 1554912	Direc. Regional Educacion Peninsular	Profesor De Enseñanza Media (G. De E.)	Biología	Cindea Paquera	7	01/11/2026	11/12/2026	29/10/26, 9:00 a. m.
 1554539	Direc. Regional Educacion Perez Zeledon	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Francisco Morazan Quesada	0	02/11/2026	31/01/2032	29/10/26, 8:00 a. m.
 1554943	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Rafael (Platanares)	0	09/11/2026	11/12/2026	29/10/26, 9:00 a. m.
+1555091	Direc. Regional Educacion Perez Zeledon	Conserje De Centro Educativo	Sin Especialidad T-I	Santa Cecilia (San Pedro)	0	02/11/2026	31/01/2027	29/10/26, 12:00 p. m.
 1554322	Direc. Regional Educacion Puntarenas	Cocinero	Sin Especialidad T-I	Marañonal (Macacona)	0	26/10/2026	31/01/2027	29/10/26, 8:30 a. m.
 1554534	Direc. Regional Educacion Puntarenas	Cocinero	Sin Especialidad T-I	El Mojon (Espiritu Santo)	0	30/09/2026	31/07/2031	29/10/26, 8:00 a. m.
 1554915	Direc. Regional Educacion Puntarenas	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Isidro (San Isidro)	0	09/11/2026	11/12/2026	29/10/26, 9:00 a. m.
