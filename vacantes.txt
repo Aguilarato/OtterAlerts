@@ -23,8 +23,6 @@
 1554693	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Religión	Col. Noct. De Pocora	3	29/10/2026	11/12/2026	28/10/26, 12:30 p. m.
 1554753	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Español	Liceo De Llano Bonito	10	09/11/2026	11/12/2026	29/10/26, 7:00 a. m.
 1554756	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Liceo De Llano Bonito	26	09/11/2026	11/12/2026	28/10/26, 2:00 p. m.
-1554250	Direc. Regional Educacion Heredia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Procesos Industriales	C.T.P. De Flores	20	28/10/2026	11/12/2026	28/10/26, 11:30 a. m.
-1554649	Direc. Regional Educacion Heredia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Gestion De La Produccion	C.T.P. De Flores	20	28/10/2026	11/12/2026	28/10/26, 11:30 a. m.
 1554832	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media (G. De E.)	Inglés	C.T.P. De Heredia	20	28/10/2026	11/12/2026	28/10/26, 3:30 p. m.
 1554913	Direc. Regional Educacion Heredia	Auxiliar Administrativo	Sin Especialidad T-Ii	Liceo Conservatorio Castella	0	26/11/2026	31/01/2030	29/10/26, 8:30 a. m.
 1554107	Direc. Regional Educacion Liberia	Profesor De Enseñanza Media (G. De E.)	Ciencias	C.T.P. De Liberia	10	30/10/2026	11/12/2026	28/10/26, 3:00 p. m.
