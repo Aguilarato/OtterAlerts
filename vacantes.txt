@@ -1,7 +1,6 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1518847	Administracion Del Curriculo Nacional	Asesor Nacional (G. De E.)	Administración Educativa	Departamento Educación De Las Personas Jovenes Y Adultas	0	09/11/2026	31/01/2027	28/10/26, 2:00 p. m.
 1554477	Administracion Del Curriculo Nacional	Asesor Nacional (G. De E.)	Educación De Adultos	Departamento Educación De Las Personas Jovenes Y Adultas	0	26/11/2026	31/01/2031	28/10/26, 2:00 p. m.
-1555009	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Estudios Sociales	Dirección Regional De Educación Sarapiquí	0	28/11/2026	31/07/2031	29/10/26, 10:30 a. m.
 1551296	Calidad De La Educacion	Asesor Nacional (G. De E.)	Matemáticas	Departamento De Evaluación Académica Y Certificación	0	09/11/2026	31/01/2027	28/10/26, 2:00 p. m.
 1551780	Calidad De La Educacion	Profesional De Servicio Civil 3 (G.De E.)	Derecho	Dirección Gestión Y Evaluación De La Calidad	0	09/11/2026	31/07/2030	28/10/26, 2:00 p. m.
 1554630	Cumplimiento De Los Derechos	Profesional De Servicio Civil 2 (G.De E.)	Psicología	Departamento De Convivencia Estudiantil	0	09/11/2026	31/07/2028	28/10/26, 9:00 p. m.
@@ -9,7 +8,6 @@
 1555294	Direc. Regional Educacion Alajuela	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Fatima	0	30/10/2026	11/12/2026	30/10/26, 9:00 a. m.
 1555041	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Cristo Rey (Puerto Viejo)	0	02/11/2026	31/01/2027	29/10/26, 11:00 a. m.
 1555127	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Ida-La Paz (Horquetas)	0	09/11/2026	31/03/2027	29/10/26, 1:30 p. m.
-1554986	Direc. Regional Educacion Desamparados	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Tranquerillas (San Gabriel)	0	02/11/2026	11/12/2026	29/10/26, 10:30 a. m.
 1555242	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Diseño Publicitario	Liceo Monseñor Ruben Odio	33	04/10/2026	11/12/2026	29/10/26, 7:00 p. m.
 1555243	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Media (G. De E.)	Ciencias	Cindea Aserrí	3	05/11/2026	11/12/2026	29/10/26, 7:00 p. m.
 1555245	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Media (G. De E.)	Español	Cindea Aserrí	15	05/11/2026	11/12/2026	29/10/26, 7:00 p. m.
