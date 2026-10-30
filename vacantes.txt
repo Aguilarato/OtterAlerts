@@ -1,14 +1,11 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1518847	Administracion Del Curriculo Nacional	Asesor Nacional (G. De E.)	Administración Educativa	Departamento Educación De Las Personas Jovenes Y Adultas	0	09/11/2026	31/01/2027	28/10/26, 2:00 p. m.
 1554477	Administracion Del Curriculo Nacional	Asesor Nacional (G. De E.)	Educación De Adultos	Departamento Educación De Las Personas Jovenes Y Adultas	0	26/11/2026	31/01/2031	28/10/26, 2:00 p. m.
-1554487	Administracion Regional Del Sist. Educ.	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Dirección Regional De Educación Puntarenas	0	27/10/2026	31/01/2027	29/10/26, 8:00 a. m.
 1555009	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Estudios Sociales	Dirección Regional De Educación Sarapiquí	0	28/11/2026	31/07/2031	29/10/26, 10:30 a. m.
 1551296	Calidad De La Educacion	Asesor Nacional (G. De E.)	Matemáticas	Departamento De Evaluación Académica Y Certificación	0	09/11/2026	31/01/2027	28/10/26, 2:00 p. m.
 1551780	Calidad De La Educacion	Profesional De Servicio Civil 3 (G.De E.)	Derecho	Dirección Gestión Y Evaluación De La Calidad	0	09/11/2026	31/07/2030	28/10/26, 2:00 p. m.
 1554630	Cumplimiento De Los Derechos	Profesional De Servicio Civil 2 (G.De E.)	Psicología	Departamento De Convivencia Estudiantil	0	09/11/2026	31/07/2028	28/10/26, 9:00 p. m.
 1554611	Definicion Y Planif. De La Pol. Educ.	Profesional De Servicio Civil 2 (G.De E.)	Administración / Generalista	Despacho Del Viceministro Administrativo	0	09/11/2026	31/12/2027	28/10/26, 2:00 p. m.
-1554535	Direc. Regional Educacion Cartago	Profesor De Enseñanza Media (G. De E.)	Inglés	C.T.P. Fernando Volio Jimenez	44	28/10/2026	11/12/2026	29/10/26, 8:00 a. m.
-1554552	Direc. Regional Educacion Cartago	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Retardo Mental	Liceo Francisca Carrasco	44	02/11/2026	11/12/2026	29/10/26, 8:00 a. m.
 1555041	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Cristo Rey (Puerto Viejo)	0	02/11/2026	31/01/2027	29/10/26, 11:00 a. m.
 1555127	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Ida-La Paz (Horquetas)	0	09/11/2026	31/03/2027	29/10/26, 1:30 p. m.
 1554986	Direc. Regional Educacion Desamparados	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Tranquerillas (San Gabriel)	0	02/11/2026	11/12/2026	29/10/26, 10:30 a. m.
@@ -30,12 +27,10 @@
 1555094	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Pedro (San Pedro)	0	02/11/2026	11/12/2026	29/10/26, 12:00 p. m.
 1555147	Direc. Regional Educacion Occidente	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Judas Tadeo Corrales (Naranjo)	0	02/11/2026	11/12/2026	29/10/26, 2:00 p. m.
 1554912	Direc. Regional Educacion Peninsular	Profesor De Enseñanza Media (G. De E.)	Biología	Cindea Paquera	7	01/11/2026	11/12/2026	29/10/26, 9:00 a. m.
-1554539	Direc. Regional Educacion Perez Zeledon	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Francisco Morazan Quesada	0	02/11/2026	31/01/2032	29/10/26, 8:00 a. m.
 1554943	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Rafael (Platanares)	0	09/11/2026	11/12/2026	29/10/26, 9:00 a. m.
 1555091	Direc. Regional Educacion Perez Zeledon	Conserje De Centro Educativo	Sin Especialidad T-I	Santa Cecilia (San Pedro)	0	02/11/2026	31/01/2027	29/10/26, 12:00 p. m.
 1555146	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Pedro (San Pedro)	0	02/11/2026	11/12/2026	29/10/26, 2:00 p. m.
 1554322	Direc. Regional Educacion Puntarenas	Cocinero	Sin Especialidad T-I	Marañonal (Macacona)	0	26/10/2026	31/01/2027	29/10/26, 8:30 a. m.
-1554534	Direc. Regional Educacion Puntarenas	Cocinero	Sin Especialidad T-I	El Mojon (Espiritu Santo)	0	30/09/2026	31/07/2031	29/10/26, 8:00 a. m.
 1554915	Direc. Regional Educacion Puntarenas	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Isidro (San Isidro)	0	09/11/2026	11/12/2026	29/10/26, 9:00 a. m.
 1555109	Direc. Regional Educacion Puntarenas	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Educación Física	Carrizal	0	04/11/2026	11/12/2026	29/10/26, 1:00 p. m.
 1555167	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Ricardo Jimenez Oreamuno	0	02/11/2026	11/12/2026	29/10/26, 2:30 p. m.
