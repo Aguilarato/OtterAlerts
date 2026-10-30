@@ -24,7 +24,6 @@
 1555146	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Pedro (San Pedro)	0	02/11/2026	11/12/2026	29/10/26, 2:00 p. m.
 1555295	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Gerencia Y Produccion En Cocina	C.T.P. De Pejibaye	12	09/11/2026	11/12/2026	30/10/26, 9:00 a. m.
 1555298	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Turismo Rural	C.T.P. De Pejibaye	12	09/11/2026	11/12/2026	30/10/26, 9:00 a. m.
-1555109	Direc. Regional Educacion Puntarenas	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Educación Física	Carrizal	0	04/11/2026	11/12/2026	29/10/26, 1:00 p. m.
 1555167	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Ricardo Jimenez Oreamuno	0	02/11/2026	11/12/2026	29/10/26, 2:30 p. m.
 1555230	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Problemas De Aprendizaje	Ezequiel Morales Aguilar	40	03/11/2026	11/12/2026	29/10/26, 4:00 p. m.
 1531863	Evaluacion De Los Servicios	Profesional De Servicio Civil 2 (G.De E.)	Trabajo Social	Contraloría De Derechos Estudiantiles	0	09/11/2026	07/05/2030	28/10/26, 9:00 p. m.
