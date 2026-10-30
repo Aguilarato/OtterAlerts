@@ -6,12 +6,9 @@
 1555246	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Cindea Aserrí	4	05/11/2026	11/12/2026	29/10/26, 7:00 p. m.
 1555247	Direc. Regional Educacion Desamparados	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Jose Trinidad Mora Valverde	0	05/11/2026	12/02/2028	29/10/26, 7:30 p. m.
 1555046	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Ctp Agroportica	18	09/11/2026	11/12/2026	29/10/26, 4:00 p. m.
-1555169	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Pueblo Nuevo (Duacari)	0	02/11/2026	11/12/2026	29/10/26, 2:30 p. m.
 1555185	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Física	C.T.P. De Pococi	26	02/11/2026	12/12/2026	29/10/26, 3:00 p. m.
-1555176	Direc. Regional Educacion Heredia	Cocinero	Sin Especialidad T-I	Jesus (Jesus)	0	29/10/2026	11/12/2026	29/10/26, 2:30 p. m.
 1555241	Direc. Regional Educacion Heredia	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	C.T.P. De Ulloa	0	01/12/2026	31/07/2031	29/10/26, 6:00 p. m.
 1552581	Direc. Regional Educacion Liberia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Liceo Las Juntas De Caoba	20	05/11/2026	11/12/2026	29/10/26, 3:00 p. m.
 1554872	Direc. Regional Educacion Liberia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Nazareth (Liberia)	0	30/10/2026	11/12/2026	29/10/26, 3:00 p. m.
 1555295	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Gerencia Y Produccion En Cocina	C.T.P. De Pejibaye	12	09/11/2026	11/12/2026	30/10/26, 9:00 a. m.
 1555298	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Turismo Rural	C.T.P. De Pejibaye	12	09/11/2026	11/12/2026	30/10/26, 9:00 a. m.
-1555167	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Ricardo Jimenez Oreamuno	0	02/11/2026	11/12/2026	29/10/26, 2:30 p. m.
