@@ -9,3 +9,4 @@
 1555241	Direc. Regional Educacion Heredia	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	C.T.P. De Ulloa	0	01/12/2026	31/07/2031	29/10/26, 6:00 p. m.
 1555295	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Gerencia Y Produccion En Cocina	C.T.P. De Pejibaye	12	09/11/2026	11/12/2026	30/10/26, 9:00 a. m.
 1555298	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Turismo Rural	C.T.P. De Pejibaye	12	09/11/2026	11/12/2026	30/10/26, 9:00 a. m.
+1555514	Direc. Regional Educacion San Jose - Central	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Col. Noct. De Hatillo	0	03/11/2026	31/01/2027	30/10/26, 3:30 p. m.
