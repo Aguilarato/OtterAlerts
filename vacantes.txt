@@ -6,7 +6,6 @@
 1554630	Cumplimiento De Los Derechos	Profesional De Servicio Civil 2 (G.De E.)	Psicología	Departamento De Convivencia Estudiantil	0	09/11/2026	31/07/2028	28/10/26, 9:00 p. m.
 1554611	Definicion Y Planif. De La Pol. Educ.	Profesional De Servicio Civil 2 (G.De E.)	Administración / Generalista	Despacho Del Viceministro Administrativo	0	09/11/2026	31/12/2027	28/10/26, 2:00 p. m.
 1555294	Direc. Regional Educacion Alajuela	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Fatima	0	30/10/2026	11/12/2026	30/10/26, 9:00 a. m.
-1555041	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Cristo Rey (Puerto Viejo)	0	02/11/2026	31/01/2027	29/10/26, 11:00 a. m.
 1555127	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Ida-La Paz (Horquetas)	0	09/11/2026	31/03/2027	29/10/26, 1:30 p. m.
 1555242	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Diseño Publicitario	Liceo Monseñor Ruben Odio	33	04/10/2026	11/12/2026	29/10/26, 7:00 p. m.
 1555243	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Media (G. De E.)	Ciencias	Cindea Aserrí	3	05/11/2026	11/12/2026	29/10/26, 7:00 p. m.
@@ -21,7 +20,6 @@
 1552581	Direc. Regional Educacion Liberia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Liceo Las Juntas De Caoba	20	05/11/2026	11/12/2026	29/10/26, 3:00 p. m.
 1554872	Direc. Regional Educacion Liberia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Nazareth (Liberia)	0	30/10/2026	11/12/2026	29/10/26, 3:00 p. m.
 1555155	Direc. Regional Educacion Limon	Conserje De Centro Educativo	Sin Especialidad T-I	Rafael Iglesias Castro (Limon)	0	02/11/2026	31/01/2027	29/10/26, 2:00 p. m.
-1554570	Direc. Regional Educacion Occidente	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Col. Noct. De Palmares	6	02/11/2026	11/12/2026	29/10/26, 11:00 a. m.
 1555094	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Pedro (San Pedro)	0	02/11/2026	11/12/2026	29/10/26, 12:00 p. m.
 1555147	Direc. Regional Educacion Occidente	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Judas Tadeo Corrales (Naranjo)	0	02/11/2026	11/12/2026	29/10/26, 2:00 p. m.
 1555091	Direc. Regional Educacion Perez Zeledon	Conserje De Centro Educativo	Sin Especialidad T-I	Santa Cecilia (San Pedro)	0	02/11/2026	31/01/2027	29/10/26, 12:00 p. m.
