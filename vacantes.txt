@@ -12,6 +12,10 @@
 1555041	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Cristo Rey (Puerto Viejo)	0	02/11/2026	31/01/2027	29/10/26, 11:00 a. m.
 1555127	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Ida-La Paz (Horquetas)	0	09/11/2026	31/03/2027	29/10/26, 1:30 p. m.
 1554986	Direc. Regional Educacion Desamparados	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Tranquerillas (San Gabriel)	0	02/11/2026	11/12/2026	29/10/26, 10:30 a. m.
+1555242	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Diseño Publicitario	Liceo Monseñor Ruben Odio	33	04/10/2026	11/12/2026	29/10/26, 7:00 p. m.
+1555243	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Media (G. De E.)	Ciencias	Cindea Aserrí	3	05/11/2026	11/12/2026	29/10/26, 7:00 p. m.
+1555245	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Media (G. De E.)	Español	Cindea Aserrí	15	05/11/2026	11/12/2026	29/10/26, 7:00 p. m.
+1555246	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Cindea Aserrí	4	05/11/2026	11/12/2026	29/10/26, 7:00 p. m.
 1554753	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Español	Liceo De Llano Bonito	10	09/11/2026	11/12/2026	29/10/26, 7:00 a. m.
 1555046	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Ctp Agroportica	18	09/11/2026	11/12/2026	29/10/26, 4:00 p. m.
 1555169	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Pueblo Nuevo (Duacari)	0	02/11/2026	11/12/2026	29/10/26, 2:30 p. m.
