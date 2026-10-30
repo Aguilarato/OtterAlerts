@@ -6,7 +6,6 @@
 1554630	Cumplimiento De Los Derechos	Profesional De Servicio Civil 2 (G.De E.)	Psicología	Departamento De Convivencia Estudiantil	0	09/11/2026	31/07/2028	28/10/26, 9:00 p. m.
 1554611	Definicion Y Planif. De La Pol. Educ.	Profesional De Servicio Civil 2 (G.De E.)	Administración / Generalista	Despacho Del Viceministro Administrativo	0	09/11/2026	31/12/2027	28/10/26, 2:00 p. m.
 1555294	Direc. Regional Educacion Alajuela	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Fatima	0	30/10/2026	11/12/2026	30/10/26, 9:00 a. m.
-1555127	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Ida-La Paz (Horquetas)	0	09/11/2026	31/03/2027	29/10/26, 1:30 p. m.
 1555242	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Diseño Publicitario	Liceo Monseñor Ruben Odio	33	04/10/2026	11/12/2026	29/10/26, 7:00 p. m.
 1555243	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Media (G. De E.)	Ciencias	Cindea Aserrí	3	05/11/2026	11/12/2026	29/10/26, 7:00 p. m.
 1555245	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Media (G. De E.)	Español	Cindea Aserrí	15	05/11/2026	11/12/2026	29/10/26, 7:00 p. m.
