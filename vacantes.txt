@@ -20,6 +20,7 @@
 1554249	Direc. Regional Educacion Occidente	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática Educativa .Informática Para Iii Y Iv Ciclos	Liceo De Valle Azul	22	02/11/2026	11/12/2026	2/11/26, 7:00 a. m.
 1555611	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Guadalupe (Zarcero)	0	03/11/2026	11/12/2026	2/11/26, 8:30 a. m.
 1555805	Direc. Regional Educacion Occidente	Cocinero	Sin Especialidad T-I	J.N. Felicita Ramirez Vega	0	04/11/2026	31/12/2026	2/11/26, 1:30 p. m.
+1555886	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Cindea San Isidro Penas Blancas	44	05/11/2026	11/12/2026	2/11/26, 3:30 p. m.
 1555613	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	La Repunta (Daniel Flores)	0	03/11/2026	11/12/2026	2/11/26, 9:00 a. m.
 1555578	Direc. Regional Educacion Puntarenas	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Juanito Mora	0	01/11/2026	31/07/2030	2/11/26, 8:00 a. m.
 1555575	Direc. Regional Educacion San Carlos	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	El Castillo (Fortuna)	0	02/11/2026	26/12/2026	2/11/26, 7:30 a. m.
