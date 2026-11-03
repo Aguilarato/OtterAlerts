@@ -5,8 +5,6 @@
 1555612	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Juan Bautista Santamaria	0	30/10/2026	11/12/2026	3/11/26, 8:00 a. m.
 1555945	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Liceo La Virgen	44	03/11/2026	31/01/2027	3/11/26, 1:30 p. m.
 1555756	Direc. Regional Educacion Heredia	Orientador Asistente	Sin Especialidad T-Ii	Liceo Rodrigo Hernandez V.	0	02/11/2026	31/07/2030	3/11/26, 1:30 p. m.
-1555528	Direc. Regional Educacion Liberia	Profesor De Enseñanza Media (G. De E.)	Español	Liceo Art. Felipe Perez P.	44	04/11/2026	11/12/2026	2/11/26, 3:00 p. m.
-1555529	Direc. Regional Educacion Liberia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Isabel Brown Brown	0	04/11/2026	11/12/2026	2/11/26, 3:00 p. m.
 1555805	Direc. Regional Educacion Occidente	Cocinero	Sin Especialidad T-I	J.N. Felicita Ramirez Vega	0	04/11/2026	31/12/2026	3/11/26, 1:30 p. m.
 1555886	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Cindea San Isidro Penas Blancas	44	05/11/2026	11/12/2026	3/11/26, 1:00 p. m.
 1556179	Direc. Regional Educacion Occidente	Profesional De Servicio Civil 1 B (G.De E.)	Rehabilitación / Ocupacional	Servicio Itinerante Ens. Esp.	0	05/11/2026	11/12/2026	3/11/26, 2:30 p. m.
