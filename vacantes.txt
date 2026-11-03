@@ -1,11 +1,10 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
-1555781	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Problemas De Aprendizaje	Luis Rodriguez Salas	40	04/11/2026	11/12/2026	2/11/26, 1:00 p. m.
-1555790	Direc. Regional Educacion Alajuela	Cocinero	Sin Especialidad T-I	Tranquilino Viquez (Atenas)	0	09/11/2026	31/01/2027	2/11/26, 1:00 p. m.
 1555891	Direc. Regional Educacion Alajuela	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Invu Las Cañas (Desamparados)	0	03/11/2026	11/12/2026	3/11/26, 7:00 a. m.
 1555610	Direc. Regional Educacion Cartago	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Desarrollo De Aplicaciones Moviles	Liceo De Corralillo	4	29/10/2026	11/12/2026	3/11/26, 8:00 a. m.
 1555612	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Juan Bautista Santamaria	0	30/10/2026	11/12/2026	3/11/26, 8:00 a. m.
 1555528	Direc. Regional Educacion Liberia	Profesor De Enseñanza Media (G. De E.)	Español	Liceo Art. Felipe Perez P.	44	04/11/2026	11/12/2026	2/11/26, 3:00 p. m.
 1555529	Direc. Regional Educacion Liberia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Isabel Brown Brown	0	04/11/2026	11/12/2026	2/11/26, 3:00 p. m.
+1555886	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Cindea San Isidro Penas Blancas	44	05/11/2026	11/12/2026	3/11/26, 1:00 p. m.
 1555605	Direc. Regional Educacion Puntarenas	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	El Malinche (Chomes)	0	29/10/2026	31/01/2027	3/11/26, 8:00 a. m.
 1555614	Direc. Regional Educacion Puntarenas	Profesor De Enseñanza Media (G. De E.)	Español	Cindea Judas	32	29/10/2026	11/12/2026	3/11/26, 8:00 a. m.
 1555801	Direc. Regional Educacion San Jose - Central	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	Liceo De Curridabat	0	04/11/2026	31/01/2027	2/11/26, 2:00 p. m.
