@@ -22,6 +22,7 @@
 1555614	Direc. Regional Educacion Puntarenas	Profesor De Enseñanza Media (G. De E.)	Español	Cindea Judas	32	29/10/2026	11/12/2026	3/11/26, 8:00 a. m.
 1555634	Direc. Regional Educacion San Jose - Central	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Juan Santamaria	0	02/11/2026	14/01/2027	2/11/26, 10:00 a. m.
 1555801	Direc. Regional Educacion San Jose - Central	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	Liceo De Curridabat	0	04/11/2026	31/01/2027	2/11/26, 2:00 p. m.
+1556003	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza Media (G. De E.)	Psicología	C.T.P. Hatillo	7	05/11/2026	11/12/2026	3/11/26, 9:30 a. m.
 1555641	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	La Trinidad	0	02/11/2026	11/12/2026	3/11/26, 8:00 a. m.
 1555652	Direc. Regional Educacion San Jose - Norte	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Liceo De San Antonio	0	02/11/2026	31/01/2027	3/11/26, 8:00 a. m.
 1555757	Direc. Regional Educacion Turrialba	Profesor De Enseñanza Preescolar (G.De E)	Inglés	Grano De Oro (Tayutic)	0	05/11/2026	11/12/2026	2/11/26, 12:30 p. m.
