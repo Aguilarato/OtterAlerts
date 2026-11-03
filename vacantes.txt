@@ -1,6 +1,5 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1547260	Administracion Regional Del Sist. Educ.	Profesional De Servicio Civil 2 (G.De E.)	Equipos Interdisciplinarios / Social	Dirección Regional De Educación San Carlos	0	02/11/2026	24/03/2028	2/11/26, 7:00 a. m.
-1555643	Administracion Regional Del Sist. Educ.	Supervisor De Educación	Sin Especialidad T-Ii	Dirección Regional De Educación San Carlos	0	03/11/2026	29/01/2027	2/11/26, 10:00 a. m.
 1555714	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	David Gonzalez Alfaro	0	04/11/2026	11/12/2026	2/11/26, 12:00 p. m.
 1555726	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	J.N. Primo Vargas Valverde	0	02/11/2026	09/12/2026	2/11/26, 12:00 p. m.
 1555755	Direc. Regional Educacion Alajuela	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Miguel Obregon Lizano	0	04/11/2026	11/12/2026	2/11/26, 12:30 p. m.
@@ -20,11 +19,11 @@
 1555886	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Cindea San Isidro Penas Blancas	44	05/11/2026	11/12/2026	2/11/26, 3:30 p. m.
 1555605	Direc. Regional Educacion Puntarenas	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	El Malinche (Chomes)	0	29/10/2026	31/01/2027	3/11/26, 8:00 a. m.
 1555614	Direc. Regional Educacion Puntarenas	Profesor De Enseñanza Media (G. De E.)	Español	Cindea Judas	32	29/10/2026	11/12/2026	3/11/26, 8:00 a. m.
-1555634	Direc. Regional Educacion San Jose - Central	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Juan Santamaria	0	02/11/2026	14/01/2027	2/11/26, 10:00 a. m.
 1555801	Direc. Regional Educacion San Jose - Central	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	Liceo De Curridabat	0	04/11/2026	31/01/2027	2/11/26, 2:00 p. m.
 1556003	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza Media (G. De E.)	Psicología	C.T.P. Hatillo	7	05/11/2026	11/12/2026	3/11/26, 9:30 a. m.
 1555641	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	La Trinidad	0	02/11/2026	11/12/2026	3/11/26, 8:00 a. m.
 1555652	Direc. Regional Educacion San Jose - Norte	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Liceo De San Antonio	0	02/11/2026	31/01/2027	3/11/26, 8:00 a. m.
+1556052	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Bernardo Gutierrez Gutierrez	0	16/11/2026	11/12/2026	3/11/26, 10:00 a. m.
 1555757	Direc. Regional Educacion Turrialba	Profesor De Enseñanza Preescolar (G.De E)	Inglés	Grano De Oro (Tayutic)	0	05/11/2026	11/12/2026	2/11/26, 12:30 p. m.
 1555635	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Dr. Ricardo Moreno Cañas	0	02/11/2026	11/12/2026	3/11/26, 9:00 a. m.
 1555638	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Concepcion (El Amparo)	0	02/11/2026	11/12/2026	3/11/26, 8:00 a. m.
