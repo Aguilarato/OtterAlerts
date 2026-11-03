@@ -15,7 +15,6 @@
 1555756	Direc. Regional Educacion Heredia	Orientador Asistente	Sin Especialidad T-Ii	Liceo Rodrigo Hernandez V.	0	02/11/2026	31/07/2030	2/11/26, 12:30 p. m.
 1555528	Direc. Regional Educacion Liberia	Profesor De Enseñanza Media (G. De E.)	Español	Liceo Art. Felipe Perez P.	44	04/11/2026	11/12/2026	2/11/26, 3:00 p. m.
 1555529	Direc. Regional Educacion Liberia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Isabel Brown Brown	0	04/11/2026	11/12/2026	2/11/26, 3:00 p. m.
-1555611	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Guadalupe (Zarcero)	0	03/11/2026	11/12/2026	2/11/26, 8:30 a. m.
 1555805	Direc. Regional Educacion Occidente	Cocinero	Sin Especialidad T-I	J.N. Felicita Ramirez Vega	0	04/11/2026	31/12/2026	2/11/26, 1:30 p. m.
 1555886	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Cindea San Isidro Penas Blancas	44	05/11/2026	11/12/2026	2/11/26, 3:30 p. m.
 1555613	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	La Repunta (Daniel Flores)	0	03/11/2026	11/12/2026	2/11/26, 9:00 a. m.
