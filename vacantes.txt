@@ -2,7 +2,6 @@
 1547260	Administracion Regional Del Sist. Educ.	Profesional De Servicio Civil 2 (G.De E.)	Equipos Interdisciplinarios / Social	Dirección Regional De Educación San Carlos	0	02/11/2026	24/03/2028	4/11/26, 7:00 a. m.
 1555643	Administracion Regional Del Sist. Educ.	Supervisor De Educación	Sin Especialidad T-Ii	Dirección Regional De Educación San Carlos	0	03/11/2026	29/01/2027	3/11/26, 1:30 p. m.
 1556229	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Educación Cívica	Dirección Regional De Educación Guápiles	0	30/11/2026	18/12/2026	4/11/26, 7:30 a. m.
-1555891	Direc. Regional Educacion Alajuela	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Invu Las Cañas (Desamparados)	0	03/11/2026	11/12/2026	3/11/26, 7:00 a. m.
 1556248	Direc. Regional Educacion Alajuela	Director De Colegio 3	Sin Especialidad T-Ii	Liceo San Rafael	0	04/11/2026	11/12/2026	4/11/26, 8:01 a. m.
 1555974	Direc. Regional Educacion Cañas	Profesor De Enseñanza Media (G. De E.)	Ciencias	Liceo Miguel Araya Venegas	20	03/11/2026	11/12/2026	4/11/26, 7:00 a. m.
 1555610	Direc. Regional Educacion Cartago	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Desarrollo De Aplicaciones Moviles	Liceo De Corralillo	4	29/10/2026	11/12/2026	3/11/26, 8:00 a. m.
@@ -38,5 +37,4 @@
 1556052	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Bernardo Gutierrez Gutierrez	0	16/11/2026	11/12/2026	3/11/26, 10:00 a. m.
 1556085	Direc. Regional Educacion Santa Cruz	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Col. Noct. De Santa Cruz	0	03/11/2026	12/02/2027	3/11/26, 11:00 a. m.
 1555289	Direc. Regional Educacion Zona Norte-Norte	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	San Isidro (Aguas Claras)	0	02/11/2026	31/01/2027	4/11/26, 8:01 a. m.
-1555635	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Dr. Ricardo Moreno Cañas	0	02/11/2026	11/12/2026	3/11/26, 9:00 a. m.
 1555638	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Concepcion (El Amparo)	0	02/11/2026	11/12/2026	3/11/26, 8:00 a. m.
