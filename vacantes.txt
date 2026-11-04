@@ -40,7 +40,5 @@
 1555652	Direc. Regional Educacion San Jose - Norte	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Liceo De San Antonio	0	02/11/2026	31/01/2027	3/11/26, 8:00 a. m.
 1556232	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Isabel La Catolica	0	09/11/2026	11/12/2026	4/11/26, 8:01 a. m.
 1556241	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Ejecutivo Comercial Y De Servicio Al Cliente	Liceo De Pavas	6	05/11/2026	11/12/2026	4/11/26, 8:01 a. m.
-1556052	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Bernardo Gutierrez Gutierrez	0	16/11/2026	11/12/2026	3/11/26, 10:00 a. m.
-1556085	Direc. Regional Educacion Santa Cruz	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Col. Noct. De Santa Cruz	0	03/11/2026	12/02/2027	3/11/26, 11:00 a. m.
 1555289	Direc. Regional Educacion Zona Norte-Norte	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	San Isidro (Aguas Claras)	0	02/11/2026	31/01/2027	4/11/26, 8:01 a. m.
 1555638	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Concepcion (El Amparo)	0	02/11/2026	11/12/2026	3/11/26, 8:00 a. m.
