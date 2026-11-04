@@ -32,6 +32,7 @@
 1555575	Direc. Regional Educacion San Carlos	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	El Castillo (Fortuna)	0	02/11/2026	26/12/2026	4/11/26, 7:00 a. m.
 1556003	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza Media (G. De E.)	Psicología	C.T.P. Hatillo	7	05/11/2026	11/12/2026	3/11/26, 9:30 a. m.
 1556107	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Tejarcillos	0	05/11/2026	11/12/2026	3/11/26, 12:00 p. m.
+1556300	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Servicio Itinerante Ens. Esp.	44	06/11/2026	11/12/2026	4/11/26, 10:00 a. m.
 1555641	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	La Trinidad	0	02/11/2026	11/12/2026	3/11/26, 8:00 a. m.
 1555652	Direc. Regional Educacion San Jose - Norte	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Liceo De San Antonio	0	02/11/2026	31/01/2027	3/11/26, 8:00 a. m.
 1556232	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Isabel La Catolica	0	09/11/2026	11/12/2026	4/11/26, 8:01 a. m.
