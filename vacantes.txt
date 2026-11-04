@@ -3,15 +3,23 @@
 1555643	Administracion Regional Del Sist. Educ.	Supervisor De Educación	Sin Especialidad T-Ii	Dirección Regional De Educación San Carlos	0	03/11/2026	29/01/2027	3/11/26, 1:30 p. m.
 1556229	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Educación Cívica	Dirección Regional De Educación Guápiles	0	30/11/2026	18/12/2026	4/11/26, 7:30 a. m.
 1555891	Direc. Regional Educacion Alajuela	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Invu Las Cañas (Desamparados)	0	03/11/2026	11/12/2026	3/11/26, 7:00 a. m.
+1556248	Direc. Regional Educacion Alajuela	Director De Colegio 3	Sin Especialidad T-Ii	Liceo San Rafael	0	04/11/2026	11/12/2026	4/11/26, 8:01 a. m.
 1555974	Direc. Regional Educacion Cañas	Profesor De Enseñanza Media (G. De E.)	Ciencias	Liceo Miguel Araya Venegas	20	03/11/2026	11/12/2026	4/11/26, 7:00 a. m.
 1555610	Direc. Regional Educacion Cartago	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Desarrollo De Aplicaciones Moviles	Liceo De Corralillo	4	29/10/2026	11/12/2026	3/11/26, 8:00 a. m.
+1555703	Direc. Regional Educacion Cartago	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Problemas De Aprendizaje	Esc. Carlos J. Peralta	40	29/10/2026	11/12/2026	4/11/26, 8:01 a. m.
+1555710	Direc. Regional Educacion Cartago	Profesor De Enseñanza Media (G. De E.)	Ciencias	Liceo Braulio Carrillo Colina	10	28/10/2026	11/12/2026	4/11/26, 8:01 a. m.
+1555715	Direc. Regional Educacion Cartago	Profesor De Enseñanza Media (G. De E.)	Física	Liceo Braulio Carrillo Colina	12	28/10/2026	11/12/2026	4/11/26, 8:01 a. m.
+1556038	Direc. Regional Educacion Cartago	Profesor De Enseñanza Media (G. De E.)	Química	C.T.P Dulce Nombre	18	28/10/2026	11/12/2026	4/11/26, 8:01 a. m.
+1555338	Direc. Regional Educacion Central Del Pacífico	Conserje De Centro Educativo	Sin Especialidad T-I	Quebrada Amarilla (Jaco)	0	30/10/2026	11/12/2026	4/11/26, 8:01 a. m.
 1555612	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Juan Bautista Santamaria	0	30/10/2026	11/12/2026	3/11/26, 8:00 a. m.
+1556227	Direc. Regional Educacion Central Del Pacífico	Cocinero	Sin Especialidad T-I	Jaco (Jaco)	0	01/11/2026	31/07/2031	4/11/26, 8:01 a. m.
 1555945	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Liceo La Virgen	44	03/11/2026	31/01/2027	3/11/26, 1:30 p. m.
 1555878	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Cindea Buenos Aires	34	05/11/2026	11/12/2026	4/11/26, 7:00 a. m.
 1555184	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Química	C.T.P. De Pococi	22	02/11/2026	12/12/2026	4/11/26, 7:00 a. m.
 1555826	Direc. Regional Educacion Guapiles	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Barra Colorado Norte	0	03/11/2026	31/01/2027	4/11/26, 7:00 a. m.
 1555756	Direc. Regional Educacion Heredia	Orientador Asistente	Sin Especialidad T-Ii	Liceo Rodrigo Hernandez V.	0	02/11/2026	31/07/2030	3/11/26, 1:30 p. m.
 1555975	Direc. Regional Educacion Heredia	Cocinero	Sin Especialidad T-I	Mercedes Sur (Mercedes)	0	02/11/2026	11/12/2026	4/11/26, 7:00 a. m.
+1556045	Direc. Regional Educacion Nicoya	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P. De Nicoya	0	18/11/2026	31/01/2027	4/11/26, 8:01 a. m.
 1555611	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Guadalupe (Zarcero)	0	03/11/2026	11/12/2026	4/11/26, 7:00 a. m.
 1555805	Direc. Regional Educacion Occidente	Cocinero	Sin Especialidad T-I	J.N. Felicita Ramirez Vega	0	04/11/2026	31/12/2026	3/11/26, 1:30 p. m.
 1555886	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Cindea San Isidro Penas Blancas	44	05/11/2026	11/12/2026	3/11/26, 1:00 p. m.
@@ -25,7 +33,10 @@
 1556107	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Tejarcillos	0	05/11/2026	11/12/2026	3/11/26, 12:00 p. m.
 1555641	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	La Trinidad	0	02/11/2026	11/12/2026	3/11/26, 8:00 a. m.
 1555652	Direc. Regional Educacion San Jose - Norte	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Liceo De San Antonio	0	02/11/2026	31/01/2027	3/11/26, 8:00 a. m.
+1556232	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Isabel La Catolica	0	09/11/2026	11/12/2026	4/11/26, 8:01 a. m.
+1556241	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Ejecutivo Comercial Y De Servicio Al Cliente	Liceo De Pavas	6	05/11/2026	11/12/2026	4/11/26, 8:01 a. m.
 1556052	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Bernardo Gutierrez Gutierrez	0	16/11/2026	11/12/2026	3/11/26, 10:00 a. m.
 1556085	Direc. Regional Educacion Santa Cruz	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Col. Noct. De Santa Cruz	0	03/11/2026	12/02/2027	3/11/26, 11:00 a. m.
+1555289	Direc. Regional Educacion Zona Norte-Norte	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	San Isidro (Aguas Claras)	0	02/11/2026	31/01/2027	4/11/26, 8:01 a. m.
 1555635	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Dr. Ricardo Moreno Cañas	0	02/11/2026	11/12/2026	3/11/26, 9:00 a. m.
 1555638	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Concepcion (El Amparo)	0	02/11/2026	11/12/2026	3/11/26, 8:00 a. m.
