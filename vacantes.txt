@@ -3,6 +3,7 @@
 1555643	Administracion Regional Del Sist. Educ.	Supervisor De Educación	Sin Especialidad T-Ii	Dirección Regional De Educación San Carlos	0	03/11/2026	29/01/2027	3/11/26, 1:30 p. m.
 1556229	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Educación Cívica	Dirección Regional De Educación Guápiles	0	30/11/2026	18/12/2026	4/11/26, 7:30 a. m.
 1556290	Administracion Regional Del Sist. Educ.	Misceláneo De Servicio Civil 1 (G. De E.)	Servicios Básicos	Dirección Regional De Educación Nicoya	0	09/11/2026	01/03/2027	4/11/26, 9:30 a. m.
+1555891	Direc. Regional Educacion Alajuela	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Invu Las Cañas (Desamparados)	0	03/11/2026	11/12/2026	4/11/26, 11:00 a. m.
 1556248	Direc. Regional Educacion Alajuela	Director De Colegio 3	Sin Especialidad T-Ii	Liceo San Rafael	0	04/11/2026	11/12/2026	4/11/26, 8:01 a. m.
 1555974	Direc. Regional Educacion Cañas	Profesor De Enseñanza Media (G. De E.)	Ciencias	Liceo Miguel Araya Venegas	20	03/11/2026	11/12/2026	4/11/26, 7:00 a. m.
 1555610	Direc. Regional Educacion Cartago	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Desarrollo De Aplicaciones Moviles	Liceo De Corralillo	4	29/10/2026	11/12/2026	3/11/26, 8:00 a. m.
