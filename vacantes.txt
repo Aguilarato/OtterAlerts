@@ -20,6 +20,7 @@
 1554193	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Liceo De Naranjo	44	09/11/2026	11/12/2026	4/11/26, 1:30 p. m.
 1555295	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Gerencia Y Produccion En Cocina	C.T.P. De Pejibaye	12	09/11/2026	11/12/2026	4/11/26, 10:30 a. m.
 1555298	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Turismo Rural	C.T.P. De Pejibaye	12	09/11/2026	11/12/2026	4/11/26, 10:30 a. m.
+1556538	Direc. Regional Educacion Perez Zeledon	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	C.T.P. General Viejo	0	09/11/2026	31/01/2028	5/11/26, 7:30 a. m.
 1556345	Direc. Regional Educacion Puriscal	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	C.T.P Mora	0	05/11/2026	30/12/2026	4/11/26, 11:18 a. m.
 1556352	Direc. Regional Educacion Puriscal	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P De Palmichal	0	05/11/2026	30/01/2027	4/11/26, 11:30 a. m.
 1556399	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Artes Plásticas/Artes Plásticas	El Campo (Quesada)	0	04/11/2026	28/02/2027	4/11/26, 1:00 p. m.
