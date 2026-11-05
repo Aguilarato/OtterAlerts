@@ -10,9 +10,11 @@
 1556457	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Jesus Arguello Villalobos	0	16/11/2026	11/12/2026	4/11/26, 3:00 p. m.
 1556632	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	Domingo Gonzalez Perez	0	06/11/2026	22/12/2026	5/11/26, 9:00 a. m.
 1556369	Direc. Regional Educacion Liberia	Director De Enseñanza General Básica 4 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Gral Tomas Guadia Gutierrez	0	06/11/2026	11/12/2026	4/11/26, 12:00 p. m.
+1556633	Direc. Regional Educacion Los Santos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Jeronimo (San Carlos)	0	09/11/2026	11/12/2026	5/11/26, 9:30 a. m.
 1554193	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Liceo De Naranjo	44	09/11/2026	11/12/2026	4/11/26, 1:30 p. m.
 1556541	Direc. Regional Educacion Occidente	Profesional De Servicio Civil 1 B (G.De E.)	Equipos Interdisciplinarios / Orientación	Pbro Venancio De Oña Martinez	0	09/11/2026	28/02/2027	5/11/26, 8:00 a. m.
 1556568	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Julia Fernandez Rodriguez	0	09/11/2026	11/12/2026	5/11/26, 8:00 a. m.
+1556614	Direc. Regional Educacion Occidente	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Sarchi Norte (Sarchi Norte)	0	09/11/2026	31/07/2027	5/11/26, 9:30 a. m.
 1555295	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Gerencia Y Produccion En Cocina	C.T.P. De Pejibaye	12	09/11/2026	11/12/2026	4/11/26, 10:30 a. m.
 1555298	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Turismo Rural	C.T.P. De Pejibaye	12	09/11/2026	11/12/2026	4/11/26, 10:30 a. m.
 1556538	Direc. Regional Educacion Perez Zeledon	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	C.T.P. General Viejo	0	09/11/2026	31/01/2028	5/11/26, 7:30 a. m.
