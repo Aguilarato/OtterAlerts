@@ -14,6 +14,8 @@
 1556568	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Julia Fernandez Rodriguez	0	09/11/2026	11/12/2026	5/11/26, 8:00 a. m.
 1556614	Direc. Regional Educacion Occidente	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Sarchi Norte (Sarchi Norte)	0	09/11/2026	31/07/2027	5/11/26, 9:30 a. m.
 1556538	Direc. Regional Educacion Perez Zeledon	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	C.T.P. General Viejo	0	09/11/2026	31/01/2028	5/11/26, 7:30 a. m.
+1556827	Direc. Regional Educacion Perez Zeledon	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P. De Pejibaye	0	09/11/2026	12/12/2026	5/11/26, 2:00 p. m.
+1556835	Direc. Regional Educacion Perez Zeledon	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	La Repunta (Daniel Flores)	0	09/11/2026	14/12/2026	5/11/26, 2:00 p. m.
 1556431	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Colegio Tecnico Profesional La Tigra	20	05/11/2026	11/12/2026	5/11/26, 8:00 a. m.
 1556581	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	I.D.A. El Futuro (Tigra)	0	05/11/2026	31/01/2027	5/11/26, 8:00 a. m.
 1556626	Direc. Regional Educacion San Carlos	Cocinero	Sin Especialidad T-I	Finca Zeta 13 (Fortuna)	0	16/11/2026	31/01/2027	5/11/26, 9:00 a. m.
