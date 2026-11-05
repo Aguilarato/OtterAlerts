@@ -5,13 +5,11 @@
 1556466	Direc. Regional Educacion Coto	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Santiago	0	09/11/2026	11/12/2026	5/11/26, 7:00 a. m.
 1556677	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Barra Colorado Norte	0	09/11/2026	11/12/2026	5/11/26, 10:30 a. m.
 1556682	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Ctp Agroportica	40	09/11/2026	11/12/2026	5/11/26, 10:30 a. m.
-1556408	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Calle Hernandez (Los Angeles)	0	05/11/2026	11/12/2026	4/11/26, 1:30 p. m.
 1556457	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Jesus Arguello Villalobos	0	16/11/2026	11/12/2026	4/11/26, 3:00 p. m.
 1556632	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	Domingo Gonzalez Perez	0	06/11/2026	22/12/2026	5/11/26, 9:00 a. m.
 1556791	Direc. Regional Educacion Heredia	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo Santa Barbara	0	05/11/2026	28/02/2027	5/11/26, 1:00 p. m.
 1556633	Direc. Regional Educacion Los Santos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Jeronimo (San Carlos)	0	09/11/2026	11/12/2026	5/11/26, 9:30 a. m.
 1556726	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Gerencia Y Produccion En Cocina	C.T.P. De Nandayure	4	06/11/2026	11/12/2026	5/11/26, 10:30 a. m.
-1554193	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Liceo De Naranjo	44	09/11/2026	11/12/2026	4/11/26, 1:30 p. m.
 1556541	Direc. Regional Educacion Occidente	Profesional De Servicio Civil 1 B (G.De E.)	Equipos Interdisciplinarios / Orientación	Pbro Venancio De Oña Martinez	0	09/11/2026	28/02/2027	5/11/26, 8:00 a. m.
 1556568	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Julia Fernandez Rodriguez	0	09/11/2026	11/12/2026	5/11/26, 8:00 a. m.
 1556614	Direc. Regional Educacion Occidente	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Sarchi Norte (Sarchi Norte)	0	09/11/2026	31/07/2027	5/11/26, 9:30 a. m.
