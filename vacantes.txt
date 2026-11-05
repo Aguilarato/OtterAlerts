@@ -21,6 +21,5 @@
 1556626	Direc. Regional Educacion San Carlos	Cocinero	Sin Especialidad T-I	Finca Zeta 13 (Fortuna)	0	16/11/2026	31/01/2027	5/11/26, 9:00 a. m.
 1556678	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Liceo Sahino	15	05/11/2026	11/12/2026	5/11/26, 10:30 a. m.
 1556713	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Media (G. De E.)	Inglés	C.T.P. De La Fortuna	35	05/11/2026	11/12/2026	5/11/26, 10:30 a. m.
-1556472	Direc. Regional Educacion San Jose - Central	Director De Enseñanza General Básica 4 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Dr. Jose Maria Castro Madriz	0	09/11/2026	31/01/2027	4/11/26, 3:30 p. m.
 1556802	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Liceo Ricardo Fernandez G.	40	05/11/2026	11/12/2026	5/11/26, 3:00 p. m.
 1556649	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Media (G. De E.)	Ciencias	Liceo Napoleon Quesada Salazar	44	01/11/2026	11/12/2026	5/11/26, 10:30 a. m.
