@@ -22,4 +22,5 @@
 1556678	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Liceo Sahino	15	05/11/2026	11/12/2026	5/11/26, 10:30 a. m.
 1556713	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Media (G. De E.)	Inglés	C.T.P. De La Fortuna	35	05/11/2026	11/12/2026	5/11/26, 10:30 a. m.
 1556802	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Liceo Ricardo Fernandez G.	40	05/11/2026	11/12/2026	5/11/26, 3:00 p. m.
+1556897	Direc. Regional Educacion San Jose - Central	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Juan Santamaria	0	09/11/2026	11/12/2026	5/11/26, 4:00 p. m.
 1556649	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Media (G. De E.)	Ciencias	Liceo Napoleon Quesada Salazar	44	01/11/2026	11/12/2026	5/11/26, 10:30 a. m.
