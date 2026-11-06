@@ -2,7 +2,6 @@
 1556584	Administracion Regional Del Sist. Educ.	Conductor De Servicio Civil 1	Sin Especialidad T-I	Dirección Regional De Educación Nicoya	0	10/11/2026	22/12/2026	5/11/26, 8:00 a. m.
 1551520	Direc. Regional Educacion Alajuela	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Calle Liles	0	12/11/2026	31/01/2031	6/11/26, 7:00 a. m.
 1556839	Direc. Regional Educacion Cañas	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Educación Física	Cabecera De Cañas(Queb.Grande)	0	05/11/2026	31/01/2031	5/11/26, 2:30 p. m.
-1556791	Direc. Regional Educacion Heredia	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo Santa Barbara	0	05/11/2026	28/02/2027	5/11/26, 1:00 p. m.
 1556917	Direc. Regional Educacion Heredia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Plásticas/Artes Plásticas	Liceo Los Lagos	16	06/11/2026	11/12/2026	5/11/26, 4:30 p. m.
 1556919	Direc. Regional Educacion Heredia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Plásticas/Artes Plásticas	Liceo Los Lagos	4	06/11/2026	11/12/2026	5/11/26, 4:30 p. m.
 1556819	Direc. Regional Educacion Liberia	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	C.T.P. Liberia	40	09/11/2026	11/12/2026	5/11/26, 3:00 p. m.
@@ -10,6 +9,7 @@
 1557202	Direc. Regional Educacion Occidente	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo De Valle Azul	0	09/11/2026	04/03/2027	6/11/26, 12:00 p. m.
 1556827	Direc. Regional Educacion Perez Zeledon	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P. De Pejibaye	0	09/11/2026	12/12/2026	5/11/26, 2:00 p. m.
 1556835	Direc. Regional Educacion Perez Zeledon	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	La Repunta (Daniel Flores)	0	09/11/2026	14/12/2026	5/11/26, 2:00 p. m.
+1557222	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	La Ceniza	0	16/11/2026	11/12/2026	6/11/26, 1:00 p. m.
 1552807	Direc. Regional Educacion Puntarenas	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	Liceo Emiliano Odio Madrigal	0	16/11/2026	31/07/2030	6/11/26, 8:00 a. m.
 1556802	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Liceo Ricardo Fernandez G.	40	05/11/2026	11/12/2026	5/11/26, 3:00 p. m.
 1556897	Direc. Regional Educacion San Jose - Central	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Juan Santamaria	0	09/11/2026	11/12/2026	5/11/26, 4:00 p. m.
