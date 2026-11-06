@@ -9,13 +9,11 @@
 1556917	Direc. Regional Educacion Heredia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Plásticas/Artes Plásticas	Liceo Los Lagos	16	06/11/2026	11/12/2026	5/11/26, 4:30 p. m.
 1556919	Direc. Regional Educacion Heredia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Plásticas/Artes Plásticas	Liceo Los Lagos	4	06/11/2026	11/12/2026	5/11/26, 4:30 p. m.
 1556819	Direc. Regional Educacion Liberia	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	C.T.P. Liberia	40	09/11/2026	11/12/2026	5/11/26, 3:00 p. m.
-1556633	Direc. Regional Educacion Los Santos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Jeronimo (San Carlos)	0	09/11/2026	11/12/2026	5/11/26, 9:30 a. m.
 1556726	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Gerencia Y Produccion En Cocina	C.T.P. De Nandayure	4	06/11/2026	11/12/2026	5/11/26, 10:30 a. m.
 1556614	Direc. Regional Educacion Occidente	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Sarchi Norte (Sarchi Norte)	0	09/11/2026	31/07/2027	5/11/26, 9:30 a. m.
 1556827	Direc. Regional Educacion Perez Zeledon	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P. De Pejibaye	0	09/11/2026	12/12/2026	5/11/26, 2:00 p. m.
 1556835	Direc. Regional Educacion Perez Zeledon	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	La Repunta (Daniel Flores)	0	09/11/2026	14/12/2026	5/11/26, 2:00 p. m.
 1552807	Direc. Regional Educacion Puntarenas	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	Liceo Emiliano Odio Madrigal	0	16/11/2026	31/07/2030	6/11/26, 8:00 a. m.
-1556626	Direc. Regional Educacion San Carlos	Cocinero	Sin Especialidad T-I	Finca Zeta 13 (Fortuna)	0	16/11/2026	31/01/2027	5/11/26, 9:00 a. m.
 1556678	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Liceo Sahino	15	05/11/2026	11/12/2026	5/11/26, 10:30 a. m.
 1556713	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Media (G. De E.)	Inglés	C.T.P. De La Fortuna	35	05/11/2026	11/12/2026	5/11/26, 10:30 a. m.
 1556802	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Liceo Ricardo Fernandez G.	40	05/11/2026	11/12/2026	5/11/26, 3:00 p. m.
