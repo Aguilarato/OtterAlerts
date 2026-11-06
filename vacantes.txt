@@ -6,11 +6,8 @@
 1556917	Direc. Regional Educacion Heredia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Plásticas/Artes Plásticas	Liceo Los Lagos	16	06/11/2026	11/12/2026	5/11/26, 4:30 p. m.
 1556919	Direc. Regional Educacion Heredia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Plásticas/Artes Plásticas	Liceo Los Lagos	4	06/11/2026	11/12/2026	5/11/26, 4:30 p. m.
 1556819	Direc. Regional Educacion Liberia	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	C.T.P. Liberia	40	09/11/2026	11/12/2026	5/11/26, 3:00 p. m.
-1556726	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Gerencia Y Produccion En Cocina	C.T.P. De Nandayure	4	06/11/2026	11/12/2026	5/11/26, 10:30 a. m.
 1556827	Direc. Regional Educacion Perez Zeledon	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P. De Pejibaye	0	09/11/2026	12/12/2026	5/11/26, 2:00 p. m.
 1556835	Direc. Regional Educacion Perez Zeledon	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	La Repunta (Daniel Flores)	0	09/11/2026	14/12/2026	5/11/26, 2:00 p. m.
 1552807	Direc. Regional Educacion Puntarenas	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	Liceo Emiliano Odio Madrigal	0	16/11/2026	31/07/2030	6/11/26, 8:00 a. m.
-1556713	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Media (G. De E.)	Inglés	C.T.P. De La Fortuna	35	05/11/2026	11/12/2026	5/11/26, 10:30 a. m.
 1556802	Direc. Regional Educacion San Jose - Central	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Liceo Ricardo Fernandez G.	40	05/11/2026	11/12/2026	5/11/26, 3:00 p. m.
 1556897	Direc. Regional Educacion San Jose - Central	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Juan Santamaria	0	09/11/2026	11/12/2026	5/11/26, 4:00 p. m.
-1556649	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Media (G. De E.)	Ciencias	Liceo Napoleon Quesada Salazar	44	01/11/2026	11/12/2026	5/11/26, 10:30 a. m.
