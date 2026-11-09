@@ -17,5 +17,6 @@
 1557222	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	La Ceniza	0	16/11/2026	11/12/2026	6/11/26, 1:00 p. m.
 1557446	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Republica Mexico (Cajon)	0	10/11/2026	31/01/2027	8/11/26, 7:30 p. m.
 1556810	Direc. Regional Educacion San Jose - Central	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Naciones Unidas	0	15/11/2026	31/01/2027	9/11/26, 7:00 a. m.
+1557537	Direc. Regional Educacion San Jose - Central	Asistente De Dirección Centro Educativo 2	Sin Especialidad T-Ii	C.T.P. Don Bosco	0	11/11/2026	31/01/2027	9/11/26, 10:30 a. m.
 1557223	Direc. Regional Educacion San Jose - Oeste	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	J.N. Carlos Sanabria	0	07/12/2026	01/06/2027	9/11/26, 7:00 a. m.
 1556083	Direc. Regional Educacion Santa Cruz	Conserje De Centro Educativo	Sin Especialidad T-I	Omar Dengo Guerrero (Belen)	0	30/11/2026	31/07/2031	9/11/26, 7:00 a. m.
