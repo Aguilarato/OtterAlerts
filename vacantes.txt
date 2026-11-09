@@ -22,6 +22,7 @@
 1557537	Direc. Regional Educacion San Jose - Central	Asistente De Dirección Centro Educativo 2	Sin Especialidad T-Ii	C.T.P. Don Bosco	0	11/11/2026	31/01/2027	9/11/26, 10:30 a. m.
 1557223	Direc. Regional Educacion San Jose - Oeste	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	J.N. Carlos Sanabria	0	07/12/2026	01/06/2027	9/11/26, 7:00 a. m.
 1556083	Direc. Regional Educacion Santa Cruz	Conserje De Centro Educativo	Sin Especialidad T-I	Omar Dengo Guerrero (Belen)	0	30/11/2026	31/07/2031	9/11/26, 7:00 a. m.
+1557789	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Retardo Mental	Esc. Bernardo Gutierrez	40	09/11/2026	11/12/2026	9/11/26, 2:00 p. m.
 1557477	Evaluacion De Los Servicios	Profesional De Servicio Civil 1 B (G.De E.)	Trabajo Social	Contraloría De Derechos Estudiantiles	0	16/11/2026	07/05/2030	9/11/26, 1:00 p. m.
 1552163	Fundamentac. Legal Para Toma Decisiones	Profesional De Servicio Civil 2 (G.De E.)	Derecho	Departamento De Contratación Y Coordinación Interinstitucion	0	16/11/2026	07/05/2030	9/11/26, 1:00 p. m.
 1554859	Vinculo Al Trabajo	Oficinista De Servicio Civil 2 (G. De E.)	Labores Varias De Oficina	Dirección De Educación Técnica Y Capacidades Emprendedoras	0	16/11/2026	31/01/2027	9/11/26, 1:00 p. m.
