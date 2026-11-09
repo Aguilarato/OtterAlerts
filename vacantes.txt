@@ -1,6 +1,5 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1555927	Administracion Regional Del Sist. Educ.	Asistente De Asesoría Y Supervisión	Sin Especialidad T-Ii	Dirección Regional De Educación De Occidente	0	02/12/2026	31/01/2027	9/11/26, 7:00 a. m.
-1556584	Administracion Regional Del Sist. Educ.	Conductor De Servicio Civil 1	Sin Especialidad T-I	Dirección Regional De Educación Nicoya	0	10/11/2026	22/12/2026	5/11/26, 8:00 a. m.
 1557335	Administracion Regional Del Sist. Educ.	Conductor De Servicio Civil 1	Sin Especialidad T-I	Dirección Regional De Educación Cañas	0	09/11/2026	31/01/2027	9/11/26, 7:00 a. m.
 1557298	Direc. Regional Educacion Desamparados	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo Monseñor Ruben Odio	0	12/11/2026	31/01/2027	9/11/26, 7:00 a. m.
 1557403	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	C.T.P. De Osa	10	10/11/2026	11/12/2026	6/11/26, 4:30 p. m.
@@ -17,7 +16,6 @@
 1555928	Direc. Regional Educacion Perez Zeledon	Director De Colegio 1	Sin Especialidad T-Ii	Liceo Rural Santiago De San Pe	0	30/11/2026	31/01/2027	9/11/26, 7:00 a. m.
 1557222	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	La Ceniza	0	16/11/2026	11/12/2026	6/11/26, 1:00 p. m.
 1557446	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Republica Mexico (Cajon)	0	10/11/2026	31/01/2027	8/11/26, 7:30 p. m.
-1552807	Direc. Regional Educacion Puntarenas	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	Liceo Emiliano Odio Madrigal	0	16/11/2026	31/07/2030	6/11/26, 8:00 a. m.
 1556810	Direc. Regional Educacion San Jose - Central	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Naciones Unidas	0	15/11/2026	31/01/2027	9/11/26, 7:00 a. m.
 1557223	Direc. Regional Educacion San Jose - Oeste	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	J.N. Carlos Sanabria	0	07/12/2026	01/06/2027	9/11/26, 7:00 a. m.
 1556083	Direc. Regional Educacion Santa Cruz	Conserje De Centro Educativo	Sin Especialidad T-I	Omar Dengo Guerrero (Belen)	0	30/11/2026	31/07/2031	9/11/26, 7:00 a. m.
