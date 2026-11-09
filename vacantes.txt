@@ -2,6 +2,7 @@
 1555927	Administracion Regional Del Sist. Educ.	Asistente De Asesoría Y Supervisión	Sin Especialidad T-Ii	Dirección Regional De Educación De Occidente	0	02/12/2026	31/01/2027	9/11/26, 7:00 a. m.
 1557335	Administracion Regional Del Sist. Educ.	Conductor De Servicio Civil 1	Sin Especialidad T-I	Dirección Regional De Educación Cañas	0	09/11/2026	31/01/2027	9/11/26, 7:00 a. m.
 1557616	Direc. Regional Educacion Cañas	Profesor De Enseñanza Media (G. De E.)	Biología	Liceo De Colorado	4	10/11/2026	11/12/2026	9/11/26, 11:00 a. m.
+1557761	Direc. Regional Educacion Cañas	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática En Desarrollo Del Software	Cindea Tilaran	38	14/11/2026	11/12/2026	9/11/26, 1:30 p. m.
 1557298	Direc. Regional Educacion Desamparados	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo Monseñor Ruben Odio	0	12/11/2026	31/01/2027	9/11/26, 7:00 a. m.
 1557403	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	C.T.P. De Osa	10	10/11/2026	11/12/2026	6/11/26, 4:30 p. m.
 1554334	Direc. Regional Educacion Guapiles	Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Llano Bonito (Roxana)	0	25/11/2026	31/01/2031	9/11/26, 7:00 a. m.
