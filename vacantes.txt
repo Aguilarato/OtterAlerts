@@ -1,13 +1,12 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1558070	Direc. Regional Educacion Coto	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Independencia (Jimenez)	0	12/11/2026	11/12/2026	10/11/26, 10:00 a. m.
 1558076	Direc. Regional Educacion Coto	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Cañaza (Jimenez)	0	12/11/2026	11/12/2026	10/11/26, 10:00 a. m.
-1557777	Direc. Regional Educacion Grande De Terraba	Cocinero	Sin Especialidad T-I	Veracruz	0	11/11/2026	31/01/2027	9/11/26, 1:51 p. m.
 1557921	Direc. Regional Educacion Grande De Terraba	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Rogelio Fernandez Guell	0	12/11/2026	24/12/2026	10/11/26, 8:00 a. m.
 1557801	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Liceo Rural La Union	40	10/11/2026	11/12/2026	9/11/26, 2:30 p. m.
 1558082	Direc. Regional Educacion Los Santos	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Educación Física	San Jeronimo (San Carlos)	0	13/11/2026	11/12/2026	10/11/26, 10:30 a. m.
 1558088	Direc. Regional Educacion Los Santos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Mariano Quiros Segura	0	13/11/2026	11/12/2026	10/11/26, 10:30 a. m.
+1558278	Direc. Regional Educacion Occidente	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Santa Margarita (Rosario)	0	12/11/2026	31/07/2030	10/11/26, 2:00 p. m.
 1558262	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza Media (G. De E.)	Inglés	Liceo Luis Dobles Segreda	40	12/11/2026	11/12/2026	10/11/26, 1:30 p. m.
-1557789	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Retardo Mental	Esc. Bernardo Gutierrez	40	09/11/2026	11/12/2026	9/11/26, 2:00 p. m.
 1557477	Evaluacion De Los Servicios	Profesional De Servicio Civil 1 B (G.De E.)	Trabajo Social	Contraloría De Derechos Estudiantiles	0	16/11/2026	07/05/2030	9/11/26, 1:00 p. m.
 1552163	Fundamentac. Legal Para Toma Decisiones	Profesional De Servicio Civil 2 (G.De E.)	Derecho	Departamento De Contratación Y Coordinación Interinstitucion	0	16/11/2026	07/05/2030	9/11/26, 1:00 p. m.
 1554859	Vinculo Al Trabajo	Oficinista De Servicio Civil 2 (G. De E.)	Labores Varias De Oficina	Dirección De Educación Técnica Y Capacidades Emprendedoras	0	16/11/2026	31/01/2027	9/11/26, 1:00 p. m.
