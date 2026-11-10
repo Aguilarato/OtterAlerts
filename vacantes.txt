@@ -1,5 +1,4 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
-1557616	Direc. Regional Educacion Cañas	Profesor De Enseñanza Media (G. De E.)	Biología	Liceo De Colorado	4	10/11/2026	11/12/2026	9/11/26, 11:00 a. m.
 1557761	Direc. Regional Educacion Cañas	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática En Desarrollo Del Software	Cindea Tilaran	38	14/11/2026	11/12/2026	9/11/26, 1:30 p. m.
 1558070	Direc. Regional Educacion Coto	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Independencia (Jimenez)	0	12/11/2026	11/12/2026	10/11/26, 10:00 a. m.
 1558076	Direc. Regional Educacion Coto	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Cañaza (Jimenez)	0	12/11/2026	11/12/2026	10/11/26, 10:00 a. m.
