@@ -7,9 +7,11 @@
 1558402	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	Las Lomas	0	16/11/2026	11/12/2026	11/11/26, 7:30 a. m.
 1558594	Direc. Regional Educacion Heredia	Director De Enseñanza General Básica 3 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Cristobal Colon (Tures)	0	12/11/2026	31/01/2027	11/11/26, 10:30 a. m.
 1558278	Direc. Regional Educacion Occidente	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Santa Margarita (Rosario)	0	12/11/2026	31/07/2030	10/11/26, 2:00 p. m.
+1558665	Direc. Regional Educacion Puriscal	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Rosario Salazar Marin	0	12/11/2026	31/01/2027	11/11/26, 12:00 p. m.
 1558446	Direc. Regional Educacion San Carlos	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Colegio Tecnico Profesional La Tigra	0	01/12/2026	31/07/2030	11/11/26, 8:30 a. m.
 1558262	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza Media (G. De E.)	Inglés	Liceo Luis Dobles Segreda	40	12/11/2026	11/12/2026	10/11/26, 1:30 p. m.
 1558296	Direc. Regional Educacion San Jose - Oeste	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Liceo De Santa Ana	0	16/11/2026	31/01/2031	10/11/26, 2:30 p. m.
+1558670	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	El Trapiche	0	16/11/2026	11/12/2026	11/11/26, 12:00 p. m.
 1557542	Direc. Regional Educacion Zona Norte-Norte	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Liceo Coquital	0	26/11/2026	31/07/2030	11/11/26, 8:00 a. m.
 1558366	Direc. Regional Educacion Zona Norte-Norte	Conserje De Centro Educativo	Sin Especialidad T-I	San Isidro (Aguas Claras)	0	09/11/2026	31/01/2027	11/11/26, 8:00 a. m.
 1557477	Evaluacion De Los Servicios	Profesional De Servicio Civil 1 B (G.De E.)	Trabajo Social	Contraloría De Derechos Estudiantiles	0	16/11/2026	07/05/2030	9/11/26, 1:00 p. m.
