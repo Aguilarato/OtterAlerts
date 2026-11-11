@@ -1,4 +1,5 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
+1558521	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Enseñanza Especial . Generalista	Dirección Regional De Educación Limón	0	13/12/2026	31/01/2027	11/11/26, 9:30 a. m.
 1557535	Direc. Regional Educacion Central Del Pacífico	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Jaco (Jaco)	0	04/11/2026	31/07/2031	11/11/26, 8:00 a. m.
 1558070	Direc. Regional Educacion Coto	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Independencia (Jimenez)	0	12/11/2026	11/12/2026	10/11/26, 10:00 a. m.
 1558076	Direc. Regional Educacion Coto	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Cañaza (Jimenez)	0	12/11/2026	11/12/2026	10/11/26, 10:00 a. m.
