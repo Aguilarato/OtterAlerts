@@ -3,6 +3,7 @@
 1558076	Direc. Regional Educacion Coto	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Cañaza (Jimenez)	0	12/11/2026	11/12/2026	10/11/26, 10:00 a. m.
 1557921	Direc. Regional Educacion Grande De Terraba	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Rogelio Fernandez Guell	0	12/11/2026	24/12/2026	10/11/26, 8:00 a. m.
 1558314	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Anita Grande (Jimenez)	0	12/11/2026	11/12/2026	10/11/26, 2:30 p. m.
+1558402	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	Las Lomas	0	16/11/2026	11/12/2026	11/11/26, 7:30 a. m.
 1558082	Direc. Regional Educacion Los Santos	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Educación Física	San Jeronimo (San Carlos)	0	13/11/2026	11/12/2026	10/11/26, 10:30 a. m.
 1558088	Direc. Regional Educacion Los Santos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Mariano Quiros Segura	0	13/11/2026	11/12/2026	10/11/26, 10:30 a. m.
 1558278	Direc. Regional Educacion Occidente	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Santa Margarita (Rosario)	0	12/11/2026	31/07/2030	10/11/26, 2:00 p. m.
