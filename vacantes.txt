@@ -2,10 +2,10 @@
 1558515	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Evaluación	Dirección Regional De Educación De Grande De Térraba	0	14/12/2026	31/07/2030	11/11/26, 11:00 a. m.
 1558856	Direc. Regional Educacion Alajuela	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	C.T.P. Jesus Ocaña Rojas	0	18/11/2026	18/05/2028	12/11/26, 7:00 a. m.
 1557535	Direc. Regional Educacion Central Del Pacífico	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Jaco (Jaco)	0	04/11/2026	31/07/2031	11/11/26, 8:00 a. m.
-1558525	Direc. Regional Educacion Central Del Pacífico	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	La Loma (Parrita)	0	11/11/2026	31/07/2030	11/11/26, 10:00 a. m.
 1558777	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Física	C.T.P. De Pococi	6	12/11/2026	11/12/2026	11/11/26, 2:00 p. m.
 1558594	Direc. Regional Educacion Heredia	Director De Enseñanza General Básica 3 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Cristobal Colon (Tures)	0	12/11/2026	31/01/2027	11/11/26, 10:30 a. m.
 1558720	Direc. Regional Educacion Heredia	Asistente De Dirección Centro Educativo 2	Sin Especialidad T-Ii	Liceo Los Lagos	0	12/12/2026	31/07/2031	11/11/26, 1:30 p. m.
+1558967	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	San Luis Gonzaga (Para)	0	16/11/2026	25/06/2027	12/11/26, 10:00 a. m.
 1558665	Direc. Regional Educacion Puriscal	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Rosario Salazar Marin	0	12/11/2026	31/01/2027	11/11/26, 12:00 p. m.
 1558747	Direc. Regional Educacion San Carlos	Director De Colegio 1	Sin Especialidad T-Ii	Liceo Nicolas Aguilar	0	16/11/2026	29/01/2027	11/11/26, 1:30 p. m.
 1558571	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Ctp Purral	40	12/11/2026	11/12/2026	12/11/26, 8:00 a. m.
