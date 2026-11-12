@@ -6,7 +6,7 @@
 1558967	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	San Luis Gonzaga (Para)	0	16/11/2026	25/06/2027	12/11/26, 10:00 a. m.
 1559031	Direc. Regional Educacion Occidente	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Educación Física	Carmen L. Castro Rodriguez	0	16/11/2026	11/12/2026	12/11/26, 11:30 a. m.
 1559033	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Carmen L. Castro Rodriguez	0	16/11/2026	11/12/2026	12/11/26, 11:30 a. m.
-1558665	Direc. Regional Educacion Puriscal	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Rosario Salazar Marin	0	12/11/2026	31/01/2027	11/11/26, 12:00 p. m.
+1559077	Direc. Regional Educacion Perez Zeledon	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	San Gerardo (Platanares)	0	16/11/2026	11/12/2027	12/11/26, 12:00 p. m.
+1559084	Direc. Regional Educacion Perez Zeledon	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Cocori	0	19/11/2026	11/12/2026	12/11/26, 12:00 p. m.
 1558747	Direc. Regional Educacion San Carlos	Director De Colegio 1	Sin Especialidad T-Ii	Liceo Nicolas Aguilar	0	16/11/2026	29/01/2027	11/11/26, 1:30 p. m.
 1558571	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Ctp Purral	40	12/11/2026	11/12/2026	12/11/26, 8:00 a. m.
-1558670	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	El Trapiche	0	16/11/2026	11/12/2026	11/11/26, 12:00 p. m.
