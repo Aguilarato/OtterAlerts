@@ -1,6 +1,5 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1558515	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Evaluación	Dirección Regional De Educación De Grande De Térraba	0	14/12/2026	31/07/2030	11/11/26, 11:00 a. m.
-1558521	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Enseñanza Especial . Generalista	Dirección Regional De Educación Limón	0	13/12/2026	31/01/2027	11/11/26, 9:30 a. m.
 1558856	Direc. Regional Educacion Alajuela	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	C.T.P. Jesus Ocaña Rojas	0	18/11/2026	18/05/2028	12/11/26, 7:00 a. m.
 1557535	Direc. Regional Educacion Central Del Pacífico	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Jaco (Jaco)	0	04/11/2026	31/07/2031	11/11/26, 8:00 a. m.
 1558525	Direc. Regional Educacion Central Del Pacífico	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	La Loma (Parrita)	0	11/11/2026	31/07/2030	11/11/26, 10:00 a. m.
