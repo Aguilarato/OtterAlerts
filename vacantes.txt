@@ -8,7 +8,6 @@
 1558594	Direc. Regional Educacion Heredia	Director De Enseñanza General Básica 3 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Cristobal Colon (Tures)	0	12/11/2026	31/01/2027	11/11/26, 10:30 a. m.
 1558720	Direc. Regional Educacion Heredia	Asistente De Dirección Centro Educativo 2	Sin Especialidad T-Ii	Liceo Los Lagos	0	12/12/2026	31/07/2031	11/11/26, 1:30 p. m.
 1558665	Direc. Regional Educacion Puriscal	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Rosario Salazar Marin	0	12/11/2026	31/01/2027	11/11/26, 12:00 p. m.
-1558446	Direc. Regional Educacion San Carlos	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Colegio Tecnico Profesional La Tigra	0	01/12/2026	31/07/2030	11/11/26, 8:30 a. m.
 1558747	Direc. Regional Educacion San Carlos	Director De Colegio 1	Sin Especialidad T-Ii	Liceo Nicolas Aguilar	0	16/11/2026	29/01/2027	11/11/26, 1:30 p. m.
 1558571	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Ctp Purral	40	12/11/2026	11/12/2026	12/11/26, 8:00 a. m.
 1558670	Direc. Regional Educacion Santa Cruz	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	El Trapiche	0	16/11/2026	11/12/2026	11/11/26, 12:00 p. m.
