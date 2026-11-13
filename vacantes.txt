@@ -7,4 +7,3 @@
 1559077	Direc. Regional Educacion Perez Zeledon	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	San Gerardo (Platanares)	0	16/11/2026	11/12/2027	12/11/26, 12:00 p. m.
 1559084	Direc. Regional Educacion Perez Zeledon	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Cocori	0	19/11/2026	11/12/2026	12/11/26, 12:00 p. m.
 1559087	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Pedro (San Pedro)	0	16/11/2026	11/12/2026	12/11/26, 12:30 p. m.
-1558571	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Ctp Purral	40	12/11/2026	11/12/2026	12/11/26, 8:00 a. m.
