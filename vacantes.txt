@@ -1,2 +1,3 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1559390	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Español	Liceo Dr. Ricardo Moreno Cañas	44	17/11/2026	11/12/2026	13/11/26, 11:30 a. m.
+1559611	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Ens. Esp. San Isidro Del G	40	18/11/2026	11/12/2026	13/11/26, 4:30 p. m.
