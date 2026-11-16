@@ -35,9 +35,9 @@
 1558793	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Serapio Lopez Fajardo (Nicoya)	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1554305	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	San Rafael (San Rafael)	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1554836	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Fermin Rodriguez Cordero	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
-1554901	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Religión	Unidad Pedagógica San Francisco	4	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1554944	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Julian Volio Llorente (Volio)	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1555182	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Otilio Ulate Blanco (Zarcero)	0	01/02/2027	31/01/2032	16/11/26, 7:01 a. m.
+1556254	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Religión	Liceo Alfaro Ruiz	1	01/02/2027	31/01/2028	16/11/26, 9:00 a. m.
 1556952	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Jorge Washington (San Ramon)	0	01/02/2027	30/06/2027	16/11/26, 8:00 a. m.
 1559114	Direc. Regional Educacion Occidente	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Dr. Ricardo Moreno Cañas	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1559257	Direc. Regional Educacion Occidente	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo De Naranjo	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
