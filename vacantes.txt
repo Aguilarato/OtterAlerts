@@ -1,7 +1,10 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1559884	Direc. Regional Educacion Cañas	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Cañitas (Sierra)	0	16/11/2026	31/01/2031	16/11/26, 10:30 a. m.
+1560111	Direc. Regional Educacion Coto	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Educación Física	San Ramon (Guaycara)	0	18/11/2026	11/12/2026	16/11/26, 3:00 p. m.
 1552583	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Cubujuqui (Horquetas)	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1552585	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	I.D.A. Otoya (Horquetas)	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
+1554544	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Andres Corrales Mora (Aserri)	0	01/02/2027	31/01/2028	16/11/26, 3:00 p. m.
+1555110	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Cecilia Orlich Figueres	0	01/02/2027	31/01/2028	16/11/26, 3:00 p. m.
 1556198	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Eduardo Garnier Ugalde	0	01/02/2027	31/01/2032	16/11/26, 7:01 a. m.
 1556200	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Las Lomas	0	01/02/2027	31/01/2032	16/11/26, 7:01 a. m.
 1556201	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática Educativa .Informática Para Iii Y Iv Ciclos	C.T.P. De Osa	8	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
@@ -17,9 +20,9 @@
 1558602	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Media (G. De E.)	Filosofía	Liceo Rural Barra Del Colorado	3	01/02/2026	31/01/2028	16/11/26, 7:01 a. m.
 1558931	Direc. Regional Educacion Guapiles	Asistente De Dirección Centro Educativo 1	Sin Especialidad T-Ii	Cindea Rio Jimenez	0	01/02/2027	31/01/2031	16/11/26, 7:01 a. m.
 1558982	Direc. Regional Educacion Guapiles	Director De Enseñanza General Básica 4 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Guapiles (Guapiles)	0	01/02/2027	31/01/2031	16/11/26, 7:01 a. m.
-1552451	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	San Luis Gonzaga (Para)	0	01/02/2027	31/01/2032	16/11/26, 2:30 p. m.
 1552862	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Finca Guarari (San Francisco)	0	01/02/2027	31/01/2028	16/11/26, 2:00 p. m.
-1552865	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	España (San Antonio)	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
+1552866	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Braulio Morales Cerv.(Heredia)	0	01/02/2027	31/01/2028	16/11/26, 3:00 p. m.
+1556286	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Pdro Maria Badilla Bolaños	0	01/02/2027	31/01/2032	16/11/26, 3:00 p. m.
 1558854	Direc. Regional Educacion Heredia	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	Liceo Ing Carlos A Pascua Z.	0	01/02/2027	31/07/2031	16/11/26, 7:01 a. m.
 1559337	Direc. Regional Educacion Heredia	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Col. Noct. Carlos Melendez Ch.	0	16/11/2026	16/05/2028	16/11/26, 7:01 a. m.
 1559351	Direc. Regional Educacion Heredia	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo La Aurora	0	16/11/2026	31/01/2027	16/11/26, 7:01 a. m.
@@ -28,6 +31,7 @@
 1560030	Direc. Regional Educacion Heredia	Auxiliar Administrativo	Sin Especialidad T-Ii	Liceo Ing Manuel Benavides R.	0	01/02/2027	31/07/2031	16/11/26, 12:30 p. m.
 1560135	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	Liceo Exp.Bilingüe De Belen	0	16/11/2026	31/07/2030	16/11/26, 2:00 p. m.
 1559473	Direc. Regional Educacion Liberia	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	C.T.P. Liberia	40	18/11/2026	11/12/2026	16/11/26, 7:01 a. m.
+1555603	Direc. Regional Educacion Los Santos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	El Cedral (Santa Cruz)	0	01/02/2027	31/01/2028	16/11/26, 3:00 p. m.
 1553833	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Santa Marta (Nicoya)	0	01/02/2027	31/01/2032	16/11/26, 1:30 p. m.
 1553929	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Pavones (San Pablo)	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1554890	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Refrigeración Y Aire Acondicionado	C.T.P. De Corralillo	8	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
@@ -39,11 +43,11 @@
 1558793	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Serapio Lopez Fajardo (Nicoya)	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1552265	Direc. Regional Educacion Occidente	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Problemas De Aprendizaje	Juan Jose Valverde Madrigal	40	01/02/2027	31/01/2028	16/11/26, 11:00 a. m.
 1554305	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	San Rafael (San Rafael)	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
+1554901	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Religión	Unidad Pedagógica San Francisco	4	01/02/2027	31/01/2028	16/11/26, 3:00 p. m.
 1554944	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Julian Volio Llorente (Volio)	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1555182	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Otilio Ulate Blanco (Zarcero)	0	01/02/2027	31/01/2032	16/11/26, 7:01 a. m.
 1556952	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Jorge Washington (San Ramon)	0	01/02/2027	30/06/2027	16/11/26, 8:00 a. m.
 1559114	Direc. Regional Educacion Occidente	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Dr. Ricardo Moreno Cañas	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
-1559257	Direc. Regional Educacion Occidente	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo De Naranjo	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1559379	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Macario Valverde Madrigal	0	01/02/2027	31/01/2032	16/11/26, 7:01 a. m.
 1559980	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	San Pedro (San Pedro)	0	01/02/2027	31/01/2032	16/11/26, 11:30 a. m.
 1560024	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Rep. De Ecuador (San Juan)	0	01/02/2027	30/06/2027	16/11/26, 12:30 p. m.
@@ -69,5 +73,6 @@
 1559544	Direc. Regional Educacion San Carlos	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	La Luisa (Pocosol)	0	01/02/2027	31/01/2031	16/11/26, 7:01 a. m.
 1559553	Direc. Regional Educacion San Carlos	Cocinero	Sin Especialidad T-I	El Peje (Florencia)	0	16/11/2026	18/01/2027	16/11/26, 7:01 a. m.
 1559571	Direc. Regional Educacion San Carlos	Conserje De Centro Educativo	Sin Especialidad T-I	San Francisco (Florencia)	0	16/11/2026	31/01/2027	16/11/26, 7:01 a. m.
+1558858	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza Media (G. De E.)	Religión	Liceo De Escazu	8	01/02/2027	31/01/2028	16/11/26, 3:00 p. m.
 1559691	Direc. Regional Educacion San Jose - Oeste	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P. De Santa Ana	0	18/11/2026	31/01/2032	16/11/26, 8:30 a. m.
 1556705	Direc. Regional Educacion Sulá	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Liceo Rural Gavilan	40	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
