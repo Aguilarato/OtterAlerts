@@ -8,6 +8,7 @@
 1558008	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Media (G. De E.)	Filosofía	Liceo Finca De Alajuela	3	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1559136	Direc. Regional Educacion Grande De Terraba	Director De Colegio 1	Sin Especialidad T-Ii	Colegio Santa Eduviges	0	01/02/2027	31/07/2029	16/11/26, 7:01 a. m.
 1559369	Direc. Regional Educacion Grande De Terraba	Orientador 1	Sin Especialidad T-Ii	Liceo Buenos Aires	0	13/11/2026	31/01/2027	16/11/26, 7:01 a. m.
+1559678	Direc. Regional Educacion Grande De Terraba	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Concepcion (Pilas)	0	01/02/2027	31/01/2032	16/11/26, 8:00 a. m.
 1554481	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Carambola (Duacari)	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1554486	Direc. Regional Educacion Guapiles	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	San Antonio (Roxana)	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1557615	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Cascadas	0	01/02/2027	31/01/2032	16/11/26, 7:01 a. m.
@@ -37,7 +38,7 @@
 1554901	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Religión	Unidad Pedagógica San Francisco	4	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1554944	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Julian Volio Llorente (Volio)	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1555182	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Otilio Ulate Blanco (Zarcero)	0	01/02/2027	31/01/2032	16/11/26, 7:01 a. m.
-1556254	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Religión	Liceo Alfaro Ruiz	1	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
+1556952	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Jorge Washington (San Ramon)	0	01/02/2027	30/06/2027	16/11/26, 8:00 a. m.
 1559114	Direc. Regional Educacion Occidente	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Dr. Ricardo Moreno Cañas	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1559257	Direc. Regional Educacion Occidente	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo De Naranjo	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1559379	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Macario Valverde Madrigal	0	01/02/2027	31/01/2032	16/11/26, 7:01 a. m.
@@ -46,6 +47,7 @@
 1557114	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	La Linda	0	01/02/2027	31/07/2029	16/11/26, 7:01 a. m.
 1557822	Direc. Regional Educacion Perez Zeledon	Conserje De Centro Educativo	Sin Especialidad T-I	Pedregoso	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1558013	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Educación Para El Hogar	Sagrada Familia	0	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
+1558403	Direc. Regional Educacion Perez Zeledon	Conserje De Centro Educativo	Sin Especialidad T-I	Linda Vista	0	18/02/2027	31/01/2028	16/11/26, 8:00 a. m.
 1558915	Direc. Regional Educacion Perez Zeledon	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo Rural Santiago De San Pe	0	01/02/2027	31/01/2029	16/11/26, 7:01 a. m.
 1559611	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Trastornos Emocionales Y De Conducta	Ens. Esp. San Isidro Del G	40	18/11/2026	11/12/2026	13/11/26, 4:30 p. m.
 1552394	Direc. Regional Educacion Puriscal	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Grifo Alto (Grifo Alto)	0	01/02/2027	31/01/2032	16/11/26, 7:01 a. m.
