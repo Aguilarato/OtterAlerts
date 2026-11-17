@@ -9,11 +9,11 @@
 1558112	Direc. Regional Educacion Cartago	Asistente De Dirección Escolar	Sin Especialidad T-Ii	Carlos J.Peralta Echeverria	0	01/02/2027	31/07/2030	17/11/26, 8:00 a. m.
 1558468	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Central De Tres Rios	0	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
 1558472	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Orosi (Orosi)	0	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
-1558636	Direc. Regional Educacion Cartago	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Dr.Fernando Guzman Mata	0	01/02/2027	31/03/2027	17/11/26, 11:30 a. m.
 1558831	Direc. Regional Educacion Cartago	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Audición Y Lenguaje	Centro Educativo Dr. Carlos Saenz Herrera	44	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
 1559375	Direc. Regional Educacion Cartago	Asistente De Dirección Escolar	Sin Especialidad T-Ii	Rescate De Ujarraz (Santiago)	0	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
 1560442	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Quircot (San Nicolas)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
 1560447	Direc. Regional Educacion Cartago	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	La Pitahaya (San Francisco)	0	01/02/2027	31/07/2030	17/11/26, 8:00 a. m.
+1560454	Direc. Regional Educacion Cartago	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Calle Girales	0	01/02/2027	31/01/2032	17/11/26, 12:00 p. m.
 1558052	Direc. Regional Educacion Central Del Pacífico	Conserje De Centro Educativo	Sin Especialidad T-I	Herradura (Jaco)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
 1558091	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Republica De Corea (Quepos)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
 1558093	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Finca Llorona (Quepos)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
@@ -27,8 +27,6 @@
 1560111	Direc. Regional Educacion Coto	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Educación Física	San Ramon (Guaycara)	0	18/11/2026	11/12/2026	16/11/26, 3:00 p. m.
 1554544	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Andres Corrales Mora (Aserri)	0	01/02/2027	31/01/2028	16/11/26, 3:00 p. m.
 1555110	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Cecilia Orlich Figueres	0	01/02/2027	31/01/2028	16/11/26, 3:00 p. m.
-1559981	Direc. Regional Educacion Heredia	Profesional De Servicio Civil 1 B (G.De E.)	Equipos Interdisciplinarios / Social	Finca Guarari (San Francisco)	0	04/01/2026	01/03/2027	16/11/26, 12:00 p. m.
-1560001	Direc. Regional Educacion Heredia	Asistente De Servicios De Educacion Especial	Sin Especialidad T-I	Ens. Esp. De Heredia	0	16/11/2026	01/01/2027	16/11/26, 12:00 p. m.
 1560030	Direc. Regional Educacion Heredia	Auxiliar Administrativo	Sin Especialidad T-Ii	Liceo Ing Manuel Benavides R.	0	01/02/2027	31/07/2031	16/11/26, 12:30 p. m.
 1560060	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Julia Fernandez Rodriguez	0	01/02/2027	31/01/2032	17/11/26, 7:00 a. m.
 1560135	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	Liceo Exp.Bilingüe De Belen	0	16/11/2026	31/07/2030	16/11/26, 2:00 p. m.
