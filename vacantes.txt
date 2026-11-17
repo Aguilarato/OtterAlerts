@@ -1,26 +1,59 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
+1559120	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Estudios Sociales	Dirección Regional De Educación Central Del Pacífico	0	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
 1559884	Direc. Regional Educacion Cañas	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Cañitas (Sierra)	0	16/11/2026	31/01/2031	16/11/26, 10:30 a. m.
+1558103	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Ascension Esquivel Ibarra	0	01/02/2027	30/04/2027	17/11/26, 8:00 a. m.
+1558107	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Los Angeles (Parte Occidental)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
+1558112	Direc. Regional Educacion Cartago	Asistente De Dirección Escolar	Sin Especialidad T-Ii	Carlos J.Peralta Echeverria	0	01/02/2027	31/07/2030	17/11/26, 8:00 a. m.
+1558468	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Central De Tres Rios	0	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
+1558472	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Orosi (Orosi)	0	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
+1558831	Direc. Regional Educacion Cartago	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Audición Y Lenguaje	Centro Educativo Dr. Carlos Saenz Herrera	44	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
+1559375	Direc. Regional Educacion Cartago	Asistente De Dirección Escolar	Sin Especialidad T-Ii	Rescate De Ujarraz (Santiago)	0	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
+1560442	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Quircot (San Nicolas)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
+1560447	Direc. Regional Educacion Cartago	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	La Pitahaya (San Francisco)	0	01/02/2027	31/07/2030	17/11/26, 8:00 a. m.
+1560454	Direc. Regional Educacion Cartago	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Calle Girales	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
+1558052	Direc. Regional Educacion Central Del Pacífico	Conserje De Centro Educativo	Sin Especialidad T-I	Herradura (Jaco)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
+1558091	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Republica De Corea (Quepos)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
+1558093	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Finca Llorona (Quepos)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
+1558095	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Parrita (Parrita)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
+1558482	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	La Inmaculada (Quepos)	0	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
+1558483	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Maria Luisa De Castro (Quepos)	0	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
+1558916	Direc. Regional Educacion Central Del Pacífico	Auxiliar Administrativo	Sin Especialidad T-Ii	Liceo De Quebrada Ganado	0	01/02/2027	31/07/2029	17/11/26, 8:00 a. m.
+1559503	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Porton De Naranjo (Savegre)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
+1559507	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Porton De Naranjo (Savegre)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
+1560443	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Quebrada Ganado	0	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
 1560111	Direc. Regional Educacion Coto	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Educación Física	San Ramon (Guaycara)	0	18/11/2026	11/12/2026	16/11/26, 3:00 p. m.
 1554544	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Andres Corrales Mora (Aserri)	0	01/02/2027	31/01/2028	16/11/26, 3:00 p. m.
 1555110	Direc. Regional Educacion Desamparados	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Cecilia Orlich Figueres	0	01/02/2027	31/01/2028	16/11/26, 3:00 p. m.
-1559678	Direc. Regional Educacion Grande De Terraba	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Concepcion (Pilas)	0	01/02/2027	31/01/2032	16/11/26, 8:00 a. m.
 1554562	Direc. Regional Educacion Guapiles	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	San Rafael (Guapiles)	0	01/02/2027	31/01/2032	16/11/26, 11:00 a. m.
 1559981	Direc. Regional Educacion Heredia	Profesional De Servicio Civil 1 B (G.De E.)	Equipos Interdisciplinarios / Social	Finca Guarari (San Francisco)	0	04/01/2026	01/03/2027	16/11/26, 12:00 p. m.
 1560001	Direc. Regional Educacion Heredia	Asistente De Servicios De Educacion Especial	Sin Especialidad T-I	Ens. Esp. De Heredia	0	16/11/2026	01/01/2027	16/11/26, 12:00 p. m.
 1560030	Direc. Regional Educacion Heredia	Auxiliar Administrativo	Sin Especialidad T-Ii	Liceo Ing Manuel Benavides R.	0	01/02/2027	31/07/2031	16/11/26, 12:30 p. m.
 1560060	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Julia Fernandez Rodriguez	0	01/02/2027	31/01/2032	17/11/26, 7:00 a. m.
 1560135	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	Liceo Exp.Bilingüe De Belen	0	16/11/2026	31/07/2030	16/11/26, 2:00 p. m.
+1560477	Direc. Regional Educacion Liberia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Argendora	0	19/11/2026	31/01/2027	17/11/26, 8:00 a. m.
 1555603	Direc. Regional Educacion Los Santos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	El Cedral (Santa Cruz)	0	01/02/2027	31/01/2028	16/11/26, 3:00 p. m.
 1553833	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Santa Marta (Nicoya)	0	01/02/2027	31/01/2032	16/11/26, 1:30 p. m.
 1554894	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Refrigeración Y Aire Acondicionado	C.T.P. De Corralillo	14	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1558298	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Desarrollo Web	Colegio Tecnico Profesional De Copal	40	01/02/2027	31/01/2030	16/11/26, 11:00 a. m.
 1552265	Direc. Regional Educacion Occidente	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Problemas De Aprendizaje	Juan Jose Valverde Madrigal	40	01/02/2027	31/01/2028	16/11/26, 11:00 a. m.
-1554551	Direc. Regional Educacion Occidente	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Nautilio Acosta Piepper	0	01/02/2027	31/01/2032	17/11/26, 7:00 a. m.
-1556952	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Jorge Washington (San Ramon)	0	01/02/2027	30/06/2027	16/11/26, 8:00 a. m.
 1559980	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	San Pedro (San Pedro)	0	01/02/2027	31/01/2032	16/11/26, 11:30 a. m.
 1560024	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Rep. De Ecuador (San Juan)	0	01/02/2027	30/06/2027	16/11/26, 12:30 p. m.
 1560207	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	El Rosario (Rosario)	0	01/02/2027	31/01/2028	17/11/26, 7:00 a. m.
 1560266	Direc. Regional Educacion Occidente	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática Educativa .Informática Para Iii Y Iv Ciclos	Liceo De Naranjo	12	01/02/2027	31/01/2028	17/11/26, 7:00 a. m.
-1558403	Direc. Regional Educacion Perez Zeledon	Conserje De Centro Educativo	Sin Especialidad T-I	Linda Vista	0	18/02/2027	31/01/2028	16/11/26, 8:00 a. m.
+1560022	Direc. Regional Educacion Peninsular	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	Santa Clemencia	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
+1560053	Direc. Regional Educacion Peninsular	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Cabo Blanco (Lepanto)	0	01/02/2027	31/01/2030	17/11/26, 8:00 a. m.
+1560080	Direc. Regional Educacion Peninsular	Profesor De Enseñanza Media (G. De E.)	Filosofía	Colegio Academico Tambor De Cobano	3	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
+1560087	Direc. Regional Educacion Peninsular	Profesor De Enseñanza Media (G. De E.)	Religión	Colegio De Lepanto	14	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
+1560099	Direc. Regional Educacion Peninsular	Profesor De Enseñanza Media (G. De E.)	Filosofía	Liceo Rural Santa Teresa Coban	6	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
+1560165	Direc. Regional Educacion Peninsular	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Música/Música	Lepanto (Lepanto)	0	01/02/2027	31/01/2030	17/11/26, 8:00 a. m.
+1559500	Direc. Regional Educacion Puntarenas	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Heriberto Zeledon Rodriguez	0	16/11/2026	31/07/2030	17/11/26, 8:00 a. m.
+1560070	Direc. Regional Educacion Puntarenas	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	El Roble (Puntarenas)	0	01/02/2027	31/01/2031	17/11/26, 8:00 a. m.
+1560107	Direc. Regional Educacion Puntarenas	Director De Enseñanza General Básica 4 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Fray Casiano De Madrid	0	01/02/2027	31/07/2029	17/11/26, 8:00 a. m.
+1555597	Direc. Regional Educacion San Jose - Norte	Director De Enseñanza General Básica 4 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Los Angeles	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
+1558024	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Plásticas/Artes Plásticas	Fdo.Centeno Retardo Mental	26	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
+1558036	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Plásticas/Artes Plásticas	Fdo.Centeno Audicion Y Lenguaj	6	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
 1558858	Direc. Regional Educacion San Jose - Oeste	Profesor De Enseñanza Media (G. De E.)	Religión	Liceo De Escazu	8	01/02/2027	31/01/2028	16/11/26, 3:00 p. m.
-1559691	Direc. Regional Educacion San Jose - Oeste	Conserje De Centro Educativo	Sin Especialidad T-I	C.T.P. De Santa Ana	0	18/11/2026	31/01/2032	16/11/26, 8:30 a. m.
+1555602	Direc. Regional Educacion Zona Norte-Norte	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Delicias (Delicias)	0	01/02/2027	31/01/2031	17/11/26, 8:00 a. m.
+1558561	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Media (G. De E.)	Francés	Liceo De Aguas Claras	3	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
+1558578	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Para El Hogar	Liceo De Aguas Claras	3	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
+1559417	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Media (G. De E.)	Religión	Liceo Cuatro Bocas	5	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
