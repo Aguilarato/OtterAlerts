@@ -17,3 +17,4 @@
 1561109	Direc. Regional Educacion San Carlos	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Mario Salazar M (Aguas Zarcas)	0	01/02/2027	31/01/2028	18/11/26, 9:30 a. m.
 1561117	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Preescolar (G.De E)	Inglés	Esc. Jose Rodriguez Martinez	0	01/02/2027	31/01/2032	18/11/26, 9:30 a. m.
 1558500	Direc. Regional Educacion San Jose - Norte	Conserje De Centro Educativo	Sin Especialidad T-I	La Trinidad	0	10/12/2026	31/07/2028	18/11/26, 8:00 a. m.
+1555934	Direc. Regional Educacion San Jose - Oeste	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Esc. Manuel Brenes Nocturna	0	01/02/2027	31/01/2032	18/11/26, 3:00 p. m.
