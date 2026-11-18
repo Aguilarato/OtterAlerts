@@ -8,6 +8,7 @@
 1561326	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Conservatorio Castella (Ulloa)	0	08/02/2027	18/07/2027	18/11/26, 1:30 p. m.
 1561337	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Cubujuqui (Mercedes)	0	01/02/2027	31/01/2032	18/11/26, 1:30 p. m.
 1561344	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media (G. De E.)	Inglés	C.T.P. De Flores	44	01/02/2027	31/01/2028	18/11/26, 1:30 p. m.
+1561396	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media (G. De E.)	Religión	Liceo Regional De Flores	30	01/02/2027	31/01/2028	18/11/26, 4:00 p. m.
 1560771	Direc. Regional Educacion Los Santos	Conserje De Centro Educativo	Sin Especialidad T-I	La Sabana	0	01/02/2027	31/01/2028	18/11/26, 8:00 a. m.
 1554894	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Refrigeración Y Aire Acondicionado	C.T.P. De Corralillo	14	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1561203	Direc. Regional Educacion Peninsular	Profesor De Enseñanza Media (G. De E.)	Francés	Colegio De Lepanto	27	01/02/2027	31/01/2028	18/11/26, 11:00 a. m.
