@@ -1,5 +1,4 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
-1560460	Administracion Regional Del Sist. Educ.	Asistente De Asesoría Y Supervisión	Sin Especialidad T-Ii	Dirección Regional De Educación Cartago	0	11/12/2026	31/07/2030	17/11/26, 8:30 a. m.
 1560626	Administracion Regional Del Sist. Educ.	Asistente De Asesoría Y Supervisión	Sin Especialidad T-Ii	Dirección Regional De Educación Alajuela	0	02/12/2026	31/07/2030	18/11/26, 7:00 a. m.
 1560650	Administracion Regional Del Sist. Educ.	Asistente De Asesoría Y Supervisión	Sin Especialidad T-Ii	Dirección Regional De Educación Alajuela	0	18/11/2026	07/01/2027	17/11/26, 11:00 a. m.
 1560704	Direc. Regional Educacion Alajuela	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Liceo De Turrucares	0	01/12/2026	11/01/2027	17/11/26, 11:30 a. m.
@@ -9,7 +8,6 @@
 1560521	Direc. Regional Educacion Heredia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Industriales	I.P.E.C. Barva	5	01/02/2027	31/01/2028	17/11/26, 9:01 a. m.
 1560771	Direc. Regional Educacion Los Santos	Conserje De Centro Educativo	Sin Especialidad T-I	La Sabana	0	01/02/2027	31/01/2028	18/11/26, 8:00 a. m.
 1554894	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Refrigeración Y Aire Acondicionado	C.T.P. De Corralillo	14	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
-1559708	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Eulogio Salazar L.	0	01/02/2027	31/01/2032	17/11/26, 8:30 a. m.
 1560568	Direc. Regional Educacion Occidente	Conserje De Centro Educativo	Sin Especialidad T-I	Inst. Sup. Julio Acosta G.	0	19/11/2026	31/01/2028	17/11/26, 11:00 a. m.
 1560768	Direc. Regional Educacion Occidente	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Retardo Mental	Caipad Apamar	40	23/11/2026	11/12/2026	17/11/26, 1:00 p. m.
 1560765	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Terapia Del Lenguaje	Esc. Pavones	32	23/11/2026	11/12/2026	17/11/26, 1:00 p. m.
