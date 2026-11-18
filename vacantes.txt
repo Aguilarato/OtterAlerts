@@ -16,5 +16,7 @@
 1561070	Direc. Regional Educacion San Carlos	Orientador Asistente	Sin Especialidad T-Ii	C.T.P. De Pital	0	01/02/2027	31/07/2031	18/11/26, 9:00 a. m.
 1561071	Direc. Regional Educacion San Carlos	Orientador Asistente	Sin Especialidad T-Ii	C.T.P. De La Fortuna	0	01/02/2027	31/01/2031	18/11/26, 9:00 a. m.
 1561079	Direc. Regional Educacion San Carlos	Orientador 2	Sin Especialidad T-Ii	C.T.P. De Santa Rosa	0	01/02/2027	31/01/2028	18/11/26, 9:00 a. m.
+1561109	Direc. Regional Educacion San Carlos	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Mario Salazar M (Aguas Zarcas)	0	01/02/2027	31/01/2028	18/11/26, 9:30 a. m.
+1561117	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Preescolar (G.De E)	Inglés	Esc. Jose Rodriguez Martinez	0	01/02/2027	31/01/2032	18/11/26, 9:30 a. m.
 1558500	Direc. Regional Educacion San Jose - Norte	Conserje De Centro Educativo	Sin Especialidad T-I	La Trinidad	0	10/12/2026	31/07/2028	18/11/26, 8:00 a. m.
 1560660	Direc. Regional Educacion San Jose - Oeste	Cocinero	Sin Especialidad T-I	Rincon Grande	0	23/11/2026	31/01/2028	17/11/26, 11:00 a. m.
