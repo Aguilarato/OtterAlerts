@@ -1,6 +1,5 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1560626	Administracion Regional Del Sist. Educ.	Asistente De Asesoría Y Supervisión	Sin Especialidad T-Ii	Dirección Regional De Educación Alajuela	0	02/12/2026	31/07/2030	18/11/26, 7:00 a. m.
-1560712	Direc. Regional Educacion Alajuela	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Liceo Labrador	0	28/11/2026	31/01/2032	17/11/26, 11:30 a. m.
 1561167	Direc. Regional Educacion Grande De Terraba	Cocinero	Sin Especialidad T-I	Las Lomas	0	01/02/2027	31/01/2029	18/11/26, 10:30 a. m.
 1560720	Direc. Regional Educacion Guapiles	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Toro Amarillo (Guapiles)	0	01/02/2027	31/01/2032	18/11/26, 7:00 a. m.
 1560764	Direc. Regional Educacion Guapiles	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	El Aguacate (Guacimo)	0	18/11/2026	31/01/2031	17/11/26, 1:00 p. m.
@@ -10,9 +9,6 @@
 1561203	Direc. Regional Educacion Peninsular	Profesor De Enseñanza Media (G. De E.)	Francés	Colegio De Lepanto	27	01/02/2027	31/01/2028	18/11/26, 11:00 a. m.
 1560765	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Terapia Del Lenguaje	Esc. Pavones	32	23/11/2026	11/12/2026	17/11/26, 1:00 p. m.
 1561179	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Sagrada Familia	0	23/11/2026	11/12/2026	18/11/26, 10:30 a. m.
-1560708	Direc. Regional Educacion San Carlos	Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	San Jorge (Fortuna)	0	01/02/2027	31/01/2032	17/11/26, 11:30 a. m.
-1560710	Direc. Regional Educacion San Carlos	Director De Colegio 1	Sin Especialidad T-Ii	Liceo Rural El Concho	0	01/02/2027	31/01/2032	17/11/26, 11:30 a. m.
-1560713	Direc. Regional Educacion San Carlos	Cocinero	Sin Especialidad T-I	I.D.A. Garabito (Aguas Zarcas)	0	16/01/2027	31/07/2031	17/11/26, 11:30 a. m.
 1561070	Direc. Regional Educacion San Carlos	Orientador Asistente	Sin Especialidad T-Ii	C.T.P. De Pital	0	01/02/2027	31/07/2031	18/11/26, 9:00 a. m.
 1561071	Direc. Regional Educacion San Carlos	Orientador Asistente	Sin Especialidad T-Ii	C.T.P. De La Fortuna	0	01/02/2027	31/01/2031	18/11/26, 9:00 a. m.
 1561079	Direc. Regional Educacion San Carlos	Orientador 2	Sin Especialidad T-Ii	C.T.P. De Santa Rosa	0	01/02/2027	31/01/2028	18/11/26, 9:00 a. m.
