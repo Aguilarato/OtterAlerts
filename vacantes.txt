@@ -9,11 +9,11 @@
 1558112	Direc. Regional Educacion Cartago	Asistente De Dirección Escolar	Sin Especialidad T-Ii	Carlos J.Peralta Echeverria	0	01/02/2027	31/07/2030	17/11/26, 8:00 a. m.
 1558468	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Central De Tres Rios	0	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
 1558472	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Orosi (Orosi)	0	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
+1558636	Direc. Regional Educacion Cartago	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Dr.Fernando Guzman Mata	0	01/02/2027	31/03/2027	18/11/26, 4:00 a. m.
 1558831	Direc. Regional Educacion Cartago	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Audición Y Lenguaje	Centro Educativo Dr. Carlos Saenz Herrera	44	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
 1559375	Direc. Regional Educacion Cartago	Asistente De Dirección Escolar	Sin Especialidad T-Ii	Rescate De Ujarraz (Santiago)	0	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
 1560442	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Quircot (San Nicolas)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
 1560447	Direc. Regional Educacion Cartago	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	La Pitahaya (San Francisco)	0	01/02/2027	31/07/2030	17/11/26, 8:00 a. m.
-1560454	Direc. Regional Educacion Cartago	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Calle Girales	0	01/02/2027	31/01/2032	17/11/26, 6:59 p. m.
 1558052	Direc. Regional Educacion Central Del Pacífico	Conserje De Centro Educativo	Sin Especialidad T-I	Herradura (Jaco)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
 1558091	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Republica De Corea (Quepos)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
 1558093	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Finca Llorona (Quepos)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
