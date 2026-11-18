@@ -1,5 +1,6 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1560626	Administracion Regional Del Sist. Educ.	Asistente De Asesoría Y Supervisión	Sin Especialidad T-Ii	Dirección Regional De Educación Alajuela	0	02/12/2026	31/07/2030	18/11/26, 7:00 a. m.
+1561487	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Enseñanza Especial . Generalista	Dirección Regional De Educación Heredia	0	19/11/2026	31/07/2031	18/11/26, 3:30 p. m.
 1561167	Direc. Regional Educacion Grande De Terraba	Cocinero	Sin Especialidad T-I	Las Lomas	0	01/02/2027	31/01/2029	18/11/26, 10:30 a. m.
 1560720	Direc. Regional Educacion Guapiles	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Toro Amarillo (Guapiles)	0	01/02/2027	31/01/2032	18/11/26, 7:00 a. m.
 1560745	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Toro Amarillo (Guapiles)	0	01/02/2027	31/01/2032	18/11/26, 12:30 p. m.
