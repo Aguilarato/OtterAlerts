@@ -1,6 +1,7 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1559120	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Estudios Sociales	Dirección Regional De Educación Central Del Pacífico	0	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
 1560460	Administracion Regional Del Sist. Educ.	Asistente De Asesoría Y Supervisión	Sin Especialidad T-Ii	Dirección Regional De Educación Cartago	0	11/12/2026	31/07/2030	17/11/26, 8:30 a. m.
+1560626	Administracion Regional Del Sist. Educ.	Asistente De Asesoría Y Supervisión	Sin Especialidad T-Ii	Dirección Regional De Educación Alajuela	0	02/12/2026	31/07/2030	18/11/26, 7:00 a. m.
 1560650	Administracion Regional Del Sist. Educ.	Asistente De Asesoría Y Supervisión	Sin Especialidad T-Ii	Dirección Regional De Educación Alajuela	0	18/11/2026	07/01/2027	17/11/26, 11:00 a. m.
 1560704	Direc. Regional Educacion Alajuela	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Liceo De Turrucares	0	01/12/2026	11/01/2027	17/11/26, 11:30 a. m.
 1560712	Direc. Regional Educacion Alajuela	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Liceo Labrador	0	28/11/2026	31/01/2032	17/11/26, 11:30 a. m.
@@ -24,13 +25,12 @@
 1559503	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Porton De Naranjo (Savegre)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
 1559507	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Porton De Naranjo (Savegre)	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
 1560443	Direc. Regional Educacion Central Del Pacífico	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Quebrada Ganado	0	01/02/2027	31/01/2028	17/11/26, 8:00 a. m.
+1560720	Direc. Regional Educacion Guapiles	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Toro Amarillo (Guapiles)	0	01/02/2027	31/01/2032	18/11/26, 7:00 a. m.
 1560764	Direc. Regional Educacion Guapiles	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	El Aguacate (Guacimo)	0	18/11/2026	31/01/2031	17/11/26, 1:00 p. m.
 1560521	Direc. Regional Educacion Heredia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Industriales	I.P.E.C. Barva	5	01/02/2027	31/01/2028	17/11/26, 9:01 a. m.
 1560477	Direc. Regional Educacion Liberia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Argendora	0	19/11/2026	31/01/2027	17/11/26, 8:00 a. m.
 1554894	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Refrigeración Y Aire Acondicionado	C.T.P. De Corralillo	14	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1559708	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Eulogio Salazar L.	0	01/02/2027	31/01/2032	17/11/26, 8:30 a. m.
-1560207	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	El Rosario (Rosario)	0	01/02/2027	31/01/2028	17/11/26, 7:00 a. m.
-1560266	Direc. Regional Educacion Occidente	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática Educativa .Informática Para Iii Y Iv Ciclos	Liceo De Naranjo	12	01/02/2027	31/01/2028	17/11/26, 7:00 a. m.
 1560568	Direc. Regional Educacion Occidente	Conserje De Centro Educativo	Sin Especialidad T-I	Inst. Sup. Julio Acosta G.	0	19/11/2026	31/01/2028	17/11/26, 11:00 a. m.
 1560768	Direc. Regional Educacion Occidente	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Retardo Mental	Caipad Apamar	40	23/11/2026	11/12/2026	17/11/26, 1:00 p. m.
 1560022	Direc. Regional Educacion Peninsular	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	Santa Clemencia	0	01/02/2027	31/01/2032	17/11/26, 8:00 a. m.
