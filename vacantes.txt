@@ -2,7 +2,6 @@
 1561806	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	Oasis	0	01/02/2027	31/01/2028	19/11/26, 10:00 a. m.
 1561913	Direc. Regional Educacion Grande De Terraba	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	San Luis (Buenos Aires)	0	19/11/2026	24/12/2026	19/11/26, 12:31 p. m.
 1561983	Direc. Regional Educacion Guapiles	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	La Lucha (Rio Jimenez)	0	24/11/2026	31/07/2031	19/11/26, 2:00 p. m.
-1561396	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media (G. De E.)	Religión	Liceo Regional De Flores	30	01/02/2027	31/01/2028	18/11/26, 4:00 p. m.
 1561527	Direc. Regional Educacion Heredia	Asistente De Dirección Escolar	Sin Especialidad T-Ii	Nuevo Horizonte(San Francisco)	0	01/02/2027	31/07/2031	18/11/26, 4:30 p. m.
 1559821	Direc. Regional Educacion Los Santos	Profesor De Enseñanza Media (G. De E.)	Religión	Liceo San Carlos	10	01/02/2027	31/01/2028	19/11/26, 9:00 a. m.
 1554894	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Refrigeración Y Aire Acondicionado	C.T.P. De Corralillo	14	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
