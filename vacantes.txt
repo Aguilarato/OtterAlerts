@@ -2,7 +2,6 @@
 1561487	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Enseñanza Especial . Generalista	Dirección Regional De Educación Heredia	0	19/11/2026	31/07/2031	18/11/26, 3:30 p. m.
 1561806	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	Oasis	0	01/02/2027	31/01/2028	19/11/26, 10:00 a. m.
 1560745	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Informática Educativa. Informática Para I Y Ii Ciclos	Toro Amarillo (Guapiles)	0	01/02/2027	31/01/2032	18/11/26, 12:30 p. m.
-1561039	Direc. Regional Educacion Guapiles	Director De Enseñanza General Básica 1 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	El Millon	0	23/11/2026	31/01/2027	18/11/26, 12:00 p. m.
 1561326	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Conservatorio Castella (Ulloa)	0	08/02/2027	18/07/2027	18/11/26, 1:30 p. m.
 1561337	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Cubujuqui (Mercedes)	0	01/02/2027	31/01/2032	18/11/26, 1:30 p. m.
 1561344	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media (G. De E.)	Inglés	C.T.P. De Flores	44	01/02/2027	31/01/2028	18/11/26, 1:30 p. m.
