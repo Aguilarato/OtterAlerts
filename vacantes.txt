@@ -1,5 +1,10 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1559673	Administracion Regional Del Sist. Educ.	Asesor Regional (G. De E.)	Matemáticas	Dirección Regional De Educación Desamparados	0	01/02/2027	31/01/2032	23/11/26, 7:00 a. m.
+1560724	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Leon Cortes Castro (Cot)	0	01/02/2027	31/01/2028	23/11/26, 8:00 a. m.
+1560761	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Julian Volio Llorente (Carmen)	0	01/02/2027	31/01/2032	23/11/26, 8:00 a. m.
+1560903	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Cipreses (Cipreses)	0	01/02/2027	31/01/2031	23/11/26, 8:00 a. m.
+1560908	Direc. Regional Educacion Cartago	Conserje De Centro Educativo	Sin Especialidad T-I	Col. Noct. De Cartago	0	01/02/2027	31/07/2031	23/11/26, 8:00 a. m.
+1561297	Direc. Regional Educacion Cartago	Cocinero	Sin Especialidad T-I	Centro Educativo Dr. Carlos Saenz Herrera	0	01/02/2027	31/07/2030	23/11/26, 8:00 a. m.
 1562328	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Electromecánica	Cindea Puerto Viejo	5	01/02/2027	31/01/2028	23/11/26, 7:00 a. m.
 1562331	Direc. Regional Educacion De Sarapiqui	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Para El Hogar	Cindea Puerto Viejo	5	01/02/2027	31/01/2028	23/11/26, 7:00 a. m.
 1561856	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Los Lagos (San Francisco)	0	01/02/2027	31/01/2032	23/11/26, 7:00 a. m.
@@ -9,5 +14,8 @@
 1561733	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Media (G. De E.)	Estudios Sociales/Educación Cívica	Liceo Academico San Antonio Pe	15	01/02/2027	31/01/2028	23/11/26, 7:00 a. m.
 1561736	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Media (G. De E.)	Filosofía	Liceo Academico San Antonio Pe	6	01/02/2027	31/01/2028	23/11/26, 7:00 a. m.
 1562147	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Técnico Profesional (Enseñanza Preescolar, O, I Y Ii Ciclos ) (G. De E.)	Educación Física	San Martin (Quesada)	0	01/02/2027	31/01/2028	23/11/26, 7:00 a. m.
+1561882	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Ejecutivo Comercial Y De Servicio Al Cliente	C.T.P. Vasquez De Coronado	40	13/11/2026	11/12/2026	23/11/26, 8:00 a. m.
 1562078	Direc. Regional Educacion San Jose - Oeste	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo De Santa Ana	0	26/11/2026	25/06/2028	23/11/26, 7:00 a. m.
 1558802	Direc. Regional Educacion Santa Cruz	Conserje De Centro Educativo	Sin Especialidad T-I	Barrio Lajas	0	11/12/2026	31/07/2031	23/11/26, 7:00 a. m.
+1560954	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Media (G. De E.)	Filosofía	Cindea De Aguas Claras	4	01/02/2027	31/01/2028	23/11/26, 8:00 a. m.
+1562526	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Liceo Coquital	2	23/11/2026	11/12/2026	23/11/26, 8:00 a. m.
