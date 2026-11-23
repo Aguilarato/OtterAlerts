@@ -13,6 +13,7 @@
 1561856	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Los Lagos (San Francisco)	0	01/02/2027	31/01/2032	23/11/26, 7:00 a. m.
 1562158	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Los Angeles (Los Angeles)	0	01/02/2027	31/01/2032	23/11/26, 7:00 a. m.
 1562178	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	Santiago (San Francisco)	0	23/11/2026	06/01/2027	23/11/26, 7:00 a. m.
+1562705	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media Bilingüe (G. De E.)	Inglés	Liceo Exp.Bilingüe De Belen	40	01/02/2027	31/01/2028	23/11/26, 11:00 a. m.
 1562556	Direc. Regional Educacion Limon	Conserje De Centro Educativo	Sin Especialidad T-I	Silvestre Grant Griffith (Cair	0	25/11/2026	31/01/2027	23/11/26, 9:00 a. m.
 1562631	Direc. Regional Educacion Limon	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	Colegio De Limon Diurno	0	01/02/2027	31/01/2028	23/11/26, 10:30 a. m.
 1554894	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Refrigeración Y Aire Acondicionado	C.T.P. De Corralillo	14	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
