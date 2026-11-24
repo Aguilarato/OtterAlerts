@@ -7,7 +7,9 @@
 1562923	Direc. Regional Educacion Heredia	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	San Jose (San Josecito)	0	01/02/2027	31/07/2031	23/11/26, 1:30 p. m.
 1562927	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media (G. De E.)	Inglés	Liceo Ing Manuel Benavides R.	44	01/02/2027	31/01/2028	23/11/26, 1:30 p. m.
 1562933	Direc. Regional Educacion Heredia	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Cubujuqui (Mercedes)	0	01/02/2027	31/01/2032	23/11/26, 1:30 p. m.
+1563869	Direc. Regional Educacion Heredia	Conserje De Centro Educativo	Sin Especialidad T-I	Liceo La Aurora	0	24/11/2026	01/01/2027	24/11/26, 1:00 p. m.
 1560636	Direc. Regional Educacion Limon	Profesor De Idioma Extranjero ( I Y Ii Ciclos) (G.De E.)	Inglés	Atilia Mata Freses (Limon)	0	01/02/2027	31/01/2032	23/11/26, 4:30 p. m.
+1563833	Direc. Regional Educacion Los Santos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Quebrada Seca (San Carlos)	0	01/02/2027	31/01/2032	24/11/26, 1:00 p. m.
 1554894	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Refrigeración Y Aire Acondicionado	C.T.P. De Corralillo	14	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1563070	Direc. Regional Educacion Nicoya	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	San Francisco (Bejuco)	0	25/11/2026	11/12/2026	23/11/26, 3:00 p. m.
 1557676	Direc. Regional Educacion Occidente	Conserje De Centro Educativo	Sin Especialidad T-I	Pablo Alvarado Vargas	0	01/02/2027	30/06/2027	24/11/26, 7:01 a. m.
