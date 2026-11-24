@@ -1,10 +1,6 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1562539	Administracion Regional Del Sist. Educ.	Supervisor De Educación	Sin Especialidad T-Ii	Dirección Regional De Educación San Carlos	0	24/11/2026	31/01/2027	23/11/26, 8:30 a. m.
-1560724	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Leon Cortes Castro (Cot)	0	01/02/2027	31/01/2028	23/11/26, 8:00 a. m.
-1560761	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Julian Volio Llorente (Carmen)	0	01/02/2027	31/01/2032	23/11/26, 8:00 a. m.
-1560903	Direc. Regional Educacion Cartago	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Cipreses (Cipreses)	0	01/02/2027	31/01/2031	23/11/26, 8:00 a. m.
-1560908	Direc. Regional Educacion Cartago	Conserje De Centro Educativo	Sin Especialidad T-I	Col. Noct. De Cartago	0	01/02/2027	31/07/2031	23/11/26, 8:00 a. m.
-1561297	Direc. Regional Educacion Cartago	Cocinero	Sin Especialidad T-I	Centro Educativo Dr. Carlos Saenz Herrera	0	01/02/2027	31/07/2030	23/11/26, 8:00 a. m.
+1561911	Direc. Regional Educacion Central Del Pacífico	Conserje De Centro Educativo	Sin Especialidad T-I	La Inmaculada (Quepos)	0	01/02/2027	31/01/2028	24/11/26, 8:00 a. m.
 1563019	Direc. Regional Educacion Grande De Terraba	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	Las Lomas	0	01/02/2027	31/01/2032	23/11/26, 2:30 p. m.
 1560894	Direc. Regional Educacion Guapiles	Director De Enseñanza General Básica 2 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Barra Tortuguero (Colorado)	0	01/02/2027	31/01/2031	23/11/26, 10:00 a. m.
 1562705	Direc. Regional Educacion Heredia	Profesor De Enseñanza Media Bilingüe (G. De E.)	Inglés	Liceo Exp.Bilingüe De Belen	40	01/02/2027	31/01/2028	23/11/26, 11:00 a. m.
@@ -27,6 +23,5 @@
 1562906	Direc. Regional Educacion Puntarenas	Conserje De Centro Educativo	Sin Especialidad T-I	Fray Casiano De Madrid	0	01/02/2027	31/07/2031	23/11/26, 2:00 p. m.
 1563062	Direc. Regional Educacion Puriscal	Conserje De Centro Educativo	Sin Especialidad T-I	Santa Cecilia	0	01/02/2027	31/01/2031	23/11/26, 3:00 p. m.
 1561817	Direc. Regional Educacion San Carlos	Profesor De Enseñanza Media (G. De E.)	Inglés	Ctp De Platanar	13	01/02/2027	31/01/2028	23/11/26, 11:30 a. m.
-1561882	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Ejecutivo Comercial Y De Servicio Al Cliente	C.T.P. Vasquez De Coronado	40	13/11/2026	11/12/2026	23/11/26, 8:00 a. m.
-1560954	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Media (G. De E.)	Filosofía	Cindea De Aguas Claras	4	01/02/2027	31/01/2028	23/11/26, 8:00 a. m.
-1562526	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Física	Liceo Coquital	2	23/11/2026	11/12/2026	23/11/26, 8:00 a. m.
+1530517	Direc. Regional Educacion San Jose - Norte	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Jose Cubero Muñoz	0	17/06/2027	31/01/2031	24/11/26, 8:00 a. m.
+1543272	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Especial (G.De E.)	Enseñanza Especial . Retardo Mental	Esc. Monterrey	32	01/02/2027	31/01/2031	24/11/26, 8:00 a. m.
