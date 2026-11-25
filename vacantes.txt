@@ -12,20 +12,21 @@
 1563833	Direc. Regional Educacion Los Santos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Quebrada Seca (San Carlos)	0	01/02/2027	31/01/2032	24/11/26, 1:00 p. m.
 1554894	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Refrigeración Y Aire Acondicionado	C.T.P. De Corralillo	14	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1563992	Direc. Regional Educacion Nicoya	Asistente De Dirección Centro Educativo 1	Sin Especialidad T-Ii	Cindea Nandayure	0	01/02/2027	11/04/2027	24/11/26, 2:00 p. m.
+1564031	Direc. Regional Educacion Nicoya	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Omar Dengo Guerrero	0	01/02/2027	31/01/2032	25/11/26, 12:00 p. m.
 1563897	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Jose Joaquin Salas Perez	0	01/02/2027	31/01/2032	24/11/26, 1:30 p. m.
+1564798	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Religión	Liceo Exp. Bilingue San Ramon	14	01/02/2027	31/01/2028	25/11/26, 12:00 p. m.
 1564007	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Media (G. De E.)	Filosofía	Col. Concepcion Daniel Flores	6	01/02/2027	31/01/2028	24/11/26, 2:00 p. m.
 1559689	Direc. Regional Educacion Puntarenas	Bibliotecólogo De Centro Educativo 2	Sin Especialidad T-Ii	Liceo De Esparza	0	13/11/2026	05/03/2027	25/11/26, 8:00 a. m.
 1563505	Direc. Regional Educacion Puntarenas	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Carrizal	0	01/02/2027	31/01/2032	25/11/26, 8:00 a. m.
 1563519	Direc. Regional Educacion Puntarenas	Conserje De Centro Educativo	Sin Especialidad T-I	Flora Guevara Barahona	0	23/11/2026	31/01/2027	25/11/26, 8:00 a. m.
 1563530	Direc. Regional Educacion Puntarenas	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Fray Casiano De Madrid	0	01/02/2027	31/01/2032	25/11/26, 8:00 a. m.
-1563774	Direc. Regional Educacion San Carlos	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	San Martin (Quesada)	0	04/12/2026	30/04/2027	24/11/26, 12:00 p. m.
 1563794	Direc. Regional Educacion San Carlos	Asistente De Dirección Centro Educativo 1	Sin Especialidad T-Ii	Liceo Capitan Manuel Quiros	0	01/02/2027	31/01/2032	24/11/26, 12:30 p. m.
 1563796	Direc. Regional Educacion San Jose - Central	Oficinista De Servicio Civil 1 (G. De E.)	Labores Varias De Oficina	Liceo Ricardo Fernandez G.	0	24/11/2026	31/01/2027	24/11/26, 12:30 p. m.
 1558470	Direc. Regional Educacion San Jose - Norte	Director De Enseñanza General Básica 4 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Luis Demetrio Tinoco Castro	0	01/02/2027	31/01/2031	25/11/26, 8:00 a. m.
-1560015	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Roberto Cantillano Vindas	0	01/02/2027	31/01/2032	25/11/26, 11:30 a. m.
+1559996	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Betania	0	01/02/2027	31/01/2032	25/11/26, 12:00 p. m.
+1560006	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Esmeralda Oreamuno De Jimenez	0	01/02/2027	31/01/2032	25/11/26, 12:00 p. m.
 1560951	Direc. Regional Educacion San Jose - Norte	Conserje De Centro Educativo	Sin Especialidad T-I	America Central	0	18/11/2026	30/01/2027	25/11/26, 8:00 a. m.
 1562639	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Porfirio Brenes Castro	0	01/02/2027	01/11/2028	25/11/26, 10:30 a. m.
-1563296	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Dulce Nombre	0	01/02/2027	31/01/2032	25/11/26, 11:30 a. m.
 1563299	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Miguel Obregon Lizano	0	01/02/2027	31/01/2032	25/11/26, 8:00 a. m.
 1563302	Direc. Regional Educacion San Jose - Norte	Bibliotecólogo De Centro Educativo 1	Sin Especialidad T-Ii	Dulce Nombre	0	01/02/2027	31/01/2032	25/11/26, 8:00 a. m.
 1563306	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Preescolar (G.De E)	Inglés	J.N. Porfirio Brenes Castro	0	01/02/2027	31/01/2032	25/11/26, 8:00 a. m.
@@ -34,7 +35,6 @@
 1564015	Direc. Regional Educacion Sulá	Profesor De Enseñanza Media (G. De E.)	Filosofía	Cindea De Bribri	6	01/02/2027	31/01/2028	24/11/26, 2:00 p. m.
 1564040	Direc. Regional Educacion Sulá	Profesor De Enseñanza Media (G. De E.)	Filosofía	Cindea De Bribri	2	01/02/2027	31/01/2028	24/11/26, 2:30 p. m.
 1558963	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Para El Hogar	Liceo Colonia Puntarenas	3	01/02/2027	31/01/2028	25/11/26, 10:30 a. m.
-1560981	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Media (G. De E.)	Filosofía	Cindea Katira	2	01/02/2027	31/01/2028	25/11/26, 8:00 a. m.
 1562152	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Para El Hogar	Liceo San Jorge	3	01/02/2027	31/01/2028	25/11/26, 11:30 a. m.
 1562153	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática Educativa .Informática Para Iii Y Iv Ciclos	Liceo San Jorge	12	01/02/2027	31/01/2028	25/11/26, 11:30 a. m.
 1562534	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Media (G. De E.)	Filosofía	Liceo Dos Rios	3	01/02/2027	31/01/2028	25/11/26, 8:00 a. m.
@@ -43,3 +43,4 @@
 1563308	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	El Porvenir (San Jorge)	0	01/02/2027	31/01/2032	25/11/26, 8:00 a. m.
 1563478	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Media (G. De E.)	Francés	Liceo De Brasilia	6	01/02/2027	31/01/2028	25/11/26, 8:00 a. m.
 1563484	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Industriales	Liceo De Brasilia	9	01/02/2027	31/01/2028	25/11/26, 8:00 a. m.
+1563490	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática Educativa .Informática Para Iii Y Iv Ciclos	Liceo De Brasilia	36	01/02/2027	31/01/2028	25/11/26, 12:00 p. m.
