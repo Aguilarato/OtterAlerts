@@ -10,7 +10,6 @@
 1563833	Direc. Regional Educacion Los Santos	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Quebrada Seca (San Carlos)	0	01/02/2027	31/01/2032	24/11/26, 1:00 p. m.
 1554894	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Refrigeración Y Aire Acondicionado	C.T.P. De Corralillo	14	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1563992	Direc. Regional Educacion Nicoya	Asistente De Dirección Centro Educativo 1	Sin Especialidad T-Ii	Cindea Nandayure	0	01/02/2027	11/04/2027	24/11/26, 2:00 p. m.
-1557676	Direc. Regional Educacion Occidente	Conserje De Centro Educativo	Sin Especialidad T-I	Pablo Alvarado Vargas	0	01/02/2027	30/06/2027	24/11/26, 7:01 a. m.
 1561842	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Matemáticas	Inst. Sup. Julio Acosta G.	44	01/02/2027	30/06/2027	24/11/26, 9:00 a. m.
 1563897	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Religión	Jose Joaquin Salas Perez	0	01/02/2027	31/01/2032	24/11/26, 1:30 p. m.
 1564007	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Media (G. De E.)	Filosofía	Col. Concepcion Daniel Flores	6	01/02/2027	31/01/2028	24/11/26, 2:00 p. m.
