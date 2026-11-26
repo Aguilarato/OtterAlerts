@@ -23,6 +23,7 @@
 1563306	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza Preescolar (G.De E)	Inglés	J.N. Porfirio Brenes Castro	0	01/02/2027	31/01/2032	25/11/26, 8:00 a. m.
 1563414	Direc. Regional Educacion San Jose - Norte	Profesional De Servicio Civil 1 B (G.De E.)	Rehabilitación / Ocupacional	Asoc.Proayuda Enf.Ment.Ampref	0	01/02/2027	31/01/2032	25/11/26, 8:00 a. m.
 1563469	Direc. Regional Educacion San Jose - Norte	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Platanares	0	01/02/2027	31/01/2032	25/11/26, 8:00 a. m.
+1558963	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Para El Hogar	Liceo Colonia Puntarenas	3	01/02/2027	31/01/2028	26/11/26, 3:30 a. m.
 1562152	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Para El Hogar	Liceo San Jorge	3	01/02/2027	31/01/2028	25/11/26, 11:30 a. m.
 1562153	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática Educativa .Informática Para Iii Y Iv Ciclos	Liceo San Jorge	12	01/02/2027	31/01/2028	26/11/26, 3:00 a. m.
 1562534	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Media (G. De E.)	Filosofía	Liceo Dos Rios	3	01/02/2027	31/01/2028	25/11/26, 8:00 a. m.
@@ -32,4 +33,3 @@
 1563308	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Unidocente (I Y Ii Ciclos)	Sin Especialidad T-Ii	El Porvenir (San Jorge)	0	01/02/2027	31/01/2032	25/11/26, 8:00 a. m.
 1563478	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Media (G. De E.)	Francés	Liceo De Brasilia	6	01/02/2027	31/01/2028	25/11/26, 8:00 a. m.
 1563484	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Artes Industriales	Liceo De Brasilia	9	01/02/2027	31/01/2028	25/11/26, 8:00 a. m.
-1563490	Direc. Regional Educacion Zona Norte-Norte	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Informática Educativa .Informática Para Iii Y Iv Ciclos	Liceo De Brasilia	36	01/02/2027	31/01/2028	25/11/26, 10:30 p. m.
