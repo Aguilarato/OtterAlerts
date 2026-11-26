@@ -1,10 +1,9 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1550176	Direc. Regional Educacion Alajuela	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Ctp Santa Eulalia	0	01/12/2026	31/07/2030	26/11/26, 9:00 a. m.
 1554894	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Refrigeración Y Aire Acondicionado	C.T.P. De Corralillo	14	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
-1564031	Direc. Regional Educacion Nicoya	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Omar Dengo Guerrero	0	01/02/2027	31/01/2032	25/11/26, 12:00 p. m.
 1564623	Direc. Regional Educacion Nicoya	Cocinero	Sin Especialidad T-I	Serapio Lopez Fajardo (Nicoya)	0	01/02/2027	31/01/2032	26/11/26, 7:00 a. m.
 1563381	Direc. Regional Educacion Occidente	Profesor De Enseñanza General Básica 1 ( I Y Ii Ciclos) ( G. De E.)	Sin Especialidad T-Ii	Eulogio Salazar L.	0	01/02/2027	31/01/2031	26/11/26, 9:00 a. m.
-1564798	Direc. Regional Educacion Occidente	Profesor De Enseñanza Media (G. De E.)	Religión	Liceo Exp. Bilingue San Ramon	14	01/02/2027	31/01/2028	25/11/26, 12:00 p. m.
 1565130	Direc. Regional Educacion Occidente	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Otilio Ulate Blanco (Zarcero)	0	30/11/2026	31/01/2031	25/11/26, 3:30 p. m.
+1563724	Direc. Regional Educacion Perez Zeledon	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Para El Hogar	Liceo Platanillo De Baru	7	01/02/2027	31/01/2028	26/11/26, 12:00 p. m.
 1564381	Direc. Regional Educacion San Jose - Norte	Director De Enseñanza General Básica 4 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Franklin D. Roosevelt	0	01/02/2027	31/01/2032	26/11/26, 10:30 a. m.
 1565389	Direc. Regional Educacion San Jose - Norte	Conserje De Centro Educativo	Sin Especialidad T-I	Roberto Cantillano Vindas	0	26/11/2026	31/01/2027	26/11/26, 10:30 a. m.
