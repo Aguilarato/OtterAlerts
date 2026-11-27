@@ -7,5 +7,3 @@
 1554894	Direc. Regional Educacion Nicoya	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Refrigeración Y Aire Acondicionado	C.T.P. De Corralillo	14	01/02/2027	31/01/2028	16/11/26, 7:01 a. m.
 1565936	Direc. Regional Educacion Occidente	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Santa Margarita (Rosario)	0	02/12/2026	31/07/2030	27/11/26, 8:30 a. m.
 1565773	Direc. Regional Educacion San Jose - Central	Oficial De Seguridad De Servicio Civil 1	Sin Especialidad T-I	Marcelino Garcia Flamenco	0	26/11/2026	15/03/2027	26/11/26, 3:30 p. m.
-1564381	Direc. Regional Educacion San Jose - Norte	Director De Enseñanza General Básica 4 ( I Y Ii Ciclos)	Sin Especialidad T-Ii	Franklin D. Roosevelt	0	01/02/2027	31/01/2032	26/11/26, 10:30 a. m.
-1565389	Direc. Regional Educacion San Jose - Norte	Conserje De Centro Educativo	Sin Especialidad T-I	Roberto Cantillano Vindas	0	26/11/2026	31/01/2027	26/11/26, 10:30 a. m.
