@@ -1,6 +1,5 @@
 # vacante	regional	clasePuesto	especialidad	institucion	lecciones	rige	vence	detectada
 1566159	Direc. Regional Educacion Alajuela	Auxiliar De Vigilancia De Centro Educativo	Sin Especialidad T-I	Mons. Delfin Q Castro	0	01/12/2026	31/01/2031	27/11/26, 12:00 p. m.
-1565711	Direc. Regional Educacion Guapiles	Profesor De Enseñanza Preescolar (G.De E)	Sin Especialidad T-Ii	San Antonio (Roxana)	0	01/02/2027	31/12/2027	26/11/26, 2:30 p. m.
 1566191	Direc. Regional Educacion Guapiles	Profesional De Servicio Civil 1 B (G.De E.)	Equipos Interdisciplinarios / Psicología	Los Angeles (Cariari)	0	02/12/2026	31/07/2028	27/11/26, 1:00 p. m.
 1565741	Direc. Regional Educacion Heredia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Educación Para El Hogar	C.T.P. De Ulloa	44	01/02/2027	31/01/2028	26/11/26, 3:00 p. m.
 1565770	Direc. Regional Educacion Heredia	Profesor De Enseñanza Técnico Profesional (Iii Y Iv Ciclos, Enseñanza Especial Y Escuela Laboratorio) (G. De E.)	Refrigeración Y Aire Acondicionado	I.P.E.C. De Santo Domingo	44	01/02/2027	31/01/2028	26/11/26, 5:00 p. m.
